@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.15",
+  "version": "2026.10.02.16",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1281,6 +1281,30 @@
       "name": "Expedia",
       "category": "lodging",
       "url": "https://www.expedia.com.br/pt/",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "ifood",
+      "name": "iFood",
+      "category": "restaurants",
+      "url": "https://www.ifood.com.br/",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "rappi-restaurantes",
+      "name": "Rappi Restaurantes",
+      "category": "restaurants",
+      "url": "https://www.rappi.com.br/restaurantes",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "tripadvisor-restaurantes",
+      "name": "Tripadvisor Restaurantes",
+      "category": "restaurants",
+      "url": "https://www.tripadvisor.com.br/Restaurants",
       "active": false,
       "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
     }
