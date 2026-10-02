@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.12",
+  "version": "2026.10.02.13",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1161,6 +1161,50 @@
         "ilha-fiscal",
         "musal"
       ]
+    }
+  ],
+  "sponsorServices": [
+    {
+      "id": "uber",
+      "name": "Uber",
+      "category": "mobility",
+      "active": false,
+      "description": "Link disponível após ativação do patrocínio."
+    },
+    {
+      "id": "99",
+      "name": "99",
+      "category": "mobility",
+      "active": false,
+      "description": "Link disponível após ativação do patrocínio."
+    },
+    {
+      "id": "localiza",
+      "name": "Localiza",
+      "category": "car_rental",
+      "active": false,
+      "description": "Link disponível após ativação do patrocínio."
+    },
+    {
+      "id": "car-rental-partner-2",
+      "name": "Espaço para locadora parceira",
+      "category": "car_rental",
+      "active": false,
+      "description": "Espaço comercial disponível para patrocínio."
+    },
+    {
+      "id": "tourism-partner-1",
+      "name": "Espaço para empresa de turismo",
+      "category": "tourism",
+      "active": false,
+      "description": "Espaço comercial disponível para patrocínio."
+    },
+    {
+      "id": "tourism-partner-2",
+      "name": "Espaço para empresa de turismo",
+      "category": "tourism",
+      "active": false,
+      "description": "Espaço comercial disponível para patrocínio."
     }
   ]
 }
