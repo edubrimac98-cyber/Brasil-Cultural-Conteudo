@@ -1,0 +1,350 @@
+{
+  "version": "2026.10.02.4",
+  "places": [
+    {
+      "id": "forte-copacabana",
+      "name": "Museu Histórico do Exército e Forte de Copacabana",
+      "lat": -22.986331,
+      "lng": -43.188841,
+      "category": "Fortes e Fortalezas",
+      "org": "Exército",
+      "photoQuery": "Forte de Copacabana Rio de Janeiro museum",
+      "description": "Complexo histórico e museológico do Exército na orla de Copacabana, reunindo fortificação, exposições e acervos ligados à história militar brasileira.",
+      "address": "Praça Coronel Eugênio Franco, nº 1 - Posto 6, Copacabana, Rio de Janeiro - RJ",
+      "hours": "Segunda-feira fechado. Terça a domingo e feriados, em geral das 10h às 19h.",
+      "website": "https://www.mhexfc.eb.mil.br/",
+      "notes": "Funcionamento e valores podem sofrer alterações sazonais. Consulte o site oficial antes da visita."
+    },
+    {
+      "id": "mmcl",
+      "name": "Museu Militar Conde de Linhares",
+      "lat": -22.9049866,
+      "lng": -43.2192063,
+      "category": "Museus",
+      "org": "Exército / AHEx",
+      "photoQuery": "Museu Militar Conde de Linhares Rio de Janeiro",
+      "description": "Museu dedicado à história militar brasileira, com exposições permanentes sobre armamento, Força Expedicionária Brasileira, viaturas históricas, miniaturas e outros acervos.",
+      "address": "Av. Pedro II, 383 - São Cristóvão, Rio de Janeiro - RJ",
+      "hours": "Terça a domingo, inclusive feriados, das 10h às 17h.",
+      "website": "https://cadastro.museus.gov.br/museus/museu-militar-conde-de-linhares/",
+      "notes": "Entrada informada como gratuita no cadastro MuseusBr. No Brasil Cultural, o MMCL permanece cadastrado como vinculado ao Exército / AHEx. Consulte a fonte institucional antes da visita."
+    },
+    {
+      "id": "mnmsgm",
+      "name": "Monumento Nacional aos Mortos da Segunda Guerra Mundial",
+      "lat": -22.916377,
+      "lng": -43.173453,
+      "category": "Monumentos",
+      "org": "Exército",
+      "photoQuery": "Monumento Nacional aos Mortos da Segunda Guerra Mundial Rio de Janeiro",
+      "description": "Monumento dedicado à memória dos brasileiros mortos na Segunda Guerra Mundial, com mausoléu, espaços expositivos e referências à participação brasileira no conflito.",
+      "address": "Av. Infante Dom Henrique, 75 - Glória, Rio de Janeiro - RJ",
+      "hours": "Terça a domingo, das 9h às 17h.",
+      "website": "https://museuvirtualdafeb.eb.mil.br/monumentos-da-feb/monumento-nacional-aos-mortos-da-segunda-guerra-mundial/",
+      "notes": "Visitas mediadas para grupos podem exigir agendamento. Consulte os canais institucionais antes da visita."
+    },
+    {
+      "id": "fortaleza-santa-cruz",
+      "name": "Fortaleza de Santa Cruz da Barra",
+      "lat": -22.93802,
+      "lng": -43.13349,
+      "category": "Fortes e Fortalezas",
+      "org": "Exército",
+      "photoQuery": "Fortaleza de Santa Cruz da Barra Niteroi Rio de Janeiro",
+      "description": "Fortificação histórica na entrada da Baía de Guanabara, com origem no século XVI, acervo de canhões históricos, capela e ampla vista do Rio de Janeiro e de Niterói.",
+      "address": "Estrada Eurico Gaspar Dutra, s/nº - Jurujuba, Niterói - RJ",
+      "hours": "Terça a domingo, das 9h às 16h, com saídas de visitação em horários programados.",
+      "website": "https://visit.niteroi.br/fortaleza-de-santa-cruz-da-barra/",
+      "notes": "Horários podem sofrer alterações. Consulte a página oficial de turismo de Niterói ou os canais da Fortaleza antes da visita."
+    },
+    {
+      "id": "espaco-cultural-marinha",
+      "name": "Espaço Cultural da Marinha",
+      "lat": -22.9006482,
+      "lng": -43.1749177,
+      "category": "Centros Culturais",
+      "org": "Marinha",
+      "photoQuery": "Espaço Cultural da Marinha Rio de Janeiro",
+      "description": "Centro cultural da Marinha do Brasil instalado nas antigas Docas da Alfândega, com exposições e acesso a diferentes equipamentos e passeios culturais.",
+      "address": "Orla Conde (Boulevard Olímpico), s/n - Praça XV, Rio de Janeiro - RJ",
+      "hours": "Terça a domingo, das 11h às 17h, com último acesso regular às 16h30.",
+      "website": "https://www.marinha.mil.br/dphdm/espaco-cultural-da-marinha",
+      "notes": "Equipamentos e passeios podem ter funcionamento próprio ou sofrer alterações por clima, navegação ou manutenção. Consulte a página oficial."
+    },
+    {
+      "id": "museu-naval",
+      "name": "Museu Naval",
+      "lat": -22.90385,
+      "lng": -43.17325,
+      "category": "Museus",
+      "org": "Marinha",
+      "photoQuery": "Museu Naval Rio de Janeiro Brasil",
+      "description": "Museu da Marinha do Brasil com modelos navais, obras de arte, documentos e objetos históricos, incluindo exposição sobre o Poder Naval na formação do Brasil.",
+      "address": "Rua Dom Manuel, 15 - Praça XV, Centro, Rio de Janeiro - RJ",
+      "hours": "Visitação regular das 13h às 17h, conforme programação vigente da DPHDM.",
+      "website": "https://www.marinha.mil.br/dphdm/museu-naval",
+      "notes": "Entrada gratuita conforme página oficial consultada. Consulte eventuais alterações de funcionamento antes da visita."
+    },
+    {
+      "id": "ilha-fiscal",
+      "name": "Ilha Fiscal",
+      "lat": -22.896902,
+      "lng": -43.166404,
+      "category": "Sítios Históricos",
+      "org": "Marinha",
+      "photoQuery": "Ilha Fiscal Rio de Janeiro",
+      "description": "Conjunto histórico conhecido pelo castelo em estilo neogótico e por sua ligação com eventos do fim do Império, visitado em passeio organizado pela Marinha.",
+      "address": "Acesso e check-in pelo Espaço Cultural da Marinha, Orla Conde, s/n - Praça XV, Rio de Janeiro - RJ",
+      "hours": "Visitas regulares em horários programados; a programação oficial consultada inclui 12h45, 14h15 e 15h30.",
+      "website": "https://www.marinha.mil.br/dphdm/ilha-fiscal",
+      "notes": "O acesso é realizado pelo transporte disponibilizado pela Marinha a partir do Espaço Cultural da Marinha. Consulte disponibilidade e horários no dia da visita."
+    },
+    {
+      "id": "musal",
+      "name": "Museu Aeroespacial (MUSAL)",
+      "lat": -22.8822023,
+      "lng": -43.3888488,
+      "category": "Museus",
+      "org": "Força Aérea",
+      "photoQuery": "Museu Aeroespacial MUSAL Campo dos Afonsos Rio de Janeiro",
+      "description": "Museu Aeroespacial localizado no Campo dos Afonsos, dedicado à história da aviação e da Força Aérea Brasileira, com amplo acervo aeronáutico.",
+      "address": "Av. Marechal Fontenelle, 2000 - Campo dos Afonsos, Rio de Janeiro - RJ",
+      "hours": "Terça a domingo, das 9h às 16h, com fechamento dos portões às 15h30.",
+      "website": "https://www2.fab.mil.br/musal/index.php/planeje-sua-visita",
+      "notes": "Entrada e estacionamento informados como gratuitos pela página oficial. Consulte regras especiais em grandes eventos."
+    },
+    {
+      "id": "mac-niteroi",
+      "name": "Museu de Arte Contemporânea de Niterói (MAC)",
+      "lat": -22.907851,
+      "lng": -43.125899,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu de Arte Contemporânea de Niterói MAC"
+    },
+    {
+      "id": "caminho-niemeyer",
+      "name": "Caminho Niemeyer",
+      "lat": -22.8972,
+      "lng": -43.1246,
+      "category": "Arquitetura",
+      "org": "Civil",
+      "photoQuery": "Caminho Niemeyer Niteroi Rio de Janeiro"
+    },
+    {
+      "id": "museu-amanha",
+      "name": "Museu do Amanhã",
+      "lat": -22.8941054,
+      "lng": -43.1793809,
+      "category": "Ciência e Tecnologia",
+      "org": "Civil",
+      "photoQuery": "Museu do Amanhã Rio de Janeiro"
+    },
+    {
+      "id": "museu-historico-nacional",
+      "name": "Museu Histórico Nacional",
+      "lat": -22.9055161,
+      "lng": -43.1696377,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu Histórico Nacional Rio de Janeiro"
+    },
+    {
+      "id": "museu-republica",
+      "name": "Museu da República",
+      "lat": -22.926414,
+      "lng": -43.176508,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu da República Palácio do Catete Rio de Janeiro"
+    },
+    {
+      "id": "pao-acucar",
+      "name": "Parque Bondinho Pão de Açúcar",
+      "lat": -22.95508,
+      "lng": -43.15615,
+      "category": "Pontos Turísticos",
+      "org": "Civil",
+      "photoQuery": "Pão de Açúcar Rio de Janeiro bondinho"
+    },
+    {
+      "id": "cristo-redentor",
+      "name": "Cristo Redentor",
+      "lat": -22.951916,
+      "lng": -43.210487,
+      "category": "Monumentos",
+      "org": "Civil",
+      "photoQuery": "Cristo Redentor Rio de Janeiro"
+    },
+    {
+      "id": "real-gabinete",
+      "name": "Real Gabinete Português de Leitura",
+      "lat": -22.9052,
+      "lng": -43.18245,
+      "category": "Bibliotecas",
+      "org": "Civil",
+      "photoQuery": "Real Gabinete Português de Leitura Rio de Janeiro"
+    },
+    {
+      "id": "biblioteca-nacional",
+      "name": "Biblioteca Nacional",
+      "lat": -22.9109,
+      "lng": -43.1758,
+      "category": "Bibliotecas",
+      "org": "Civil",
+      "photoQuery": "Biblioteca Nacional Rio de Janeiro Brasil"
+    },
+    {
+      "id": "paco-imperial",
+      "name": "Paço Imperial",
+      "lat": -22.90365,
+      "lng": -43.17465,
+      "category": "Sítios Históricos",
+      "org": "Civil",
+      "photoQuery": "Paço Imperial Rio de Janeiro"
+    },
+    {
+      "id": "museu-arqueologia-itaipu",
+      "name": "Museu de Arqueologia de Itaipu",
+      "lat": -22.971325,
+      "lng": -43.04492,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu de Arqueologia de Itaipu Niteroi"
+    },
+    {
+      "id": "museu-janete-costa",
+      "name": "Museu Janete Costa de Arte Popular",
+      "lat": -22.903677,
+      "lng": -43.125027,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu Janete Costa de Arte Popular Niteroi"
+    },
+    {
+      "id": "ilha-boa-viagem",
+      "name": "Ilha da Boa Viagem",
+      "lat": -22.90787,
+      "lng": -43.12446,
+      "category": "Sítios Históricos",
+      "org": "Civil",
+      "photoQuery": "Ilha da Boa Viagem Niteroi"
+    },
+    {
+      "id": "mar",
+      "name": "Museu de Arte do Rio (MAR)",
+      "lat": -22.8962758,
+      "lng": -43.1809423,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu de Arte do Rio MAR Rio de Janeiro"
+    },
+    {
+      "id": "mast",
+      "name": "Museu de Astronomia e Ciências Afins (MAST)",
+      "lat": -22.8956945,
+      "lng": -43.2228286,
+      "category": "Ciência e Tecnologia",
+      "org": "Civil",
+      "photoQuery": "Museu de Astronomia e Ciências Afins MAST Rio de Janeiro"
+    },
+    {
+      "id": "museu-vida",
+      "name": "Museu da Vida Fiocruz",
+      "lat": -22.876019,
+      "lng": -43.242813,
+      "category": "Ciência e Tecnologia",
+      "org": "Civil",
+      "photoQuery": "Museu da Vida Fiocruz Rio de Janeiro"
+    },
+    {
+      "id": "chacara-ceu",
+      "name": "Museu da Chácara do Céu",
+      "lat": -22.9171437,
+      "lng": -43.1842385,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu da Chácara do Céu Rio de Janeiro"
+    },
+    {
+      "id": "museu-acude",
+      "name": "Museu do Açude",
+      "lat": -22.9645719,
+      "lng": -43.2820705,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu do Açude Rio de Janeiro"
+    },
+    {
+      "id": "ccbb-rio",
+      "name": "Centro Cultural Banco do Brasil - Rio de Janeiro",
+      "lat": -22.9009357,
+      "lng": -43.1763017,
+      "category": "Centros Culturais",
+      "org": "Civil",
+      "photoQuery": "Centro Cultural Banco do Brasil Rio de Janeiro"
+    },
+    {
+      "id": "planetario-rio",
+      "name": "Planetário do Rio",
+      "lat": -22.978183,
+      "lng": -43.230288,
+      "category": "Ciência e Tecnologia",
+      "org": "Civil",
+      "photoQuery": "Planetário do Rio Gávea Rio de Janeiro"
+    }
+  ],
+  "routes": [
+    {
+      "id": "niteroi-arte-arquitetura-historia",
+      "title": "Niterói: Arte, Arquitetura e História",
+      "stopIds": [
+        "mac-niteroi",
+        "caminho-niemeyer",
+        "ilha-boa-viagem"
+      ]
+    },
+    {
+      "id": "centro-historico-rio",
+      "title": "Centro Histórico do Rio",
+      "stopIds": [
+        "paco-imperial",
+        "ccbb-rio",
+        "biblioteca-nacional",
+        "real-gabinete"
+      ]
+    },
+    {
+      "id": "memoria-militar-segunda-guerra",
+      "title": "Memória Militar e Segunda Guerra",
+      "stopIds": [
+        "mmcl",
+        "mnmsgm",
+        "forte-copacabana"
+      ]
+    },
+    {
+      "id": "porto-arte-mar-ciencia",
+      "title": "Porto: Arte, Mar e Ciência",
+      "stopIds": [
+        "mar",
+        "museu-amanha",
+        "espaco-cultural-marinha"
+      ]
+    },
+    {
+      "id": "turistico-historico-defesa",
+      "title": "Roteiro Turístico Histórico de Defesa",
+      "stopIds": [
+        "fortaleza-santa-cruz",
+        "mmcl",
+        "mnmsgm",
+        "forte-copacabana",
+        "espaco-cultural-marinha",
+        "museu-naval",
+        "ilha-fiscal",
+        "musal"
+      ]
+    }
+  ]
+}
