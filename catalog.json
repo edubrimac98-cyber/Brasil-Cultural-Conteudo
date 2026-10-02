@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.14",
+  "version": "2026.10.02.15",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1241,6 +1241,46 @@
       "name": "Smiles Viagens",
       "category": "tourism",
       "url": "https://www.smilesviagens.com.br/",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "booking",
+      "name": "Booking.com",
+      "category": "lodging",
+      "url": "https://www.booking.com/index.pt-br.html",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "hoteis-com",
+      "name": "Hoteis.com",
+      "category": "lodging",
+      "url": "https://www.hoteis.com/",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "category": "lodging",
+      "url": "https://www.airbnb.com.br/",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "hostelworld",
+      "name": "Hostelworld",
+      "category": "lodging",
+      "url": "https://www.hostelworld.com/br/",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "expedia",
+      "name": "Expedia",
+      "category": "lodging",
+      "url": "https://www.expedia.com.br/pt/",
       "active": false,
       "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
     }
