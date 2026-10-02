@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "build": 2,
+  "version": "1.2.0",
+  "build": 3,
   "updateUrl": "",
-  "notes": "Versão de evolução do Brasil Cultural com Central de Atualizações, catálogo remoto com cache offline e Roteiro Turístico Histórico de Defesa."
+  "notes": "Atualização com mapa cultural nacional aprimorado, busca por espaços, agrupamento de marcadores, filtros por Região e UF e melhorias visuais nos roteiros culturais."
 }
