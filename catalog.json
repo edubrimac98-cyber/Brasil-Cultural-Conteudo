@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.5",
+  "version": "2026.10.02.6",
   "places": [
     {
       "id": "forte-copacabana",
@@ -176,7 +176,12 @@
       "lng": -43.176508,
       "category": "Museus",
       "org": "Civil",
-      "photoQuery": "Museu da República Palácio do Catete Rio de Janeiro"
+      "photoQuery": "Museu da República Palácio do Catete Rio de Janeiro",
+      "description": "Museu instalado no Palácio do Catete, antiga sede da Presidência da República, dedicado à história política e social do período republicano brasileiro.",
+      "address": "Rua do Catete, 153 - Catete, Rio de Janeiro - RJ",
+      "hours": "Museu: quarta a domingo, das 11h às 17h. Jardim: diariamente, das 8h às 18h.",
+      "website": "https://www.gov.br/museus/pt-br/museus-ibram/museu-da-republica",
+      "notes": "Visitação gratuita conforme informação atual do Ibram. Consulte alterações antes da visita."
     },
     {
       "id": "pao-acucar",
@@ -185,7 +190,12 @@
       "lng": -43.15615,
       "category": "Pontos Turísticos",
       "org": "Civil",
-      "photoQuery": "Pão de Açúcar Rio de Janeiro bondinho"
+      "photoQuery": "Pão de Açúcar Rio de Janeiro bondinho",
+      "description": "Parque turístico ligado por teleféricos entre a Praia Vermelha, o Morro da Urca e o Pão de Açúcar, reunindo mirantes, natureza, cultura e experiências ao ar livre.",
+      "address": "Av. Pasteur, 520 - Urca, Rio de Janeiro - RJ",
+      "hours": "Funcionamento informado pelo canal oficial: diariamente, das 8h30 às 21h, com último embarque às 19h30.",
+      "website": "https://www.bondinho.com.br/",
+      "notes": "Horários podem mudar por operação, clima ou programação. Consulte o site oficial no dia da visita."
     },
     {
       "id": "cristo-redentor",
@@ -194,7 +204,12 @@
       "lng": -43.210487,
       "category": "Monumentos",
       "org": "Civil",
-      "photoQuery": "Cristo Redentor Rio de Janeiro"
+      "photoQuery": "Cristo Redentor Rio de Janeiro",
+      "description": "Monumento no alto do Morro do Corcovado, dentro do Parque Nacional da Tijuca, um dos principais símbolos culturais e turísticos do Brasil.",
+      "address": "Acesso ferroviário pelo Trem do Corcovado: Rua Cosme Velho, 513 - Cosme Velho, Rio de Janeiro - RJ",
+      "hours": "Trem do Corcovado: diariamente, das 8h às 18h, com saídas regulares. Horários extras podem existir conforme a grade de vendas.",
+      "website": "https://www.tremdocorcovado.rio/institucional/informacoes-uteis",
+      "notes": "O acesso ao monumento pode sofrer ajustes por obras, clima ou operação. Consulte o canal oficial antes da visita."
     },
     {
       "id": "real-gabinete",
@@ -245,7 +260,12 @@
       "lng": -43.04492,
       "category": "Museus",
       "org": "Civil",
-      "photoQuery": "Museu de Arqueologia de Itaipu Niteroi"
+      "photoQuery": "Museu de Arqueologia de Itaipu Niteroi",
+      "description": "Museu instalado nos remanescentes do Recolhimento de Santa Teresa, com acervo arqueológico, antropológico e etnográfico relacionado ao litoral fluminense.",
+      "address": "Praça de Itaipu, s/nº - Itaipu, Niterói - RJ",
+      "hours": "Terça a sexta, das 10h às 17h. Sábado, das 10h às 12h.",
+      "website": "https://www.gov.br/museus/pt-br/museus-ibram/museu-de-arqueologia-de-itaipu",
+      "notes": "Visitação gratuita conforme informação atual do Ibram. Visitas mediadas exigem agendamento."
     },
     {
       "id": "museu-janete-costa",
@@ -254,7 +274,12 @@
       "lng": -43.125027,
       "category": "Museus",
       "org": "Civil",
-      "photoQuery": "Museu Janete Costa de Arte Popular Niteroi"
+      "photoQuery": "Museu Janete Costa de Arte Popular Niteroi",
+      "description": "Museu dedicado à arte popular brasileira, instalado em sobrados históricos do Ingá e voltado à valorização e divulgação da cultura popular.",
+      "address": "Rua Presidente Domiciano, 178 - Ingá, Niterói - RJ",
+      "hours": "Terça a domingo, das 10h às 18h.",
+      "website": "https://visit.niteroi.br/museu-janete-costa-2/",
+      "notes": "Entrada gratuita conforme informação oficial de turismo de Niterói."
     },
     {
       "id": "ilha-boa-viagem",
@@ -263,7 +288,12 @@
       "lng": -43.12446,
       "category": "Sítios Históricos",
       "org": "Civil",
-      "photoQuery": "Ilha da Boa Viagem Niteroi"
+      "photoQuery": "Ilha da Boa Viagem Niteroi",
+      "description": "Conjunto histórico e paisagístico na Baía de Guanabara, com usos religiosos, militares e culturais ao longo dos séculos.",
+      "address": "Praia da Boa Viagem, s/nº - Boa Viagem, Niterói - RJ",
+      "hours": "Sábados e domingos, das 10h às 17h. Visitação livre e gratuita, sujeita a condições de segurança e clima.",
+      "website": "https://visit.niteroi.br/ilha-da-boa-viagem/",
+      "notes": "O acesso pode ser cancelado em caso de chuva no dia ou no dia anterior. Há visitas monitoradas gratuitas em horários específicos."
     },
     {
       "id": "mar",
@@ -286,7 +316,12 @@
       "lng": -43.2228286,
       "category": "Ciência e Tecnologia",
       "org": "Civil",
-      "photoQuery": "Museu de Astronomia e Ciências Afins MAST Rio de Janeiro"
+      "photoQuery": "Museu de Astronomia e Ciências Afins MAST Rio de Janeiro",
+      "description": "Museu de ciência e patrimônio dedicado à história da astronomia, das ciências e da tecnologia, instalado no antigo campus do Observatório Nacional.",
+      "address": "Rua General Bruce, 586 - Imperial de São Cristóvão, Rio de Janeiro - RJ",
+      "hours": "Terça a sexta, das 9h às 16h30. Sábados e feriados, das 14h às 17h30. Consulte a programação para atividades especiais e domingos.",
+      "website": "https://www.gov.br/mast/pt-br",
+      "notes": "Visitação das exposições é gratuita. Horários de atividades específicas podem variar."
     },
     {
       "id": "museu-vida",
@@ -295,7 +330,12 @@
       "lng": -43.242813,
       "category": "Ciência e Tecnologia",
       "org": "Civil",
-      "photoQuery": "Museu da Vida Fiocruz Rio de Janeiro"
+      "photoQuery": "Museu da Vida Fiocruz Rio de Janeiro",
+      "description": "Museu de ciência da Fiocruz que integra saúde, ciência, cultura, educação e entretenimento em exposições e atividades para diferentes públicos.",
+      "address": "Av. Brasil, 4365 - Manguinhos, Rio de Janeiro - RJ",
+      "hours": "Terça a sexta, das 9h às 16h30. Sábados, das 10h às 16h.",
+      "website": "https://www.museudavida.fiocruz.br/index.php/pt-br/planeje-sua-visita",
+      "notes": "Atividades e estacionamento são informados como gratuitos. É necessário apresentar documento com foto na entrada da Fiocruz."
     },
     {
       "id": "chacara-ceu",
@@ -304,7 +344,12 @@
       "lng": -43.1842385,
       "category": "Museus",
       "org": "Civil",
-      "photoQuery": "Museu da Chácara do Céu Rio de Janeiro"
+      "photoQuery": "Museu da Chácara do Céu Rio de Janeiro",
+      "description": "Museu dos Museus Castro Maya em Santa Teresa, com coleção de arte brasileira, europeia e oriental, além de arquitetura e paisagismo integrados.",
+      "address": "Rua Murtinho Nobre, 93 - Santa Teresa, Rio de Janeiro - RJ",
+      "hours": "Aberto das 10h às 16h30, exceto às terças, domingos e feriados.",
+      "website": "https://www.gov.br/museus/pt-br/museus-ibram/museus-castro-maya",
+      "notes": "Visitação gratuita conforme informação atual do Ibram. Fecha também em períodos específicos como Carnaval, Natal e Ano Novo."
     },
     {
       "id": "museu-acude",
@@ -313,7 +358,12 @@
       "lng": -43.2820705,
       "category": "Museus",
       "org": "Civil",
-      "photoQuery": "Museu do Açude Rio de Janeiro"
+      "photoQuery": "Museu do Açude Rio de Janeiro",
+      "description": "Sede dos Museus Castro Maya no Alto da Boa Vista, em área de Mata Atlântica, reunindo patrimônio artístico, arquitetônico e paisagístico.",
+      "address": "Estrada do Açude, 764 - Alto da Boa Vista, Rio de Janeiro - RJ",
+      "hours": "Museu informado como temporariamente fechado para manutenção. Jardins: diariamente, das 9h às 17h.",
+      "website": "https://www.gov.br/museus/pt-br/museus-ibram/museus-castro-maya",
+      "notes": "A situação de abertura das áreas internas pode mudar. Consulte o Ibram antes de planejar a visita."
     },
     {
       "id": "ccbb-rio",
@@ -322,7 +372,12 @@
       "lng": -43.1763017,
       "category": "Centros Culturais",
       "org": "Civil",
-      "photoQuery": "Centro Cultural Banco do Brasil Rio de Janeiro"
+      "photoQuery": "Centro Cultural Banco do Brasil Rio de Janeiro",
+      "description": "Centro cultural instalado em edifício histórico do Centro do Rio, com exposições, cinema, teatro, música, biblioteca, arquivo histórico e Museu Banco do Brasil.",
+      "address": "Rua Primeiro de Março, 66 - Centro, Rio de Janeiro - RJ",
+      "hours": "Quarta a segunda, das 9h às 20h. Fechado às terças.",
+      "website": "https://ccbb.com.br/rio-de-janeiro/",
+      "notes": "A entrada no prédio e nas exposições é informada como gratuita, embora atividades específicas possam exigir ingresso ou reserva."
     },
     {
       "id": "planetario-rio",
@@ -331,7 +386,12 @@
       "lng": -43.230288,
       "category": "Ciência e Tecnologia",
       "org": "Civil",
-      "photoQuery": "Planetário do Rio Gávea Rio de Janeiro"
+      "photoQuery": "Planetário do Rio Gávea Rio de Janeiro",
+      "description": "Instituição pública dedicada à astronomia e à divulgação científica, com Museu do Universo, cúpulas de projeção, espaços educativos e observação do céu.",
+      "address": "Rua Vice-Governador Rubens Berardo, 100 - Gávea, Rio de Janeiro - RJ",
+      "hours": "Segunda fechado. Terças, quintas e sextas, das 9h às 17h. Quarta, das 9h às 20h. Sábados e domingos, das 10h às 17h.",
+      "website": "https://planetario.prefeitura.rio/visitacao/",
+      "notes": "Sessões de cúpula e atividades podem ter programação própria. Consulte horários e ingressos antes da visita."
     }
   ],
   "routes": [
