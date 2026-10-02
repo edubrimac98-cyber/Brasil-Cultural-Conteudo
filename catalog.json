@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.11",
+  "version": "2026.10.02.12",
   "places": [
     {
       "id": "forte-copacabana",
@@ -116,7 +116,10 @@
           "09:00-17:00"
         ]
       },
-      "utcOffsetMinutes": -180
+      "utcOffsetMinutes": -180,
+      "requiresBooking": true,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": true
     },
     {
       "id": "fortaleza-santa-cruz",
@@ -155,7 +158,10 @@
           "09:00-16:00"
         ]
       },
-      "utcOffsetMinutes": -180
+      "utcOffsetMinutes": -180,
+      "requiresBooking": true,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": true
     },
     {
       "id": "espaco-cultural-marinha",
@@ -426,7 +432,11 @@
           "10:00-18:00"
         ]
       },
-      "utcOffsetMinutes": -180
+      "utcOffsetMinutes": -180,
+      "requiresBooking": true,
+      "bookingUrl": "https://museudoamanha.org.br/visite/programe-sua-visita",
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": false
     },
     {
       "id": "museu-historico-nacional",
@@ -541,7 +551,11 @@
           "08:30-21:00"
         ]
       },
-      "utcOffsetMinutes": -180
+      "utcOffsetMinutes": -180,
+      "requiresBooking": true,
+      "bookingUrl": "https://www.bondinho.com.br/pt/comprar-ingresso?ingresso=bondinho",
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": false
     },
     {
       "id": "cristo-redentor",
@@ -582,7 +596,11 @@
           "08:00-18:00"
         ]
       },
-      "utcOffsetMinutes": -180
+      "utcOffsetMinutes": -180,
+      "requiresBooking": true,
+      "bookingUrl": "https://tremdocorcovado.rio/ingressos",
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": false
     },
     {
       "id": "real-gabinete",
@@ -656,7 +674,10 @@
         "6": [],
         "7": []
       },
-      "utcOffsetMinutes": -180
+      "utcOffsetMinutes": -180,
+      "requiresBooking": true,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": true
     },
     {
       "id": "paco-imperial",
@@ -732,7 +753,10 @@
         ],
         "7": []
       },
-      "utcOffsetMinutes": -180
+      "utcOffsetMinutes": -180,
+      "requiresBooking": true,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": true
     },
     {
       "id": "museu-janete-costa",
