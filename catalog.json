@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.10",
+  "version": "2026.10.02.11",
   "places": [
     {
       "id": "forte-copacabana",
@@ -974,14 +974,38 @@
       "photoQuery": "Museu do Açude Rio de Janeiro",
       "description": "Sede dos Museus Castro Maya no Alto da Boa Vista, em área de Mata Atlântica, reunindo patrimônio artístico, arquitetônico e paisagístico.",
       "address": "Estrada do Açude, 764 - Alto da Boa Vista, Rio de Janeiro - RJ",
-      "hours": "O Ibram informa o museu temporariamente fechado para manutenção. Jardins: 9h às 17h. Consulte a situação atual antes de sair.",
+      "hours": "Museu temporariamente fechado para manutenção. Jardins abertos das 9h às 17h. Exposições internas abertas das 11h às 17h, exceto às terças-feiras, conforme informação oficial vigente.",
       "website": "https://www.gov.br/museus/pt-br/museus-ibram/museus-castro-maya",
       "notes": "A situação de abertura das áreas internas pode mudar. Consulte o Ibram antes de planejar a visita.",
       "state": "RJ",
       "region": "Sudeste",
       "admission": "Visitação gratuita.",
-      "weeklyHours": {},
-      "utcOffsetMinutes": -180
+      "weeklyHours": {
+        "1": [
+          "09:00-17:00"
+        ],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "09:00-17:00"
+        ],
+        "7": [
+          "09:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "operationalStatus": "partial",
+      "statusMessage": "Funcionamento parcial: o museu está temporariamente fechado para manutenção, mas os jardins permanecem abertos. Consulte as informações atualizadas antes da visita."
     },
     {
       "id": "ccbb-rio",
