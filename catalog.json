@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.8",
+  "version": "2026.10.02.9",
   "places": [
     {
       "id": "forte-copacabana",
@@ -11,11 +11,34 @@
       "photoQuery": "Forte de Copacabana Rio de Janeiro museum",
       "description": "Complexo histórico e museológico do Exército na orla de Copacabana, reunindo fortificação, exposições e acervos ligados à história militar brasileira.",
       "address": "Praça Coronel Eugênio Franco, nº 1 - Posto 6, Copacabana, Rio de Janeiro - RJ",
-      "hours": "Segunda-feira fechado. Terça a domingo e feriados, em geral das 10h às 19h.",
+      "hours": "Terça a domingo e feriados, das 10h às 19h. Segunda-feira: fechado para manutenção.",
       "website": "https://www.mhexfc.eb.mil.br/",
       "notes": "Funcionamento e valores podem sofrer alterações sazonais. Consulte o site oficial antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Inteira R$ 10,00 • Meia R$ 5,00 • gratuidades legais. Terças-feiras: gratuidade nas condições divulgadas pelo Museu; confirme antes da visita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-19:00"
+        ],
+        "3": [
+          "10:00-19:00"
+        ],
+        "4": [
+          "10:00-19:00"
+        ],
+        "5": [
+          "10:00-19:00"
+        ],
+        "6": [
+          "10:00-19:00"
+        ],
+        "7": [
+          "10:00-19:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "mmcl",
@@ -27,11 +50,34 @@
       "photoQuery": "Museu Militar Conde de Linhares Rio de Janeiro",
       "description": "Museu dedicado à história militar brasileira, com exposições permanentes sobre armamento, Força Expedicionária Brasileira, viaturas históricas, miniaturas e outros acervos.",
       "address": "Av. Pedro II, 383 - São Cristóvão, Rio de Janeiro - RJ",
-      "hours": "Terça a domingo, inclusive feriados, das 10h às 17h.",
+      "hours": "Terça a domingo, inclusive feriados, das 10h às 17h. Aos sábados, 9h às 10h, há horário especial de visitação nas condições informadas pelo museu.",
       "website": "https://cadastro.museus.gov.br/museus/museu-militar-conde-de-linhares/",
       "notes": "Entrada informada como gratuita no cadastro MuseusBr. No Brasil Cultural, o MMCL permanece cadastrado como vinculado ao Exército / AHEx. Consulte a fonte institucional antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [
+          "10:00-17:00"
+        ],
+        "7": [
+          "10:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "mnmsgm",
@@ -43,11 +89,34 @@
       "photoQuery": "Monumento Nacional aos Mortos da Segunda Guerra Mundial Rio de Janeiro",
       "description": "Monumento dedicado à memória dos brasileiros mortos na Segunda Guerra Mundial, com mausoléu, espaços expositivos e referências à participação brasileira no conflito.",
       "address": "Av. Infante Dom Henrique, 75 - Glória, Rio de Janeiro - RJ",
-      "hours": "Terça a domingo, das 9h às 17h.",
+      "hours": "Terça a domingo, das 9h às 17h. Visitas mediadas para grupos mediante agendamento.",
       "website": "https://museuvirtualdafeb.eb.mil.br/monumentos-da-feb/monumento-nacional-aos-mortos-da-segunda-guerra-mundial/",
       "notes": "Visitas mediadas para grupos podem exigir agendamento. Consulte os canais institucionais antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Consultar a unidade: a fonte oficial consultada informa horário e agendamento, mas não publica valor de ingresso.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "09:00-17:00"
+        ],
+        "7": [
+          "09:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "fortaleza-santa-cruz",
@@ -59,11 +128,34 @@
       "photoQuery": "Fortaleza de Santa Cruz da Barra Niteroi Rio de Janeiro",
       "description": "Fortificação histórica na entrada da Baía de Guanabara, com origem no século XVI, acervo de canhões históricos, capela e ampla vista do Rio de Janeiro e de Niterói.",
       "address": "Estrada Eurico Gaspar Dutra, s/nº - Jurujuba, Niterói - RJ",
-      "hours": "Terça a domingo, das 9h às 16h, com saídas de visitação em horários programados.",
+      "hours": "Terça a domingo, das 9h às 16h, com saídas de visitação em horários definidos pela unidade. Visitas em grupo devem ser agendadas.",
       "website": "https://visit.niteroi.br/fortaleza-de-santa-cruz-da-barra/",
       "notes": "Horários podem sofrer alterações. Consulte a página oficial de turismo de Niterói ou os canais da Fortaleza antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Inteira R$ 10,00 • Meia R$ 5,00 • isenções para públicos previstos pela unidade.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-16:00"
+        ],
+        "3": [
+          "09:00-16:00"
+        ],
+        "4": [
+          "09:00-16:00"
+        ],
+        "5": [
+          "09:00-16:00"
+        ],
+        "6": [
+          "09:00-16:00"
+        ],
+        "7": [
+          "09:00-16:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "espaco-cultural-marinha",
@@ -75,11 +167,34 @@
       "photoQuery": "Espaço Cultural da Marinha Rio de Janeiro",
       "description": "Centro cultural da Marinha do Brasil instalado nas antigas Docas da Alfândega, com exposições e acesso a diferentes equipamentos e passeios culturais.",
       "address": "Orla Conde (Boulevard Olímpico), s/n - Praça XV, Rio de Janeiro - RJ",
-      "hours": "Terça a domingo, das 11h às 17h, com último acesso regular às 16h30.",
+      "hours": "Terça a domingo e feriados, das 11h às 17h; último acesso às 16h30. Horários podem sofrer alterações operacionais.",
       "website": "https://www.marinha.mil.br/dphdm/espaco-cultural-da-marinha",
       "notes": "Equipamentos e passeios podem ter funcionamento próprio ou sofrer alterações por clima, navegação ou manutenção. Consulte a página oficial.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Inteira R$ 20,00 • Meia R$ 10,00 • escola pública em turma R$ 8,00. Terças-feiras: entrada gratuita, exceto quando feriado.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "11:00-17:00"
+        ],
+        "3": [
+          "11:00-17:00"
+        ],
+        "4": [
+          "11:00-17:00"
+        ],
+        "5": [
+          "11:00-17:00"
+        ],
+        "6": [
+          "11:00-17:00"
+        ],
+        "7": [
+          "11:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "museu-naval",
@@ -91,11 +206,34 @@
       "photoQuery": "Museu Naval Rio de Janeiro Brasil",
       "description": "Museu da Marinha do Brasil com modelos navais, obras de arte, documentos e objetos históricos, incluindo exposição sobre o Poder Naval na formação do Brasil.",
       "address": "Rua Dom Manuel, 15 - Praça XV, Centro, Rio de Janeiro - RJ",
-      "hours": "Visitação regular das 13h às 17h, conforme programação vigente da DPHDM.",
+      "hours": "Terça a domingo e feriados, das 13h às 17h; último acesso às 16h30. Há datas específicas de fechamento divulgadas pela Marinha.",
       "website": "https://www.marinha.mil.br/dphdm/museu-naval",
       "notes": "Entrada gratuita conforme página oficial consultada. Consulte eventuais alterações de funcionamento antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "13:00-17:00"
+        ],
+        "3": [
+          "13:00-17:00"
+        ],
+        "4": [
+          "13:00-17:00"
+        ],
+        "5": [
+          "13:00-17:00"
+        ],
+        "6": [
+          "13:00-17:00"
+        ],
+        "7": [
+          "13:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "ilha-fiscal",
@@ -107,11 +245,30 @@
       "photoQuery": "Ilha Fiscal Rio de Janeiro",
       "description": "Conjunto histórico conhecido pelo castelo em estilo neogótico e por sua ligação com eventos do fim do Império, visitado em passeio organizado pela Marinha.",
       "address": "Acesso e check-in pelo Espaço Cultural da Marinha, Orla Conde, s/n - Praça XV, Rio de Janeiro - RJ",
-      "hours": "Visitas regulares em horários programados; a programação oficial consultada inclui 12h45, 14h15 e 15h30.",
+      "hours": "Visitação regular de quinta a domingo e feriados, com saídas às 12h45, 14h15 e 15h30. O acesso é feito a partir do Espaço Cultural da Marinha e depende de operação/condições.",
       "website": "https://www.marinha.mil.br/dphdm/ilha-fiscal",
       "notes": "O acesso é realizado pelo transporte disponibilizado pela Marinha a partir do Espaço Cultural da Marinha. Consulte disponibilidade e horários no dia da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Visita guiada: inteira R$ 60,00 • meia R$ 30,00. Combo promocional divulgado: R$ 100,00 na inteira, conforme condições da Marinha.",
+      "weeklyHours": {
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          "12:45-17:15"
+        ],
+        "5": [
+          "12:45-17:15"
+        ],
+        "6": [
+          "12:45-17:15"
+        ],
+        "7": [
+          "12:45-17:15"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "musal",
@@ -123,11 +280,34 @@
       "photoQuery": "Museu Aeroespacial MUSAL Campo dos Afonsos Rio de Janeiro",
       "description": "Museu Aeroespacial localizado no Campo dos Afonsos, dedicado à história da aviação e da Força Aérea Brasileira, com amplo acervo aeronáutico.",
       "address": "Av. Marechal Fontenelle, 2000 - Campo dos Afonsos, Rio de Janeiro - RJ",
-      "hours": "Terça a domingo, das 9h às 16h, com fechamento dos portões às 15h30.",
+      "hours": "Terça a domingo, das 9h às 16h. Fechamento dos portões às 15h30. Segunda-feira: fechado.",
       "website": "https://www2.fab.mil.br/musal/index.php/planeje-sua-visita",
       "notes": "Entrada e estacionamento informados como gratuitos pela página oficial. Consulte regras especiais em grandes eventos.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Entrada e estacionamento gratuitos.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-16:00"
+        ],
+        "3": [
+          "09:00-16:00"
+        ],
+        "4": [
+          "09:00-16:00"
+        ],
+        "5": [
+          "09:00-16:00"
+        ],
+        "6": [
+          "09:00-16:00"
+        ],
+        "7": [
+          "09:00-16:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "mac-niteroi",
