@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "build": 3,
+  "version": "1.2.1",
+  "build": 4,
   "updateUrl": "",
-  "notes": "Atualização com mapa cultural nacional aprimorado, busca por espaços, agrupamento de marcadores, filtros por Região e UF e melhorias visuais nos roteiros culturais."
+  "notes": "Correção do canal de atualizações remotas, com URLs públicas padrão e retorno visível ao atualizar o conteúdo cultural."
 }
