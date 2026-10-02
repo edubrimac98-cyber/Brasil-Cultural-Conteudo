@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.13",
+  "version": "2026.10.02.14",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1168,43 +1168,81 @@
       "id": "uber",
       "name": "Uber",
       "category": "mobility",
+      "url": "https://www.uber.com/br/pt-br/ride/",
       "active": false,
-      "description": "Link disponível após ativação do patrocínio."
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
     },
     {
       "id": "99",
       "name": "99",
       "category": "mobility",
+      "url": "https://99app.com/",
       "active": false,
-      "description": "Link disponível após ativação do patrocínio."
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "indrive",
+      "name": "inDrive",
+      "category": "mobility",
+      "url": "https://indrive.com/pt-br",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
     },
     {
       "id": "localiza",
       "name": "Localiza",
       "category": "car_rental",
+      "url": "https://www.localiza.com/brasil/pt-br",
       "active": false,
-      "description": "Link disponível após ativação do patrocínio."
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
     },
     {
-      "id": "car-rental-partner-2",
-      "name": "Espaço para locadora parceira",
+      "id": "movida",
+      "name": "Movida",
       "category": "car_rental",
+      "url": "https://www.movida.com.br/",
       "active": false,
-      "description": "Espaço comercial disponível para patrocínio."
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
     },
     {
-      "id": "tourism-partner-1",
-      "name": "Espaço para empresa de turismo",
-      "category": "tourism",
+      "id": "unidas",
+      "name": "Unidas",
+      "category": "car_rental",
+      "url": "https://www.unidas.com.br/aluguel-de-carros/",
       "active": false,
-      "description": "Espaço comercial disponível para patrocínio."
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
     },
     {
-      "id": "tourism-partner-2",
-      "name": "Espaço para empresa de turismo",
+      "id": "cvc",
+      "name": "CVC",
       "category": "tourism",
+      "url": "https://www.cvc.com.br/",
       "active": false,
-      "description": "Espaço comercial disponível para patrocínio."
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "decolar",
+      "name": "Decolar",
+      "category": "tourism",
+      "url": "https://www.decolar.com/",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "azul-viagens",
+      "name": "Azul Viagens",
+      "category": "tourism",
+      "url": "https://www.azulviagens.com.br/",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "smiles-viagens",
+      "name": "Smiles Viagens",
+      "category": "tourism",
+      "url": "https://www.smilesviagens.com.br/",
+      "active": false,
+      "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
     }
   ]
 }
