@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.4",
+  "version": "2026.10.02.5",
   "places": [
     {
       "id": "forte-copacabana",
@@ -120,7 +120,12 @@
       "lng": -43.125899,
       "category": "Museus",
       "org": "Civil",
-      "photoQuery": "Museu de Arte Contemporânea de Niterói MAC"
+      "photoQuery": "Museu de Arte Contemporânea de Niterói MAC",
+      "description": "Museu projetado por Oscar Niemeyer e um dos principais símbolos arquitetônicos de Niterói, com exposições de arte contemporânea e vista para a Baía de Guanabara.",
+      "address": "Mirante da Boa Viagem, s/nº - Boa Viagem, Niterói - RJ",
+      "hours": "Funcionamento informado pelo turismo oficial de Niterói: diariamente, das 9h às 17h.",
+      "website": "https://visit.niteroi.br/",
+      "notes": "Consulte a programação e eventuais alterações de visitação antes de sair."
     },
     {
       "id": "caminho-niemeyer",
@@ -129,7 +134,12 @@
       "lng": -43.1246,
       "category": "Arquitetura",
       "org": "Civil",
-      "photoQuery": "Caminho Niemeyer Niteroi Rio de Janeiro"
+      "photoQuery": "Caminho Niemeyer Niteroi Rio de Janeiro",
+      "description": "Complexo arquitetônico à beira-mar com obras de Oscar Niemeyer dedicadas à arte, cultura, memória e atividades públicas.",
+      "address": "Av. Jornalista Rogério Coelho Neto, s/nº - Centro, Niterói - RJ",
+      "hours": "Visitas monitoradas gratuitas diariamente, das 9h às 17h, com saídas de hora em hora. A página turística também informa abertura do complexo aos sábados, domingos e feriados, das 7h às 18h.",
+      "website": "https://visit.niteroi.br/caminho-niemeyer/",
+      "notes": "Entrada gratuita conforme página oficial de turismo de Niterói. Consulte alterações de funcionamento antes da visita."
     },
     {
       "id": "museu-amanha",
@@ -138,7 +148,12 @@
       "lng": -43.1793809,
       "category": "Ciência e Tecnologia",
       "org": "Civil",
-      "photoQuery": "Museu do Amanhã Rio de Janeiro"
+      "photoQuery": "Museu do Amanhã Rio de Janeiro",
+      "description": "Museu de ciências voltado à exploração do presente e à reflexão sobre futuros possíveis, reunindo ciência, arte, inovação, sustentabilidade e convivência.",
+      "address": "Praça Mauá, 1 - Centro, Rio de Janeiro - RJ",
+      "hours": "Quinta a terça, das 10h às 18h. Fechado às quartas. Última entrada às 17h.",
+      "website": "https://museudoamanha.org.br/visite/horarios-e-ingressos/",
+      "notes": "Ingressos e horários podem variar em datas especiais. Consulte o site oficial antes da visita."
     },
     {
       "id": "museu-historico-nacional",
@@ -147,7 +162,12 @@
       "lng": -43.1696377,
       "category": "Museus",
       "org": "Civil",
-      "photoQuery": "Museu Histórico Nacional Rio de Janeiro"
+      "photoQuery": "Museu Histórico Nacional Rio de Janeiro",
+      "description": "Museu instalado em complexo arquitetônico histórico no Centro do Rio, com acervo dedicado à história do Brasil e centenas de milhares de itens.",
+      "address": "Praça Marechal Âncora, s/nº - Centro, Rio de Janeiro - RJ",
+      "hours": "Parcialmente aberto de quarta a domingo, das 10h às 18h. Última entrada às 17h.",
+      "website": "https://www.gov.br/museus/pt-br/museus-ibram/museu-historico-nacional",
+      "notes": "Visitação informada como gratuita pelo Ibram. Consulte o site oficial para atualizações."
     },
     {
       "id": "museu-republica",
@@ -183,7 +203,12 @@
       "lng": -43.18245,
       "category": "Bibliotecas",
       "org": "Civil",
-      "photoQuery": "Real Gabinete Português de Leitura Rio de Janeiro"
+      "photoQuery": "Real Gabinete Português de Leitura Rio de Janeiro",
+      "description": "Instituição cultural e biblioteca de referência da cultura portuguesa no Brasil, conhecida por seu salão de leitura, fachada histórica e acervo bibliográfico.",
+      "address": "Rua Luís de Camões, 30 - Centro, Rio de Janeiro - RJ",
+      "hours": "Segunda a sexta-feira, das 10h às 17h.",
+      "website": "https://www.realgabinete.com.br/Visite-o-RGPL",
+      "notes": "Visitação informada como gratuita no site oficial. Consulte avisos e agenda antes da visita."
     },
     {
       "id": "biblioteca-nacional",
@@ -192,7 +217,12 @@
       "lng": -43.1758,
       "category": "Bibliotecas",
       "org": "Civil",
-      "photoQuery": "Biblioteca Nacional Rio de Janeiro Brasil"
+      "photoQuery": "Biblioteca Nacional Rio de Janeiro Brasil",
+      "description": "Sede histórica da Fundação Biblioteca Nacional, com grande acervo bibliográfico, salas monumentais, arquitetura histórica e visitas orientadas.",
+      "address": "Av. Rio Branco, 219 - Centro, Rio de Janeiro - RJ",
+      "hours": "Atendimento de segunda a sexta-feira, das 10h às 17h. Entrada de visitantes para visita orientada e exposição até 16h30.",
+      "website": "https://www.gov.br/bn/pt-br/acesso-a-informacao-2/institucional/sobre-a-fbn/enderecos-e-atendimento/biblioteca-nacional-sede",
+      "notes": "Algumas modalidades de visita e pesquisa exigem agendamento prévio. Consulte o site oficial."
     },
     {
       "id": "paco-imperial",
@@ -201,7 +231,12 @@
       "lng": -43.17465,
       "category": "Sítios Históricos",
       "org": "Civil",
-      "photoQuery": "Paço Imperial Rio de Janeiro"
+      "photoQuery": "Paço Imperial Rio de Janeiro",
+      "description": "Centro cultural instalado em edifício histórico da Praça XV, com exposições, cursos e eventos artísticos em um dos mais importantes marcos da história do Rio de Janeiro.",
+      "address": "Praça XV de Novembro, 48 - Centro, Rio de Janeiro - RJ",
+      "hours": "Terça a domingo, das 12h às 18h.",
+      "website": "https://visite.museus.gov.br/instituicoes/centro-cultural-do-patrimonio-paco-imperial/",
+      "notes": "Consulte a programação e eventuais alterações de horário antes da visita."
     },
     {
       "id": "museu-arqueologia-itaipu",
@@ -237,7 +272,12 @@
       "lng": -43.1809423,
       "category": "Museus",
       "org": "Civil",
-      "photoQuery": "Museu de Arte do Rio MAR Rio de Janeiro"
+      "photoQuery": "Museu de Arte do Rio MAR Rio de Janeiro",
+      "description": "Museu de arte voltado à cultura visual, história e produção artística do Rio de Janeiro, instalado na Praça Mauá.",
+      "address": "Praça Mauá - Centro, Rio de Janeiro - RJ",
+      "hours": "Visitação das 11h às 18h, com última entrada às 17h. Fechado às quartas-feiras.",
+      "website": "https://museudeartedorio.org.br/visite/horarios-e-ingresso/",
+      "notes": "Terças-feiras têm gratuidade conforme informação atual do site oficial. Consulte condições e programação antes da visita."
     },
     {
       "id": "mast",
