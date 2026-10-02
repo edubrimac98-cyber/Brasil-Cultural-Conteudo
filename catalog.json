@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.9",
+  "version": "2026.10.02.10",
   "places": [
     {
       "id": "forte-copacabana",
@@ -319,11 +319,34 @@
       "photoQuery": "Museu de Arte Contemporânea de Niterói MAC",
       "description": "Museu projetado por Oscar Niemeyer e um dos principais símbolos arquitetônicos de Niterói, com exposições de arte contemporânea e vista para a Baía de Guanabara.",
       "address": "Mirante da Boa Viagem, s/nº - Boa Viagem, Niterói - RJ",
-      "hours": "Funcionamento informado pelo turismo oficial de Niterói: diariamente, das 9h às 17h.",
+      "hours": "Terça a domingo, das 10h às 18h; entrada até 17h30. Pátio diariamente, das 9h às 18h.",
       "website": "https://visit.niteroi.br/",
       "notes": "Consulte a programação e eventuais alterações de visitação antes de sair.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Inteira R$ 20,00 • Meia R$ 10,00 • quartas-feiras com entrada gratuita, além das gratuidades previstas.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "caminho-niemeyer",
@@ -335,11 +358,36 @@
       "photoQuery": "Caminho Niemeyer Niteroi Rio de Janeiro",
       "description": "Complexo arquitetônico à beira-mar com obras de Oscar Niemeyer dedicadas à arte, cultura, memória e atividades públicas.",
       "address": "Av. Jornalista Rogério Coelho Neto, s/nº - Centro, Niterói - RJ",
-      "hours": "Visitas monitoradas gratuitas diariamente, das 9h às 17h, com saídas de hora em hora. A página turística também informa abertura do complexo aos sábados, domingos e feriados, das 7h às 18h.",
+      "hours": "Visitas monitoradas diariamente, das 9h às 17h, com saídas de hora em hora. A programação e o horário de áreas do complexo podem variar.",
       "website": "https://visit.niteroi.br/caminho-niemeyer/",
       "notes": "Entrada gratuita conforme página oficial de turismo de Niterói. Consulte alterações de funcionamento antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Entrada gratuita. Visitas monitoradas gratuitas.",
+      "weeklyHours": {
+        "1": [
+          "09:00-17:00"
+        ],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "09:00-17:00"
+        ],
+        "7": [
+          "09:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "museu-amanha",
@@ -351,11 +399,34 @@
       "photoQuery": "Museu do Amanhã Rio de Janeiro",
       "description": "Museu de ciências voltado à exploração do presente e à reflexão sobre futuros possíveis, reunindo ciência, arte, inovação, sustentabilidade e convivência.",
       "address": "Praça Mauá, 1 - Centro, Rio de Janeiro - RJ",
-      "hours": "Quinta a terça, das 10h às 18h. Fechado às quartas. Última entrada às 17h.",
+      "hours": "Quinta a terça, das 10h às 18h; última entrada às 17h. Fechado às quartas-feiras.",
       "website": "https://museudoamanha.org.br/visite/horarios-e-ingressos/",
       "notes": "Ingressos e horários podem variar em datas especiais. Consulte o site oficial antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Inteira R$ 40,00 • Meia R$ 20,00 • gratuidades mediante comprovação. Há ações promocionais em datas específicas.",
+      "weeklyHours": {
+        "1": [
+          "10:00-18:00"
+        ],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "museu-historico-nacional",
@@ -367,11 +438,32 @@
       "photoQuery": "Museu Histórico Nacional Rio de Janeiro",
       "description": "Museu instalado em complexo arquitetônico histórico no Centro do Rio, com acervo dedicado à história do Brasil e centenas de milhares de itens.",
       "address": "Praça Marechal Âncora, s/nº - Centro, Rio de Janeiro - RJ",
-      "hours": "Parcialmente aberto de quarta a domingo, das 10h às 18h. Última entrada às 17h.",
+      "hours": "Quarta a domingo, das 10h às 18h; última entrada às 17h. Parte do complexo pode estar com acesso parcial.",
       "website": "https://www.gov.br/museus/pt-br/museus-ibram/museu-historico-nacional",
       "notes": "Visitação informada como gratuita pelo Ibram. Consulte o site oficial para atualizações.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Visitação gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "museu-republica",
@@ -387,7 +479,28 @@
       "website": "https://www.gov.br/museus/pt-br/museus-ibram/museu-da-republica",
       "notes": "Visitação gratuita conforme informação atual do Ibram. Consulte alterações antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Visitação gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [],
+        "3": [
+          "11:00-17:00"
+        ],
+        "4": [
+          "11:00-17:00"
+        ],
+        "5": [
+          "11:00-17:00"
+        ],
+        "6": [
+          "11:00-17:00"
+        ],
+        "7": [
+          "11:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "pao-acucar",
@@ -399,11 +512,36 @@
       "photoQuery": "Pão de Açúcar Rio de Janeiro bondinho",
       "description": "Parque turístico ligado por teleféricos entre a Praia Vermelha, o Morro da Urca e o Pão de Açúcar, reunindo mirantes, natureza, cultura e experiências ao ar livre.",
       "address": "Av. Pasteur, 520 - Urca, Rio de Janeiro - RJ",
-      "hours": "Funcionamento informado pelo canal oficial: diariamente, das 8h30 às 21h, com último embarque às 19h30.",
+      "hours": "Todos os dias, das 8h30 às 21h; último embarque de subida às 19h30. Horários podem sofrer alterações.",
       "website": "https://www.bondinho.com.br/",
       "notes": "Horários podem mudar por operação, clima ou programação. Consulte o site oficial no dia da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Bilhete Bondinho: turista internacional a partir de R$ 205,00 • promocional para brasileiros a partir de R$ 160,00 • meia a partir de R$ 102,00 • promoção para nascidos/moradores do RJ: R$ 89,00, conforme condições.",
+      "weeklyHours": {
+        "1": [
+          "08:30-21:00"
+        ],
+        "2": [
+          "08:30-21:00"
+        ],
+        "3": [
+          "08:30-21:00"
+        ],
+        "4": [
+          "08:30-21:00"
+        ],
+        "5": [
+          "08:30-21:00"
+        ],
+        "6": [
+          "08:30-21:00"
+        ],
+        "7": [
+          "08:30-21:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "cristo-redentor",
@@ -415,11 +553,36 @@
       "photoQuery": "Cristo Redentor Rio de Janeiro",
       "description": "Monumento no alto do Morro do Corcovado, dentro do Parque Nacional da Tijuca, um dos principais símbolos culturais e turísticos do Brasil.",
       "address": "Acesso ferroviário pelo Trem do Corcovado: Rua Cosme Velho, 513 - Cosme Velho, Rio de Janeiro - RJ",
-      "hours": "Trem do Corcovado: diariamente, das 8h às 18h, com saídas regulares. Horários extras podem existir conforme a grade de vendas.",
+      "hours": "Trem do Corcovado: diariamente, das 8h às 18h, com saídas a cada 20 minutos. Horários podem mudar por condições técnicas ou climáticas.",
       "website": "https://www.tremdocorcovado.rio/institucional/informacoes-uteis",
       "notes": "O acesso ao monumento pode sofrer ajustes por obras, clima ou operação. Consulte o canal oficial antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Trem do Corcovado: adulto R$ 134,00 • infantil 7–11 anos R$ 107,00 • idoso brasileiro 60+ R$ 70,00 • estudante/PcD/ID Jovem brasileiros R$ 107,00 • crianças até 6 anos gratuitas nas condições divulgadas.",
+      "weeklyHours": {
+        "1": [
+          "08:00-18:00"
+        ],
+        "2": [
+          "08:00-18:00"
+        ],
+        "3": [
+          "08:00-18:00"
+        ],
+        "4": [
+          "08:00-18:00"
+        ],
+        "5": [
+          "08:00-18:00"
+        ],
+        "6": [
+          "08:00-18:00"
+        ],
+        "7": [
+          "08:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "real-gabinete",
@@ -435,7 +598,28 @@
       "website": "https://www.realgabinete.com.br/Visite-o-RGPL",
       "notes": "Visitação informada como gratuita no site oficial. Consulte avisos e agenda antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Entrada gratuita para visitação regular. Visitas guiadas, quando disponíveis, possuem condições próprias.",
+      "weeklyHours": {
+        "1": [
+          "10:00-17:00"
+        ],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [],
+        "7": []
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "biblioteca-nacional",
@@ -447,11 +631,32 @@
       "photoQuery": "Biblioteca Nacional Rio de Janeiro Brasil",
       "description": "Sede histórica da Fundação Biblioteca Nacional, com grande acervo bibliográfico, salas monumentais, arquitetura histórica e visitas orientadas.",
       "address": "Av. Rio Branco, 219 - Centro, Rio de Janeiro - RJ",
-      "hours": "Atendimento de segunda a sexta-feira, das 10h às 17h. Entrada de visitantes para visita orientada e exposição até 16h30.",
+      "hours": "Segunda a sexta-feira, das 10h às 17h; entrada para visita livre até 16h30. Visitas orientadas em horários específicos mediante agendamento.",
       "website": "https://www.gov.br/bn/pt-br/acesso-a-informacao-2/institucional/sobre-a-fbn/enderecos-e-atendimento/biblioteca-nacional-sede",
       "notes": "Algumas modalidades de visita e pesquisa exigem agendamento prévio. Consulte o site oficial.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Visita livre com entrada gratuita. Visitas orientadas requerem agendamento prévio.",
+      "weeklyHours": {
+        "1": [
+          "10:00-17:00"
+        ],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [],
+        "7": []
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "paco-imperial",
@@ -463,11 +668,34 @@
       "photoQuery": "Paço Imperial Rio de Janeiro",
       "description": "Centro cultural instalado em edifício histórico da Praça XV, com exposições, cursos e eventos artísticos em um dos mais importantes marcos da história do Rio de Janeiro.",
       "address": "Praça XV de Novembro, 48 - Centro, Rio de Janeiro - RJ",
-      "hours": "Terça a domingo, das 12h às 18h.",
+      "hours": "Terça a domingo e feriados, das 12h às 18h.",
       "website": "https://visite.museus.gov.br/instituicoes/centro-cultural-do-patrimonio-paco-imperial/",
       "notes": "Consulte a programação e eventuais alterações de horário antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Entrada gratuita para a programação expositiva divulgada pelo Paço Imperial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "12:00-18:00"
+        ],
+        "3": [
+          "12:00-18:00"
+        ],
+        "4": [
+          "12:00-18:00"
+        ],
+        "5": [
+          "12:00-18:00"
+        ],
+        "6": [
+          "12:00-18:00"
+        ],
+        "7": [
+          "12:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "museu-arqueologia-itaipu",
@@ -479,11 +707,32 @@
       "photoQuery": "Museu de Arqueologia de Itaipu Niteroi",
       "description": "Museu instalado nos remanescentes do Recolhimento de Santa Teresa, com acervo arqueológico, antropológico e etnográfico relacionado ao litoral fluminense.",
       "address": "Praça de Itaipu, s/nº - Itaipu, Niterói - RJ",
-      "hours": "Terça a sexta, das 10h às 17h. Sábado, das 10h às 12h.",
+      "hours": "Terça a sexta-feira, das 10h às 17h. Sábado, das 10h às 12h.",
       "website": "https://www.gov.br/museus/pt-br/museus-ibram/museu-de-arqueologia-de-itaipu",
       "notes": "Visitação gratuita conforme informação atual do Ibram. Visitas mediadas exigem agendamento.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Visitação gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [
+          "10:00-12:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "museu-janete-costa",
@@ -495,11 +744,34 @@
       "photoQuery": "Museu Janete Costa de Arte Popular Niteroi",
       "description": "Museu dedicado à arte popular brasileira, instalado em sobrados históricos do Ingá e voltado à valorização e divulgação da cultura popular.",
       "address": "Rua Presidente Domiciano, 178 - Ingá, Niterói - RJ",
-      "hours": "Terça a domingo, das 10h às 18h.",
+      "hours": "Terça a domingo, das 10h às 17h.",
       "website": "https://visit.niteroi.br/museu-janete-costa-2/",
       "notes": "Entrada gratuita conforme informação oficial de turismo de Niterói.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [
+          "10:00-17:00"
+        ],
+        "7": [
+          "10:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "ilha-boa-viagem",
@@ -511,11 +783,34 @@
       "photoQuery": "Ilha da Boa Viagem Niteroi",
       "description": "Conjunto histórico e paisagístico na Baía de Guanabara, com usos religiosos, militares e culturais ao longo dos séculos.",
       "address": "Praia da Boa Viagem, s/nº - Boa Viagem, Niterói - RJ",
-      "hours": "Sábados e domingos, das 10h às 17h. Visitação livre e gratuita, sujeita a condições de segurança e clima.",
+      "hours": "Terça a domingo, das 10h às 17h.",
       "website": "https://visit.niteroi.br/ilha-da-boa-viagem/",
       "notes": "O acesso pode ser cancelado em caso de chuva no dia ou no dia anterior. Há visitas monitoradas gratuitas em horários específicos.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [
+          "10:00-17:00"
+        ],
+        "7": [
+          "10:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "mar",
@@ -527,11 +822,34 @@
       "photoQuery": "Museu de Arte do Rio MAR Rio de Janeiro",
       "description": "Museu de arte voltado à cultura visual, história e produção artística do Rio de Janeiro, instalado na Praça Mauá.",
       "address": "Praça Mauá - Centro, Rio de Janeiro - RJ",
-      "hours": "Visitação das 11h às 18h, com última entrada às 17h. Fechado às quartas-feiras.",
+      "hours": "Aberto todos os dias, exceto quartas-feiras. Exposições das 11h às 18h; última entrada às 17h.",
       "website": "https://museudeartedorio.org.br/visite/horarios-e-ingresso/",
       "notes": "Terças-feiras têm gratuidade conforme informação atual do site oficial. Consulte condições e programação antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Inteira R$ 20,00 • Meia R$ 10,00 • terças-feiras gratuitas • demais gratuidades conforme regras do museu.",
+      "weeklyHours": {
+        "1": [
+          "11:00-18:00"
+        ],
+        "2": [
+          "11:00-18:00"
+        ],
+        "3": [],
+        "4": [
+          "11:00-18:00"
+        ],
+        "5": [
+          "11:00-18:00"
+        ],
+        "6": [
+          "11:00-18:00"
+        ],
+        "7": [
+          "11:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "mast",
@@ -543,11 +861,34 @@
       "photoQuery": "Museu de Astronomia e Ciências Afins MAST Rio de Janeiro",
       "description": "Museu de ciência e patrimônio dedicado à história da astronomia, das ciências e da tecnologia, instalado no antigo campus do Observatório Nacional.",
       "address": "Rua General Bruce, 586 - Imperial de São Cristóvão, Rio de Janeiro - RJ",
-      "hours": "Terça a sexta, das 9h às 16h30. Sábados e feriados, das 14h às 17h30. Consulte a programação para atividades especiais e domingos.",
+      "hours": "Terça a sexta-feira, das 9h às 17h. Sábados, das 14h às 19h. Domingos, das 14h às 18h. Programações especiais podem alterar horários.",
       "website": "https://www.gov.br/mast/pt-br",
       "notes": "Visitação das exposições é gratuita. Horários de atividades específicas podem variar.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "14:00-19:00"
+        ],
+        "7": [
+          "14:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "museu-vida",
@@ -559,11 +900,32 @@
       "photoQuery": "Museu da Vida Fiocruz Rio de Janeiro",
       "description": "Museu de ciência da Fiocruz que integra saúde, ciência, cultura, educação e entretenimento em exposições e atividades para diferentes públicos.",
       "address": "Av. Brasil, 4365 - Manguinhos, Rio de Janeiro - RJ",
-      "hours": "Terça a sexta, das 9h às 16h30. Sábados, das 10h às 16h.",
+      "hours": "Terça a sexta-feira, das 9h às 16h30. Sábados, das 10h às 16h.",
       "website": "https://www.museudavida.fiocruz.br/index.php/pt-br/planeje-sua-visita",
       "notes": "Atividades e estacionamento são informados como gratuitos. É necessário apresentar documento com foto na entrada da Fiocruz.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-16:30"
+        ],
+        "3": [
+          "09:00-16:30"
+        ],
+        "4": [
+          "09:00-16:30"
+        ],
+        "5": [
+          "09:00-16:30"
+        ],
+        "6": [
+          "10:00-16:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "chacara-ceu",
@@ -575,11 +937,32 @@
       "photoQuery": "Museu da Chácara do Céu Rio de Janeiro",
       "description": "Museu dos Museus Castro Maya em Santa Teresa, com coleção de arte brasileira, europeia e oriental, além de arquitetura e paisagismo integrados.",
       "address": "Rua Murtinho Nobre, 93 - Santa Teresa, Rio de Janeiro - RJ",
-      "hours": "Aberto das 10h às 16h30, exceto às terças, domingos e feriados.",
+      "hours": "Conforme informação institucional do Ibram: aberto das 10h às 16h30, exceto terças-feiras, domingos e feriados. Confirme antes da visita, pois há divergências entre páginas institucionais.",
       "website": "https://www.gov.br/museus/pt-br/museus-ibram/museus-castro-maya",
       "notes": "Visitação gratuita conforme informação atual do Ibram. Fecha também em períodos específicos como Carnaval, Natal e Ano Novo.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Visitação gratuita.",
+      "weeklyHours": {
+        "1": [
+          "10:00-16:30"
+        ],
+        "2": [],
+        "3": [
+          "10:00-16:30"
+        ],
+        "4": [
+          "10:00-16:30"
+        ],
+        "5": [
+          "10:00-16:30"
+        ],
+        "6": [
+          "10:00-16:30"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "museu-acude",
@@ -591,11 +974,14 @@
       "photoQuery": "Museu do Açude Rio de Janeiro",
       "description": "Sede dos Museus Castro Maya no Alto da Boa Vista, em área de Mata Atlântica, reunindo patrimônio artístico, arquitetônico e paisagístico.",
       "address": "Estrada do Açude, 764 - Alto da Boa Vista, Rio de Janeiro - RJ",
-      "hours": "Museu informado como temporariamente fechado para manutenção. Jardins: diariamente, das 9h às 17h.",
+      "hours": "O Ibram informa o museu temporariamente fechado para manutenção. Jardins: 9h às 17h. Consulte a situação atual antes de sair.",
       "website": "https://www.gov.br/museus/pt-br/museus-ibram/museus-castro-maya",
       "notes": "A situação de abertura das áreas internas pode mudar. Consulte o Ibram antes de planejar a visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Visitação gratuita.",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180
     },
     {
       "id": "ccbb-rio",
@@ -607,11 +993,34 @@
       "photoQuery": "Centro Cultural Banco do Brasil Rio de Janeiro",
       "description": "Centro cultural instalado em edifício histórico do Centro do Rio, com exposições, cinema, teatro, música, biblioteca, arquivo histórico e Museu Banco do Brasil.",
       "address": "Rua Primeiro de Março, 66 - Centro, Rio de Janeiro - RJ",
-      "hours": "Quarta a segunda, das 9h às 20h. Fechado às terças.",
+      "hours": "Quarta a segunda-feira, das 9h às 20h. Fechado às terças-feiras.",
       "website": "https://ccbb.com.br/rio-de-janeiro/",
       "notes": "A entrada no prédio e nas exposições é informada como gratuita, embora atividades específicas possam exigir ingresso ou reserva.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Entrada no CCBB e exposições gratuitas. Algumas atividades podem exigir retirada de ingresso ou senha.",
+      "weeklyHours": {
+        "1": [
+          "09:00-20:00"
+        ],
+        "2": [],
+        "3": [
+          "09:00-20:00"
+        ],
+        "4": [
+          "09:00-20:00"
+        ],
+        "5": [
+          "09:00-20:00"
+        ],
+        "6": [
+          "09:00-20:00"
+        ],
+        "7": [
+          "09:00-20:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     },
     {
       "id": "planetario-rio",
@@ -623,11 +1032,34 @@
       "photoQuery": "Planetário do Rio Gávea Rio de Janeiro",
       "description": "Instituição pública dedicada à astronomia e à divulgação científica, com Museu do Universo, cúpulas de projeção, espaços educativos e observação do céu.",
       "address": "Rua Vice-Governador Rubens Berardo, 100 - Gávea, Rio de Janeiro - RJ",
-      "hours": "Segunda fechado. Terças, quintas e sextas, das 9h às 17h. Quarta, das 9h às 20h. Sábados e domingos, das 10h às 17h.",
+      "hours": "Segunda: fechado. Terça, quinta e sexta: 9h às 17h. Quarta: 9h às 20h. Sábado e domingo: 10h às 17h.",
       "website": "https://planetario.prefeitura.rio/visitacao/",
       "notes": "Sessões de cúpula e atividades podem ter programação própria. Consulte horários e ingressos antes da visita.",
       "state": "RJ",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "admission": "Museu do Universo + sessão de cúpula: R$ 40,00 inteira / R$ 20,00 meia. Museu do Universo: R$ 20,00 inteira / R$ 10,00 meia. Terça Gratuita conforme regras e disponibilidade.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-20:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "10:00-17:00"
+        ],
+        "7": [
+          "10:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
     }
   ],
   "routes": [
