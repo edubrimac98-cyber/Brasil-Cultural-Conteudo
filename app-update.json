@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "build": 4,
+  "version": "1.2.2",
+  "build": 5,
   "updateUrl": "",
-  "notes": "Correção do canal de atualizações remotas, com URLs públicas padrão e retorno visível ao atualizar o conteúdo cultural."
+  "notes": "Inclui dados demonstrativos de visitação das Forças Armadas para teste de filtros, totais e comparação com check-ins do app."
 }
