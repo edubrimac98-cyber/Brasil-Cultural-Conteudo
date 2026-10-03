@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03-sp-civis-teste-5",
+  "version": "2026.10.03-sp-civis-teste-6",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2101,6 +2101,130 @@
       "notes": "Visitas mediadas e técnicas podem ser agendadas. A entrada regular é gratuita.",
       "state": "SP",
       "city": "São Carlos",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-paleontologia-marilia",
+      "name": "Museu de Paleontologia de Marília",
+      "lat": -22.22084,
+      "lng": -49.94829,
+      "category": "Ciência e Tecnologia",
+      "org": "Civil / Prefeitura de Marília",
+      "photoQuery": "Museu de Paleontologia de Marília dinossauros",
+      "description": "Museu dedicado à paleontologia regional, com fósseis, réplicas e recursos de realidade virtual e aumentada, reconhecido como importante atração científica e turística de Marília.",
+      "address": "Avenida Sampaio Vidal, 245 - Centro, Marília - SP - CEP 17500-020",
+      "hours": "Terça a sexta-feira, das 9h às 17h; sábado, das 13h às 17h. Feriados: consultar previamente.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "13:00-17:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://cultura.marilia.sp.gov.br/-museu-de-paleontologia/",
+      "notes": "O museu é divulgado oficialmente como equipamento turístico e científico do município. Em feriados, confirme o funcionamento antes da visita.",
+      "state": "SP",
+      "city": "Marília",
+      "region": "Sudeste"
+    },
+    {
+      "id": "muhp-francisco-blasi-botucatu",
+      "name": "MuHP - Museu Histórico e Pedagógico Francisco Blasi",
+      "lat": -22.893008274331898,
+      "lng": -48.44438552856446,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Botucatu",
+      "photoQuery": "Museu Histórico Pedagógico Francisco Blasi Botucatu",
+      "description": "Museu dedicado à história de Botucatu e região, com acervo histórico, exposições temporárias e ações educativas.",
+      "address": "Rua General Teles, 1738 - Centro, Botucatu - SP - CEP 18602-120",
+      "hours": "Terça a sábado, das 9h às 17h. Domingo e segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "09:00-17:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.botucatu.sp.gov.br/",
+      "notes": "Visitas em grupo podem exigir agendamento prévio. As exposições regulares são gratuitas.",
+      "state": "SP",
+      "city": "Botucatu",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-arquivo-prudente",
+      "name": "Museu e Arquivo Histórico Prefeito Antônio Sandoval Netto",
+      "lat": -22.1166462,
+      "lng": -51.4115836,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Presidente Prudente",
+      "photoQuery": "Museu Arquivo Histórico Antônio Sandoval Netto Presidente Prudente",
+      "description": "Museu municipal dedicado à preservação da memória de Presidente Prudente, com exposição permanente, exposições temporárias e arquivo histórico aberto à consulta.",
+      "address": "Rua Dr. João Gonçalves Foz, 2179 - Jardim das Rosas, Presidente Prudente - SP - CEP 19060-050",
+      "hours": "Terça a sexta-feira, das 8h às 12h e das 13h às 17h; sábados, domingos e feriados, das 13h às 17h. Segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "08:00-12:00",
+          "13:00-17:00"
+        ],
+        "3": [
+          "08:00-12:00",
+          "13:00-17:00"
+        ],
+        "4": [
+          "08:00-12:00",
+          "13:00-17:00"
+        ],
+        "5": [
+          "08:00-12:00",
+          "13:00-17:00"
+        ],
+        "6": [
+          "13:00-17:00"
+        ],
+        "7": [
+          "13:00-17:00"
+        ]
+      },
+      "specialHours": {
+        "2026-12-25": [],
+        "2027-01-01": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.presidenteprudente.sp.gov.br/site/unidade/6",
+      "notes": "A Prefeitura divulga visitação gratuita e funcionamento em fins de semana. Fechado às segundas-feiras e em 25 de dezembro e 1º de janeiro.",
+      "state": "SP",
+      "city": "Presidente Prudente",
       "region": "Sudeste"
     }
   ],
