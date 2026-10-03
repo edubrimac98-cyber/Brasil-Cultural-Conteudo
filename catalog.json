@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03-sp-civis-teste-4",
+  "version": "2026.10.03-sp-civis-teste-5",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1976,6 +1976,131 @@
       "notes": "A Prefeitura registrou fechamento temporário em julho de 2026; o cadastro atual do Visite Museus volta a apresentar horários regulares. Confirme avisos de manutenção antes do deslocamento.",
       "state": "SP",
       "city": "Piracicaba",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-monteiro-lobato-taubate",
+      "name": "Museu Histórico, Folclórico e Pedagógico Monteiro Lobato - Sítio do Picapau Amarelo",
+      "lat": -23.021920027531202,
+      "lng": -45.56493759155274,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Taubaté",
+      "photoQuery": "Museu Monteiro Lobato Sítio do Picapau Amarelo Taubaté",
+      "description": "Museu instalado no casarão histórico onde Monteiro Lobato viveu parte da infância, com exposições, área verde, atividades educativas e programação teatral.",
+      "address": "Avenida Monteiro Lobato, s/n - Chácara do Visconde, Taubaté - SP - CEP 12030-730",
+      "hours": "Terça a sexta-feira, visitação ao museu das 9h às 16h30; sábados, domingos e feriados, das 10h às 16h30. Segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-16:30"
+        ],
+        "3": [
+          "09:00-16:30"
+        ],
+        "4": [
+          "09:00-16:30"
+        ],
+        "5": [
+          "09:00-16:30"
+        ],
+        "6": [
+          "10:00-16:30"
+        ],
+        "7": [
+          "10:00-16:30"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://taubate.sp.gov.br/sitio-do-picapau-amarelo",
+      "notes": "Grupos organizados e escolas devem agendar previamente. A programação teatral pode variar ou ser substituída por outras atividades.",
+      "state": "SP",
+      "city": "Taubaté",
+      "region": "Sudeste"
+    },
+    {
+      "id": "casa-frei-galvao",
+      "name": "Casa de Frei Galvão",
+      "lat": -22.81751,
+      "lng": -45.19304,
+      "category": "Museus",
+      "org": "Civil / Guaratinguetá",
+      "photoQuery": "Casa de Frei Galvão Guaratinguetá",
+      "description": "Casa-museu dedicada à vida e à memória de Frei Galvão, primeiro santo brasileiro, e uma das principais atrações histórico-religiosas de Guaratinguetá.",
+      "address": "Rua Frei Galvão, 78 - Centro, Guaratinguetá - SP - CEP 12501-230",
+      "hours": "Diariamente, das 9h às 18h. Fechada em 25 de dezembro e 1º de janeiro.",
+      "admission": "Consulte previamente as condições de visitação; não foi localizada cobrança regular divulgada nas fontes oficiais consultadas.",
+      "weeklyHours": {
+        "1": [
+          "09:00-18:00"
+        ],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "09:00-18:00"
+        ]
+      },
+      "specialHours": {
+        "2026-12-25": [],
+        "2027-01-01": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.casadefreigalvao.com.br/",
+      "notes": "A Casa de Frei Galvão integra oficialmente os roteiros turísticos e religiosos de Guaratinguetá.",
+      "state": "SP",
+      "city": "Guaratinguetá",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-sao-carlos",
+      "name": "Museu de São Carlos",
+      "lat": -22.022483,
+      "lng": -47.895799,
+      "category": "Museus",
+      "org": "Civil / Fundação Pró-Memória de São Carlos",
+      "photoQuery": "Museu de São Carlos antiga Estação Ferroviária",
+      "description": "Museu municipal instalado na antiga Estação Ferroviária, dedicado à preservação e difusão da história, memória e cultura de São Carlos.",
+      "address": "Praça Antonio Prado, s/n - Centro, São Carlos - SP - CEP 13560-046",
+      "hours": "Quarta a sexta-feira, das 10h às 12h e das 14h às 17h; sábado, das 10h às 16h. Domingo, segunda e terça-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [],
+        "3": [
+          "10:00-12:00",
+          "14:00-17:00"
+        ],
+        "4": [
+          "10:00-12:00",
+          "14:00-17:00"
+        ],
+        "5": [
+          "10:00-12:00",
+          "14:00-17:00"
+        ],
+        "6": [
+          "10:00-16:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.promemoria.saocarlos.sp.gov.br/museudesaocarlos",
+      "notes": "Visitas mediadas e técnicas podem ser agendadas. A entrada regular é gratuita.",
+      "state": "SP",
+      "city": "São Carlos",
       "region": "Sudeste"
     }
   ],
