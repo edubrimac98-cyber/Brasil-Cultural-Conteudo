@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03-sp-civis-teste-3",
+  "version": "2026.10.03-sp-civis-teste-4",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1820,6 +1820,162 @@
       "notes": "Última entrada até 10 minutos antes do encerramento. Grupos podem solicitar agendamento; visitação individual é livre nos horários regulares.",
       "state": "SP",
       "city": "Campinas",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-municipal-sjc",
+      "name": "Museu Municipal de São José dos Campos",
+      "lat": -23.184398,
+      "lng": -45.886737,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de São José dos Campos",
+      "photoQuery": "Museu Municipal São José dos Campos Praça Afonso Pena",
+      "description": "Museu municipal instalado no edifício histórico da antiga Câmara Municipal, dedicado à memória, às artes e ao patrimônio cultural de São José dos Campos.",
+      "address": "Praça Afonso Pena, 29 - Centro, São José dos Campos - SP - CEP 12210-090",
+      "hours": "Terça a sexta-feira, das 9h às 18h; sábado, das 9h às 13h. Domingo e segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-13:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://fccr.sp.gov.br/fccr/museus/museu-municipal-de-sao-jose-dos-campos",
+      "notes": "O museu integra o Circuito Cultural Central de São José dos Campos. Consulte a programação oficial para alterações em datas especiais.",
+      "state": "SP",
+      "city": "São José dos Campos",
+      "region": "Sudeste"
+    },
+    {
+      "id": "marp-ribeirao-preto",
+      "name": "MARP - Museu de Arte de Ribeirão Preto Pedro Manuel-Gismondi",
+      "lat": -21.17623842827145,
+      "lng": -47.80684590339661,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Ribeirão Preto",
+      "photoQuery": "MARP Museu de Arte de Ribeirão Preto",
+      "description": "Museu municipal dedicado às artes visuais, instalado em edifício histórico no centro de Ribeirão Preto, com exposições e programação cultural.",
+      "address": "Rua Barão do Amazonas, 323 - Centro, Ribeirão Preto - SP - CEP 14010-120",
+      "hours": "Terça a sexta-feira, das 9h30 às 12h e das 13h às 17h30. Aberturas aos sábados ocorrem em datas específicas conforme programação.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:30-12:00",
+          "13:00-17:30"
+        ],
+        "3": [
+          "09:30-12:00",
+          "13:00-17:30"
+        ],
+        "4": [
+          "09:30-12:00",
+          "13:00-17:30"
+        ],
+        "5": [
+          "09:30-12:00",
+          "13:00-17:30"
+        ],
+        "6": [],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.ribeiraopreto.sp.gov.br/portal/marp/marp",
+      "notes": "Aberturas aos sábados dependem da programação vigente e não são tratadas como horário semanal fixo. Visitas orientadas para grupos exigem agendamento.",
+      "state": "SP",
+      "city": "Ribeirão Preto",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-historico-sorocabano",
+      "name": "Museu Histórico Sorocabano",
+      "lat": -23.5050153,
+      "lng": -47.4414069,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Sorocaba",
+      "photoQuery": "Museu Histórico Sorocabano Sorocaba",
+      "description": "Museu dedicado à preservação e difusão da história de Sorocaba, instalado junto ao Zoológico Municipal Quinzinho de Barros.",
+      "address": "Rua Teodoro Kaizel, s/n - Vila Hortência, Sorocaba - SP - CEP 18020-268",
+      "hours": "Terça a domingo, das 9h às 16h30. Visitas mediadas podem exigir agendamento.",
+      "admission": "Consulte previamente as condições de acesso; atividades culturais divulgadas pelo museu podem ser gratuitas.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-16:30"
+        ],
+        "3": [
+          "09:00-16:30"
+        ],
+        "4": [
+          "09:00-16:30"
+        ],
+        "5": [
+          "09:00-16:30"
+        ],
+        "6": [
+          "09:00-16:30"
+        ],
+        "7": [
+          "09:00-16:30"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.sorocaba.sp.gov.br/",
+      "notes": "O cadastro nacional de museus registra funcionamento de terça a domingo e informa mediação mediante agendamento. Como o museu fica junto ao Zoológico Municipal, confirme as condições de acesso antes da visita.",
+      "state": "SP",
+      "city": "Sorocaba",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-prudente-moraes",
+      "name": "Museu Histórico e Pedagógico Prudente de Moraes",
+      "lat": -22.7224857315952,
+      "lng": -47.6476728916168,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Piracicaba",
+      "photoQuery": "Museu Prudente de Moraes Piracicaba",
+      "description": "Museu instalado na antiga residência de Prudente de Moraes, dedicado à história de Piracicaba e à trajetória do primeiro presidente civil do Brasil.",
+      "address": "Rua Santo Antônio, 641 - Centro, Piracicaba - SP - CEP 13400-160",
+      "hours": "Terça a sexta-feira, das 9h às 17h; sábado, das 10h às 14h. Em feriados, consulte previamente.",
+      "admission": "Consulte a política vigente do museu; atividades culturais podem ter gratuidade específica.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "10:00-14:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "http://museuprudentedemoraes.piracicaba.sp.gov.br/pt_BR/",
+      "notes": "A Prefeitura registrou fechamento temporário em julho de 2026; o cadastro atual do Visite Museus volta a apresentar horários regulares. Confirme avisos de manutenção antes do deslocamento.",
+      "state": "SP",
+      "city": "Piracicaba",
       "region": "Sudeste"
     }
   ],
