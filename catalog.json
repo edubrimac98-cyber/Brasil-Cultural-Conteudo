@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03-sp-civis-teste-2",
+  "version": "2026.10.03-sp-civis-teste-3",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1664,6 +1664,162 @@
       "notes": "Fechado excepcionalmente em 4 de outubro de 2026, conforme aviso oficial do museu. Grupos podem ter regras próprias de agendamento.",
       "state": "SP",
       "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-republicano-itu",
+      "name": "Museu Republicano Convenção de Itu",
+      "lat": -23.264425,
+      "lng": -47.298901,
+      "category": "Museus",
+      "org": "Civil / Universidade de São Paulo",
+      "photoQuery": "Museu Republicano Convenção de Itu",
+      "description": "Museu da Universidade de São Paulo instalado no sobrado histórico onde ocorreu a Convenção Republicana de Itu, dedicado à história republicana e à cultura material brasileira.",
+      "address": "Rua Barão do Itaim, 67 - Centro Histórico, Itu - SP - CEP 13301-160",
+      "hours": "Terça a domingo, das 10h às 17h. Segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [
+          "10:00-17:00"
+        ],
+        "7": [
+          "10:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museurepublicano.usp.br/",
+      "notes": "Entrada gratuita. Algumas atividades educativas e culturais podem exigir inscrição prévia.",
+      "state": "SP",
+      "city": "Itu",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-solar-barao-jundiai",
+      "name": "Museu Histórico e Cultural de Jundiaí - Solar do Barão",
+      "lat": -23.191742,
+      "lng": -46.881918,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Jundiaí",
+      "photoQuery": "Museu Histórico Cultural Jundiaí Solar do Barão",
+      "description": "Museu municipal instalado no histórico Solar do Barão de Jundiaí, com exposições dedicadas à história local e ao patrimônio cultural do município.",
+      "address": "Rua Barão de Jundiaí, 762 - Centro, Jundiaí - SP - CEP 13201-011",
+      "hours": "Terça a sexta, das 10h às 17h; sábado, das 10h às 14h; domingo, das 9h às 14h. Horários podem variar em feriados e datas especiais.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [
+          "10:00-14:00"
+        ],
+        "7": [
+          "09:00-14:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://cultura.jundiai.sp.gov.br/espacos-culturais/museu-historico-e-cultural-de-jundiai/",
+      "notes": "Em feriados, pontos facultativos e emendas pode haver alteração de horário. Visitas mediadas dependem de agendamento.",
+      "state": "SP",
+      "city": "Jundiaí",
+      "region": "Sudeste"
+    },
+    {
+      "id": "pinacoteca-jundiai",
+      "name": "Pinacoteca Municipal Diógenes Duarte Paes",
+      "lat": -23.1889673,
+      "lng": -46.8839317,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Jundiaí",
+      "photoQuery": "Pinacoteca Municipal Diógenes Duarte Paes Jundiaí",
+      "description": "Pinacoteca municipal dedicada às artes visuais e à difusão da produção artística local e regional.",
+      "address": "Rua Barão de Jundiaí, 109 - Centro, Jundiaí - SP - CEP 13201-011",
+      "hours": "Terça a sexta, das 10h às 17h; sábado, das 10h às 14h. Domingo e segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [
+          "10:00-14:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://cultura.jundiai.sp.gov.br/espacos-culturais/centro-jundiaiense-de-cultura-jorosil/pinacoteca-diogenes-duarte-paes/",
+      "notes": "Durante feriados, pontos facultativos e emendas pode haver alteração de horário.",
+      "state": "SP",
+      "city": "Jundiaí",
+      "region": "Sudeste"
+    },
+    {
+      "id": "macc-campinas",
+      "name": "Museu de Arte Contemporânea de Campinas José Pancetti - MACC",
+      "lat": -22.901611,
+      "lng": -47.057267,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Campinas",
+      "photoQuery": "Museu de Arte Contemporânea Campinas José Pancetti MACC",
+      "description": "Museu municipal dedicado à arte contemporânea, com exposições, acervo, ações educativas e programação cultural.",
+      "address": "Avenida Benjamin Constant, 1633 - Centro, Campinas - SP - CEP 13010-142",
+      "hours": "Terça a sexta, das 10h às 18h; sábado, das 10h às 16h. Domingo, segunda-feira e feriados: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-16:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://campinas.sp.gov.br/sites/macc",
+      "notes": "Última entrada até 10 minutos antes do encerramento. Grupos podem solicitar agendamento; visitação individual é livre nos horários regulares.",
+      "state": "SP",
+      "city": "Campinas",
       "region": "Sudeste"
     }
   ],
