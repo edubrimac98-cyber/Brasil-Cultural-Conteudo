@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03.19",
+  "version": "2026.10.03-sp-militares-teste-1",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1340,6 +1340,116 @@
       },
       "utcOffsetMinutes": -180,
       "city": "São Paulo"
+    },
+    {
+      "id": "museu-regimento-deodoro-itu",
+      "name": "Museu Regimento Deodoro",
+      "lat": -23.264045,
+      "lng": -47.296308,
+      "category": "Museus",
+      "org": "Exército / 2º GAC L - Regimento Deodoro",
+      "photoQuery": "Museu Regimento Deodoro Itu",
+      "description": "Espaço histórico instalado no Quartel de Itu, integrante de roteiros turísticos municipais e dedicado à memória do Regimento Deodoro e da história militar local.",
+      "address": "Praça Duque de Caxias, 284 - Centro, Itu - SP - CEP 13300-916",
+      "hours": "Visitação somente mediante agendamento.",
+      "admission": "Visitação mediante agendamento; consulte previamente as condições de acesso.",
+      "requiresBooking": true,
+      "bookingSponsorshipExempt": true,
+      "statusMessage": "VISITAÇÃO MEDIANTE AGENDAMENTO",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180,
+      "website": "https://turismo.itu.sp.gov.br/museus/",
+      "notes": "O Turismo de Itu lista o Museu Regimento Deodoro e informa visitação somente por agendamento. Confirme previamente antes do deslocamento.",
+      "state": "SP",
+      "city": "Itu",
+      "region": "Sudeste"
+    },
+    {
+      "id": "espcex-campinas",
+      "name": "Escola Preparatória de Cadetes do Exército (EsPCEx)",
+      "lat": -22.88265,
+      "lng": -47.081374,
+      "category": "Pontos Turísticos",
+      "org": "Exército / EsPCEx",
+      "photoQuery": "EsPCEx Campinas Escola Preparatória de Cadetes do Exército",
+      "description": "Conjunto histórico e educacional do Exército em Campinas, reconhecido como atração arquitetônica da cidade e integrante de roteiros turísticos locais.",
+      "address": "Avenida Papa Pio XII, 350 - Jardim Chapadão, Campinas - SP - CEP 13070-903",
+      "hours": "Visitação pública mediante agendamento prévio. Confirme data e horário com a instituição.",
+      "admission": "Visitação mediante agendamento; consulte previamente as condições de acesso.",
+      "requiresBooking": true,
+      "bookingSponsorshipExempt": true,
+      "statusMessage": "VISITAÇÃO MEDIANTE AGENDAMENTO",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180,
+      "website": "http://www.espcex.eb.mil.br/",
+      "notes": "A EsPCEx integra roteiros turísticos de Campinas. Como os horários de visitação podem variar conforme as atividades da Escola, o app não usa o expediente administrativo como horário turístico.",
+      "state": "SP",
+      "city": "Campinas",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-regimento-ipiranga",
+      "name": "Museu Regimento Ipiranga",
+      "lat": -23.09672,
+      "lng": -45.70911,
+      "category": "Museus",
+      "org": "Exército / 6º BIL - Regimento Ipiranga",
+      "photoQuery": "Museu Regimento Ipiranga Caçapava",
+      "description": "Espaço cultural do Regimento Ipiranga em Caçapava, dedicado à memória histórica da unidade e da participação brasileira em campanhas militares.",
+      "address": "Rua José Bonifácio, 33 - Jardim Rafael, Caçapava - SP - CEP 12280-900",
+      "hours": "Visitação mediante agendamento com a unidade. Confirme os horários antes da visita.",
+      "admission": "Visitação mediante agendamento; consulte previamente as condições de acesso.",
+      "requiresBooking": true,
+      "bookingSponsorshipExempt": true,
+      "statusMessage": "VISITAÇÃO MEDIANTE AGENDAMENTO",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180,
+      "website": "https://cacapava.sp.gov.br/museu-ipiranga",
+      "notes": "A Prefeitura de Caçapava divulga o Museu Ipiranga como atração cultural e orienta o agendamento prévio. O horário administrativo da unidade não é tratado como horário turístico automático.",
+      "state": "SP",
+      "city": "Caçapava",
+      "region": "Sudeste"
+    },
+    {
+      "id": "forte-dos-andradas",
+      "name": "Forte dos Andradas",
+      "lat": -24.023103,
+      "lng": -46.284105,
+      "category": "Fortes e Fortalezas",
+      "org": "Exército / Forte dos Andradas",
+      "photoQuery": "Forte dos Andradas Guarujá",
+      "description": "Fortificação histórica no Guarujá, integrada à paisagem da Mata Atlântica e reconhecida oficialmente como atração turística e cultural do município.",
+      "address": "Rua Horácio Guedes Barreiro, s/n - Guaiúba, Guarujá - SP - CEP 11421-080",
+      "hours": "Terças, quintas, sextas, sábados e domingos, das 9h às 14h. Visitas monitoradas mediante agendamento.",
+      "admission": "Entrada gratuita. Visitação monitorada mediante agendamento prévio.",
+      "requiresBooking": true,
+      "bookingSponsorshipExempt": true,
+      "statusMessage": "VISITAÇÃO COM AGENDAMENTO",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-14:00"
+        ],
+        "3": [],
+        "4": [
+          "09:00-14:00"
+        ],
+        "5": [
+          "09:00-14:00"
+        ],
+        "6": [
+          "09:00-14:00"
+        ],
+        "7": [
+          "09:00-14:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.guaruja.sp.gov.br/9676-2",
+      "notes": "A Prefeitura do Guarujá informa visitação turística gratuita e monitorada. Confirme o agendamento antes do deslocamento.",
+      "state": "SP",
+      "city": "Guarujá",
+      "region": "Sudeste"
     }
   ],
   "routes": [
