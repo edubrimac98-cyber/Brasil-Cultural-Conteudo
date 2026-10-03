@@ -1,0 +1,146 @@
+{
+  "source": {
+    "name": "Secretaria da Cultura, Economia e Indústria Criativas do Estado de São Paulo - Museus",
+    "url": "https://www.cultura.sp.gov.br/sec_cultura/Equipamentos/museus",
+    "checkedAt": "2026-10-03"
+  },
+  "state": "SP",
+  "records": [
+    {
+      "name": "Casa das Rosas",
+      "city": "São Paulo",
+      "address": "Av. Paulista, 37 - Bela Vista, São Paulo - SP, 01311-902",
+      "hours": "Terça a domingo, 10h às 17h30; permanência até 18h. Jardim: diariamente, 7h às 22h.",
+      "admission": "Entrada gratuita.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Casa Guilherme de Almeida",
+      "city": "São Paulo",
+      "address": "Rua Macapá, 187 - Perdizes, São Paulo - SP, 05011-080",
+      "hours": "Terça a domingo, 10h às 18h.",
+      "admission": "Entrada gratuita.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Casa Mário de Andrade",
+      "city": "São Paulo",
+      "address": "Rua Lopes Chaves, 546 - Barra Funda, São Paulo - SP, 01154-010",
+      "hours": "Terça a domingo, 10h às 17h30; permanência até 18h.",
+      "admission": "Entrada gratuita.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Memorial da Resistência",
+      "city": "São Paulo",
+      "address": "Largo General Osório, 66 - Santa Ifigênia, São Paulo - SP, 01213-010",
+      "hours": "Quarta a segunda, 10h às 18h.",
+      "admission": "Entrada gratuita.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "MIS Experience",
+      "city": "São Paulo",
+      "address": "Rua Vladimir Herzog, 75 - Água Branca, São Paulo - SP, 05036-100",
+      "hours": "Conforme programação e exposição em cartaz.",
+      "admission": "Valor varia conforme a exposição.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Museu Afro Brasil Emanoel Araujo",
+      "city": "São Paulo",
+      "address": "Av. Pedro Álvares Cabral, s/n - Portão 10, Parque Ibirapuera, São Paulo - SP, 04094-050",
+      "hours": "Terça a domingo, 10h às 17h; permanência até 18h.",
+      "admission": "Inteira R$ 15,00; meia R$ 7,50; quartas-feiras gratuitas.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Museu da Diversidade Sexual",
+      "city": "São Paulo",
+      "address": "Rua do Arouche, 24 - República, São Paulo - SP, 01219-000",
+      "hours": "Terça a domingo, 10h às 18h.",
+      "admission": "Entrada gratuita.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Museu da Imigração",
+      "city": "São Paulo",
+      "address": "Rua Visconde de Parnaíba, 1316 - Mooca, São Paulo - SP, 03164-300",
+      "hours": "Terça a sábado, 9h às 18h; domingo, 10h às 18h; bilheteria até 17h.",
+      "admission": "Inteira R$ 16,00; meia R$ 8,00; sábados gratuitos.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Museu das Culturas Indígenas",
+      "city": "São Paulo",
+      "address": "Rua Dona Germaine Burchard, 451 - Água Branca, São Paulo - SP, 05002-062",
+      "hours": "Terça a domingo, 9h às 18h; quintas até 20h.",
+      "admission": "Inteira R$ 24,00; meia R$ 12,00.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Museu das Favelas",
+      "city": "São Paulo",
+      "address": "Largo Páteo do Colégio, 148 - Centro Histórico, São Paulo - SP, 01017-020",
+      "hours": "Terça a domingo, 10h às 17h; permanência até 18h.",
+      "admission": "Entrada gratuita.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Museu de Arte Sacra de São Paulo",
+      "city": "São Paulo",
+      "address": "Av. Tiradentes, 676 - Luz, São Paulo - SP, 01102-000",
+      "hours": "Terça a domingo, 9h às 17h; entrada no prédio até 16h30.",
+      "admission": "Inteira R$ 6,00; meia R$ 3,00.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Museu Casa de Portinari",
+      "city": "Brodowski",
+      "address": "Praça Candido Portinari, 298 - Centro, Brodowski - SP, 14340-000",
+      "hours": "Terça a domingo, 9h às 18h; quarta até 20h.",
+      "admission": "Entrada gratuita.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Museu do Café",
+      "city": "Santos",
+      "address": "Rua XV de Novembro, 95 - Centro, Santos - SP, 11010-150",
+      "hours": "Terça a sábado, 9h às 18h; domingo, 10h às 18h; bilheteria até 17h.",
+      "admission": "Inteira R$ 16,00; meia R$ 8,00.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Museu da Imagem e do Som (MIS)",
+      "city": "São Paulo",
+      "address": "Av. Europa, 158 - Jardim Europa, São Paulo - SP, 01449-000",
+      "hours": "Terça a sexta, 10h às 19h; sábado, 10h às 20h; domingos e feriados, 10h às 18h.",
+      "admission": "Valor varia conforme exposição e programação.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Paço das Artes",
+      "city": "São Paulo",
+      "address": "Rua Dr. Albuquerque Lins, 1345 - Higienópolis, São Paulo - SP, 01230-001",
+      "hours": "Terça a sábado, 11h às 19h; domingos e feriados, 12h às 18h.",
+      "admission": "Entrada gratuita.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Pina Contemporânea",
+      "city": "São Paulo",
+      "address": "Av. Tiradentes, 273 - Luz, São Paulo - SP, 01101-010",
+      "hours": "Quarta a segunda, 10h às 18h; entrada até 17h.",
+      "admission": "Inteira R$ 30,00; meia R$ 15,00.",
+      "status": "coordenadas_pendentes"
+    },
+    {
+      "name": "Pina Estação",
+      "city": "São Paulo",
+      "address": "Largo General Osório, 66 - Santa Ifigênia, São Paulo - SP, 01213-010",
+      "hours": "Quarta a segunda, 10h às 18h; entrada até 17h.",
+      "admission": "Entrada gratuita.",
+      "status": "coordenadas_pendentes"
+    }
+  ]
+}
