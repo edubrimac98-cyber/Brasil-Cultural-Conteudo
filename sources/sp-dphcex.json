@@ -17,8 +17,9 @@
       "ordinance": "Port nº 986-Cmt Ex, de 28 Ago 14",
       "phone": "(11) 3686-5442",
       "sourceStatus": "Revisado",
-      "appStatus": "triagem_turistica_pendente",
-      "touristEligible": null
+      "appStatus": "nao_selecionado_sem_evidencia_turistica",
+      "touristEligible": false,
+      "rationale": "Há vínculo institucional com o município, mas não foi encontrada evidência suficiente de visitação turística pública do espaço cultural."
     },
     {
       "number": 36,
@@ -29,8 +30,9 @@
       "address": "Praça Duque de Caxias, 284 - Centro, Itu - SP, 13300-916",
       "ordinance": "Port 1086 Cmt Ex 12/08/15",
       "sourceStatus": "Revisado",
-      "appStatus": "triagem_turistica_pendente",
-      "touristEligible": null
+      "appStatus": "selecionado_turistico",
+      "touristEligible": true,
+      "rationale": "Quartel de Itu/Regimento Deodoro integra rotas turísticas municipais e possui espaço museológico com histórico de visitação pública."
     },
     {
       "number": 37,
@@ -41,8 +43,9 @@
       "address": "Av. Papa Pio XII, 350 - Jardim Chapadão, Campinas - SP, 13070-091",
       "ordinance": "Port 089 Cmt Ex 11/04/16",
       "sourceStatus": "Revisado",
-      "appStatus": "triagem_turistica_pendente",
-      "touristEligible": null
+      "appStatus": "selecionado_turistico",
+      "touristEligible": true,
+      "rationale": "EsPCEx recebe visitas guiadas, possui Memorial e participa de programa turístico municipal de Campinas."
     },
     {
       "number": 38,
@@ -53,8 +56,9 @@
       "address": "R. Marquês de Herval, 109 - Centro, Caçapava - SP, 12281-510",
       "ordinance": "Port 654 Cmt Ex 10/06/16",
       "sourceStatus": "Revisado",
-      "appStatus": "triagem_turistica_pendente",
-      "touristEligible": null
+      "appStatus": "nao_selecionado_sem_evidencia_turistica",
+      "touristEligible": false,
+      "rationale": "Não foi encontrada evidência suficiente de funcionamento como atração turística pública regular."
     },
     {
       "number": 39,
@@ -65,8 +69,9 @@
       "address": "R. José Bonifácio - Jardim Rafael, Caçapava - SP, 12288-560",
       "ordinance": "Port 656 Cmt Ex 10/06/16",
       "sourceStatus": "Revisado",
-      "appStatus": "triagem_turistica_pendente",
-      "touristEligible": null
+      "appStatus": "selecionado_turistico",
+      "touristEligible": true,
+      "rationale": "Espaço Cultural do Regimento Ipiranga/Museu Ipiranga consta em rotas turísticas da Prefeitura de Caçapava e recebe visitas mediante agendamento."
     },
     {
       "number": 40,
@@ -77,8 +82,9 @@
       "address": "Rua Alfredo Pujol, nº 681, Santana, São Paulo - SP, CEP 02013-055",
       "ordinance": "Port 1730 Cmt Ex, de 15/12/17",
       "sourceStatus": "Revisado",
-      "appStatus": "triagem_turistica_pendente",
-      "touristEligible": null
+      "appStatus": "nao_selecionado_sem_evidencia_turistica",
+      "touristEligible": false,
+      "rationale": "Foram encontradas visitas institucionais ao CPOR/SP, mas não evidência suficiente de oferta turística pública regular."
     },
     {
       "number": 41,
@@ -89,8 +95,9 @@
       "address": "Rua Interna Grupo Bandeirante, nº 29, Vila Militar, Barueri - SP, CEP 06442-130",
       "ordinance": "Port 625 Cmt Ex 01/06/20",
       "sourceStatus": "Revisado",
-      "appStatus": "triagem_turistica_pendente",
-      "touristEligible": null
+      "appStatus": "pendente_vocacao_turistica",
+      "touristEligible": null,
+      "rationale": "Museu histórico recebe grupos mediante agendamento, mas ainda falta evidência suficiente de enquadramento como ponto turístico municipal/estadual."
     },
     {
       "number": 42,
@@ -101,8 +108,9 @@
       "address": "Estrada Municipal dos Remédios, nº 2135, Itaim, Taubaté - SP, CEP 12086-000",
       "ordinance": "Port 765 Cmt Ex, de 03/08/20",
       "sourceStatus": "Conferir no PDF/site",
-      "appStatus": "triagem_turistica_pendente",
-      "touristEligible": null
+      "appStatus": "pendente_vocacao_turistica",
+      "touristEligible": null,
+      "rationale": "Há visitas técnicas e grande evento anual aberto ao público, mas não foi confirmada visitação turística regular à Sala de Aviação."
     },
     {
       "number": 43,
@@ -114,8 +122,9 @@
       "ordinance": "Port 393 Cmt Ex 14/04/20",
       "phone": "(13) 3354-2817",
       "sourceStatus": "Revisado",
-      "appStatus": "triagem_turistica_pendente",
-      "touristEligible": null
+      "appStatus": "selecionado_turistico",
+      "touristEligible": true,
+      "rationale": "Forte dos Andradas é atração turística oficial de Guarujá, com visitação guiada e acesso controlado."
     },
     {
       "number": 44,
@@ -127,8 +136,9 @@
       "ordinance": "Port 658 Cmt Ex, de 10/06/16",
       "phone": "(11) 2273-2530",
       "sourceStatus": "Conferir no PDF/site",
-      "appStatus": "triagem_turistica_pendente",
-      "touristEligible": null
+      "appStatus": "selecionado_turistico_status_visitacao_a_confirmar",
+      "touristEligible": true,
+      "rationale": "Fortaleza de Itaipu é atração turística oficial de Praia Grande; fontes públicas divergem sobre a situação atual da visitação, que deve ser confirmada antes da publicação."
     },
     {
       "number": 45,
@@ -139,8 +149,9 @@
       "address": "Av. Soldado Passarinho, nº 1601, Jardim Chapadão, Campinas - SP",
       "ordinance": "Port 2527 Cmt Ex 25/07/25",
       "sourceStatus": "Revisado",
-      "appStatus": "triagem_turistica_pendente",
-      "touristEligible": null
+      "appStatus": "pendente_vocacao_turistica",
+      "touristEligible": null,
+      "rationale": "Há evento público especial no Forte Anhanguera, mas ainda não foi confirmada oferta turística regular do espaço cultural."
     }
   ],
   "selectionPolicy": {
@@ -159,6 +170,8 @@
       "Fortaleza de Santa Cruz da Barra",
       "Forte Duque de Caxias",
       "Forte de Copacabana"
-    ]
+    ],
+    "requireTouristEvidence": true,
+    "note": "Visitação institucional, técnica ou evento eventual não são suficientes, isoladamente, para inclusão no Brasil Cultural."
   }
 }
