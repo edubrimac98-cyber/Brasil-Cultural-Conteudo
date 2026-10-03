@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.17",
+  "version": "2026.10.03-sp-lote1-teste",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1099,6 +1099,205 @@
         ],
         "5": [
           "09:00-17:00"
+        ],
+        "6": [
+          "10:00-17:00"
+        ],
+        "7": [
+          "10:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
+    },
+    {
+      "id": "masp",
+      "name": "MASP - Museu de Arte de São Paulo Assis Chateaubriand",
+      "lat": -23.56150875,
+      "lng": -46.6559604864472,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "MASP Museu de Arte de São Paulo Avenida Paulista",
+      "description": "Museu de arte localizado na Avenida Paulista, conhecido pelo edifício projetado por Lina Bo Bardi e por seu acervo de arte brasileira e internacional.",
+      "address": "Avenida Paulista, 1578 - Bela Vista, São Paulo - SP - CEP 01310-200",
+      "hours": "Terça, das 10h às 20h; quarta, quinta, sábado e domingo, das 10h às 18h; sexta, das 10h às 21h. Segunda-feira: fechado.",
+      "website": "https://masp.org.br/visite",
+      "notes": "O agendamento on-line é obrigatório, inclusive nos períodos de gratuidade. Horários especiais e fechamentos extraordinários podem ser divulgados pelo museu.",
+      "state": "SP",
+      "region": "Sudeste",
+      "admission": "Inteira R$ 85,00 • Meia R$ 42,00 • terça-feira gratuita para todos • sexta-feira gratuita das 18h às 21h • outras gratuidades conforme regras do museu.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-20:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-21:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "requiresBooking": true,
+      "bookingUrl": "https://www.bilheteria.masp.org.br/",
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": false
+    },
+    {
+      "id": "pinacoteca-sp",
+      "name": "Pinacoteca de São Paulo",
+      "lat": -23.5342846,
+      "lng": -46.633915,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Pinacoteca de São Paulo Pina Luz",
+      "description": "Museu de artes visuais dedicado à produção brasileira do século XIX à contemporaneidade, com programação distribuída entre Pina Luz, Pina Estação e Pina Contemporânea.",
+      "address": "Praça da Luz, 2 - Luz, São Paulo - SP - CEP 01120-010",
+      "hours": "De quarta a segunda, das 10h às 18h, com entrada até 17h. Terça-feira: fechado.",
+      "website": "https://pinacoteca.org.br/visita/planeje-sua-visita/",
+      "notes": "Um único ingresso dá acesso aos três edifícios da Pinacoteca. Aos sábados e nos segundos domingos do mês a entrada é gratuita para todos.",
+      "state": "SP",
+      "region": "Sudeste",
+      "admission": "Inteira R$ 40,00 • Meia R$ 20,00 • compra on-line acrescida de taxa • sábados e segundos domingos do mês: entrada gratuita para todos • outras gratuidades conforme regras do museu.",
+      "weeklyHours": {
+        "1": [
+          "10:00-18:00"
+        ],
+        "2": [],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
+    },
+    {
+      "id": "museu-lingua-portuguesa",
+      "name": "Museu da Língua Portuguesa",
+      "lat": -23.534721169224948,
+      "lng": -46.63517483209856,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu da Língua Portuguesa Estação da Luz São Paulo",
+      "description": "Museu dedicado à diversidade, à história e às transformações da língua portuguesa, instalado no edifício histórico da Estação da Luz.",
+      "address": "Praça da Luz, s/n - Centro Histórico de São Paulo, São Paulo - SP - CEP 01120-010",
+      "hours": "De terça a domingo, das 9h às 16h30 para entrada, com permanência permitida até 18h. Segunda-feira: fechado.",
+      "website": "https://www.museudalinguaportuguesa.org.br/visite/horarios-e-ingressos/",
+      "notes": "A compra antecipada é recomendada. O museu divulga fechamentos excepcionais em datas específicas; consulte o site oficial antes da visita.",
+      "state": "SP",
+      "region": "Sudeste",
+      "admission": "Inteira R$ 25,00 • Meia R$ 12,50 • terças-feiras e domingos: entrada gratuita para todos • crianças até 7 anos não pagam • outras gratuidades conforme regras do museu.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-16:30"
+        ],
+        "3": [
+          "09:00-16:30"
+        ],
+        "4": [
+          "09:00-16:30"
+        ],
+        "5": [
+          "09:00-16:30"
+        ],
+        "6": [
+          "09:00-16:30"
+        ],
+        "7": [
+          "09:00-16:30"
+        ]
+      },
+      "utcOffsetMinutes": -180
+    },
+    {
+      "id": "museu-futebol-sp",
+      "name": "Museu do Futebol",
+      "lat": -23.5430886,
+      "lng": -46.6653622,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu do Futebol Pacaembu São Paulo",
+      "description": "Museu instalado no Estádio do Pacaembu dedicado à história, à cultura e às memórias do futebol brasileiro.",
+      "address": "Praça Charles Miller, s/n - Estádio do Pacaembu, São Paulo - SP - CEP 01234-010",
+      "hours": "De terça a domingo, das 9h às 18h, com entrada até 17h. Na primeira terça-feira de cada mês, funcionamento até 21h. Segunda-feira: fechado.",
+      "website": "https://museudofutebol.org.br/horarios-e-ingressos/",
+      "notes": "O museu pode adotar horários especiais em datas específicas. Visitas educativas para grupos exigem agendamento prévio.",
+      "state": "SP",
+      "region": "Sudeste",
+      "admission": "Inteira R$ 25,00 • Meia R$ 12,50 • terças-feiras: entrada gratuita para todos • crianças até 7 anos não pagam • outras gratuidades conforme regras do museu.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "09:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180
+    },
+    {
+      "id": "museu-ipiranga",
+      "name": "Museu do Ipiranga",
+      "lat": -23.58562059379525,
+      "lng": -46.60971161445192,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu do Ipiranga São Paulo",
+      "description": "Sede do Museu Paulista da Universidade de São Paulo, dedicado à história e à cultura material, instalado no edifício-monumento do Parque da Independência.",
+      "address": "Rua dos Patriotas, 100 - Ipiranga, São Paulo - SP - CEP 04207-030",
+      "hours": "De terça a domingo, das 10h às 17h, com última entrada às 16h. Segunda-feira: fechado.",
+      "website": "https://museudoipiranga.org.br/visite/",
+      "notes": "Quartas-feiras e o primeiro domingo de cada mês têm gratuidade para todos. Há cotas de ingressos presenciais sujeitas à disponibilidade. Grupos com 10 pessoas ou mais exigem agendamento.",
+      "state": "SP",
+      "region": "Sudeste",
+      "admission": "Inteira R$ 30,00 • Meia R$ 15,00 • quartas-feiras e primeiro domingo do mês: entrada gratuita para todos • outras gratuidades conforme regras do museu.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
         ],
         "6": [
           "10:00-17:00"
