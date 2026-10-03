@@ -1,0 +1,135 @@
+{
+  "source": {
+    "name": "DPHCEx - Espaços Culturais regularizados",
+    "referenceDate": "2026-07-01",
+    "originFile": "Espacos_Culturais_DPHCEx_Revisados_A3.xlsx",
+    "militaryRegion": "2ª Região Militar"
+  },
+  "state": "SP",
+  "records": [
+    {
+      "number": 35,
+      "category": "Espaço Cultural",
+      "name": "Espaço Cultural do 2º BPE",
+      "organization": "2º Batalhão de Polícia do Exército",
+      "city": "Osasco",
+      "address": "Rua Raul Lessa, nº 52, Aliança, Osasco - SP",
+      "ordinance": "Port nº 986-Cmt Ex, de 28 Ago 14",
+      "phone": "(11) 3686-5442",
+      "sourceStatus": "Revisado",
+      "appStatus": "dados_em_validacao"
+    },
+    {
+      "number": 36,
+      "category": "Sala de Exposição",
+      "name": "Sala de Exposição Domingos Fernandes",
+      "organization": "2º GAC L",
+      "city": "Itu",
+      "address": "Praça Duque de Caxias, 284 - Centro, Itu - SP, 13300-916",
+      "ordinance": "Port 1086 Cmt Ex 12/08/15",
+      "sourceStatus": "Revisado",
+      "appStatus": "dados_em_validacao"
+    },
+    {
+      "number": 37,
+      "category": "Memorial",
+      "name": "Memorial da Escola Preparatória de Cadetes do Exército",
+      "organization": "EsPCEx",
+      "city": "Campinas",
+      "address": "Av. Papa Pio XII, 350 - Jardim Chapadão, Campinas - SP, 13070-091",
+      "ordinance": "Port 089 Cmt Ex 11/04/16",
+      "sourceStatus": "Revisado",
+      "appStatus": "dados_em_validacao"
+    },
+    {
+      "number": 38,
+      "category": "Espaço Cultural",
+      "name": "Espaço Cultural do Comando da 12ª Brigada de Infantaria Leve (Aeromóvel)",
+      "organization": "12ª Brigada de Infantaria Leve (Aeromóvel)",
+      "city": "Caçapava",
+      "address": "R. Marquês de Herval, 109 - Centro, Caçapava - SP, 12281-510",
+      "ordinance": "Port 654 Cmt Ex 10/06/16",
+      "sourceStatus": "Revisado",
+      "appStatus": "dados_em_validacao"
+    },
+    {
+      "number": 39,
+      "category": "Espaço Cultural",
+      "name": "Espaço Cultural Regimento Ipiranga",
+      "organization": "6º BIL",
+      "city": "Caçapava",
+      "address": "R. José Bonifácio - Jardim Rafael, Caçapava - SP, 12288-560",
+      "ordinance": "Port 656 Cmt Ex 10/06/16",
+      "sourceStatus": "Revisado",
+      "appStatus": "dados_em_validacao"
+    },
+    {
+      "number": 40,
+      "category": "Sala de Exposição",
+      "name": "Sala de Exposição Tenente Amaro",
+      "organization": "CPOR/CMSP",
+      "city": "São Paulo",
+      "address": "Rua Alfredo Pujol, nº 681, Santana, São Paulo - SP, CEP 02013-055",
+      "ordinance": "Port 1730 Cmt Ex, de 15/12/17",
+      "sourceStatus": "Revisado",
+      "appStatus": "dados_em_validacao"
+    },
+    {
+      "number": 41,
+      "category": "Espaço Cultural",
+      "name": "Espaço Cultural III Grupo 105 da Força Expedicionária Brasileira",
+      "organization": "20º GAC L",
+      "city": "Barueri",
+      "address": "Rua Interna Grupo Bandeirante, nº 29, Vila Militar, Barueri - SP, CEP 06442-130",
+      "ordinance": "Port 625 Cmt Ex 01/06/20",
+      "sourceStatus": "Revisado",
+      "appStatus": "dados_em_validacao"
+    },
+    {
+      "number": 42,
+      "category": "Sala de Exposição",
+      "name": "Sala de Aviação do Exército",
+      "organization": "CavEx",
+      "city": "Taubaté",
+      "address": "Estrada Municipal dos Remédios, nº 2135, Itaim, Taubaté - SP, CEP 12086-000",
+      "ordinance": "Port 765 Cmt Ex, de 03/08/20",
+      "sourceStatus": "Conferir no PDF/site",
+      "appStatus": "dados_em_validacao"
+    },
+    {
+      "number": 43,
+      "category": "Forte",
+      "name": "Forte dos Andradas",
+      "organization": "Cmdo DAAe Ex",
+      "city": "Guarujá",
+      "address": "Rua Marechal Emílio Mallet, nº 1000, Jardim Guaiuba, Guarujá - SP, CEP 11421-080",
+      "ordinance": "Port 393 Cmt Ex 14/04/20",
+      "phone": "(13) 3354-2817",
+      "sourceStatus": "Revisado",
+      "appStatus": "dados_em_validacao"
+    },
+    {
+      "number": 44,
+      "category": "Espaço Cultural",
+      "name": "Espaço Cultural Fortaleza de Itaipu",
+      "organization": "2º GAAAe",
+      "city": "Praia Grande",
+      "address": "Av. Marechal Mallet, nº 1, Canto do Forte, Praia Grande - SP, CEP 11700-400",
+      "ordinance": "Port 658 Cmt Ex, de 10/06/16",
+      "phone": "(11) 2273-2530",
+      "sourceStatus": "Conferir no PDF/site",
+      "appStatus": "dados_em_validacao"
+    },
+    {
+      "number": 45,
+      "category": "Espaço Cultural",
+      "name": "Espaço Cultural Forte Anhanguera",
+      "organization": "Cmdo 11ª Bda Inf Mec",
+      "city": "Campinas",
+      "address": "Av. Soldado Passarinho, nº 1601, Jardim Chapadão, Campinas - SP",
+      "ordinance": "Port 2527 Cmt Ex 25/07/25",
+      "sourceStatus": "Revisado",
+      "appStatus": "dados_em_validacao"
+    }
+  ]
+}
