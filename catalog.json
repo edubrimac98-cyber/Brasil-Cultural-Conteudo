@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03-sp-militares-teste-1",
+  "version": "2026.10.03-sp-civis-teste-2",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1449,6 +1449,221 @@
       "notes": "A Prefeitura do Guarujá informa visitação turística gratuita e monitorada. Confirme o agendamento antes do deslocamento.",
       "state": "SP",
       "city": "Guarujá",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-casa-portinari",
+      "name": "Museu Casa de Portinari",
+      "lat": -20.9941152,
+      "lng": -47.6587598,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu Casa de Portinari Brodowski",
+      "description": "Museu instalado na antiga residência de Candido Portinari, em Brodowski, dedicado à preservação e difusão da vida, obra e memória do artista.",
+      "address": "Praça Candido Portinari, 298 - Centro, Brodowski - SP - CEP 14340-000",
+      "hours": "Terça a domingo, das 9h às 18h. Quarta-feira, horário estendido até 20h. Segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-20:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "09:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museucasadeportinari.org.br/",
+      "notes": "Entrada gratuita. Consulte o site oficial para eventuais alterações de funcionamento em feriados e datas especiais.",
+      "state": "SP",
+      "city": "Brodowski",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-cafe-santos",
+      "name": "Museu do Café",
+      "lat": -23.93222946598183,
+      "lng": -46.33004307746888,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu do Café Santos Bolsa Oficial do Café",
+      "description": "Museu instalado no edifício histórico da antiga Bolsa Oficial de Café, no Centro Histórico de Santos, dedicado à história da cafeicultura e sua relação com o desenvolvimento do Brasil.",
+      "address": "Rua XV de Novembro, 95 - Centro, Santos - SP - CEP 11010-150",
+      "hours": "Terça a sábado, das 9h às 18h; domingo, das 10h às 18h. Bilheteria até 17h. Segunda-feira: fechado.",
+      "admission": "Inteira R$ 16,00 • Meia R$ 8,00 • gratuidades conforme política oficial do museu.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museudocafe.org.br/",
+      "bookingUrl": "https://museudocafe.byinti.com/#/",
+      "requiresBooking": false,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": false,
+      "notes": "A compra antecipada é opcional. O link de ingresso permanece sujeito à regra de patrocínio do Brasil Cultural.",
+      "state": "SP",
+      "city": "Santos",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-felicia-leirner",
+      "name": "Museu Felícia Leirner e Auditório Claudio Santoro",
+      "lat": -22.742979090324415,
+      "lng": -45.63419300992826,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu Felícia Leirner Campos do Jordão",
+      "description": "Museu a céu aberto em Campos do Jordão, com esculturas de Felícia Leirner integradas à paisagem, no mesmo complexo do Auditório Claudio Santoro.",
+      "address": "Avenida Dr. Luís Arrobas Martins, 1880 - Alto da Boa Vista, Campos do Jordão - SP - CEP 12472-820",
+      "hours": "Terça a domingo, das 9h às 18h. Segunda-feira: fechado, exceto quando feriado.",
+      "admission": "Inteira R$ 15,00 • Meia R$ 7,50 • gratuidades conforme política oficial do museu.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "09:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museufelicialeirner.org.br/",
+      "bookingUrl": "https://www.museufelicialeirner.org.br/visite/ingressos-e-gratuidade/",
+      "requiresBooking": false,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": false,
+      "notes": "O complexo pode adotar horários especiais em feriados e datas de fim de ano. Consulte o site oficial antes da visita.",
+      "state": "SP",
+      "city": "Campos do Jordão",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-india-vanuire",
+      "name": "Museu Histórico e Pedagógico Índia Vanuíre",
+      "lat": -21.93431771790491,
+      "lng": -50.515069665520535,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu Índia Vanuíre Tupã",
+      "description": "Museu em Tupã dedicado à história regional e às culturas indígenas, com importante coleção etnográfica e programação educativa.",
+      "address": "Rua Coroados, 521 - Centro, Tupã - SP - CEP 17600-010",
+      "hours": "Terça a domingo, das 9h às 18h. Quinta-feira, horário estendido até 20h. Segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-20:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "09:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museuindiavanuire.org.br/",
+      "notes": "Entrada gratuita. Consulte o site oficial para alterações de funcionamento em feriados e datas especiais.",
+      "state": "SP",
+      "city": "Tupã",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-imigracao-sp",
+      "name": "Museu da Imigração do Estado de São Paulo",
+      "lat": -23.5446512,
+      "lng": -46.6051577,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu da Imigração São Paulo Mooca",
+      "description": "Museu instalado na antiga Hospedaria de Imigrantes do Brás, dedicado às histórias de migração, acolhimento e formação cultural do estado e da cidade de São Paulo.",
+      "address": "Rua Visconde de Parnaíba, 1316 - Mooca, São Paulo - SP - CEP 03164-300",
+      "hours": "Terça a sábado, das 9h às 18h; domingo, das 10h às 18h. Bilheteria até 17h. Segunda-feira: fechado.",
+      "admission": "Inteira R$ 16,00 • Meia R$ 8,00 • sábados: entrada gratuita • outras gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "specialHours": {
+        "2026-10-04": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museudaimigracao.org.br/",
+      "bookingUrl": "https://bileto.sympla.com.br/event/71152?share_id=1-copiarlink",
+      "requiresBooking": false,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": false,
+      "notes": "Fechado excepcionalmente em 4 de outubro de 2026, conforme aviso oficial do museu. Grupos podem ter regras próprias de agendamento.",
+      "state": "SP",
+      "city": "São Paulo",
       "region": "Sudeste"
     }
   ],
