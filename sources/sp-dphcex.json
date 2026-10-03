@@ -17,7 +17,8 @@
       "ordinance": "Port nº 986-Cmt Ex, de 28 Ago 14",
       "phone": "(11) 3686-5442",
       "sourceStatus": "Revisado",
-      "appStatus": "dados_em_validacao"
+      "appStatus": "triagem_turistica_pendente",
+      "touristEligible": null
     },
     {
       "number": 36,
@@ -28,7 +29,8 @@
       "address": "Praça Duque de Caxias, 284 - Centro, Itu - SP, 13300-916",
       "ordinance": "Port 1086 Cmt Ex 12/08/15",
       "sourceStatus": "Revisado",
-      "appStatus": "dados_em_validacao"
+      "appStatus": "triagem_turistica_pendente",
+      "touristEligible": null
     },
     {
       "number": 37,
@@ -39,7 +41,8 @@
       "address": "Av. Papa Pio XII, 350 - Jardim Chapadão, Campinas - SP, 13070-091",
       "ordinance": "Port 089 Cmt Ex 11/04/16",
       "sourceStatus": "Revisado",
-      "appStatus": "dados_em_validacao"
+      "appStatus": "triagem_turistica_pendente",
+      "touristEligible": null
     },
     {
       "number": 38,
@@ -50,7 +53,8 @@
       "address": "R. Marquês de Herval, 109 - Centro, Caçapava - SP, 12281-510",
       "ordinance": "Port 654 Cmt Ex 10/06/16",
       "sourceStatus": "Revisado",
-      "appStatus": "dados_em_validacao"
+      "appStatus": "triagem_turistica_pendente",
+      "touristEligible": null
     },
     {
       "number": 39,
@@ -61,7 +65,8 @@
       "address": "R. José Bonifácio - Jardim Rafael, Caçapava - SP, 12288-560",
       "ordinance": "Port 656 Cmt Ex 10/06/16",
       "sourceStatus": "Revisado",
-      "appStatus": "dados_em_validacao"
+      "appStatus": "triagem_turistica_pendente",
+      "touristEligible": null
     },
     {
       "number": 40,
@@ -72,7 +77,8 @@
       "address": "Rua Alfredo Pujol, nº 681, Santana, São Paulo - SP, CEP 02013-055",
       "ordinance": "Port 1730 Cmt Ex, de 15/12/17",
       "sourceStatus": "Revisado",
-      "appStatus": "dados_em_validacao"
+      "appStatus": "triagem_turistica_pendente",
+      "touristEligible": null
     },
     {
       "number": 41,
@@ -83,7 +89,8 @@
       "address": "Rua Interna Grupo Bandeirante, nº 29, Vila Militar, Barueri - SP, CEP 06442-130",
       "ordinance": "Port 625 Cmt Ex 01/06/20",
       "sourceStatus": "Revisado",
-      "appStatus": "dados_em_validacao"
+      "appStatus": "triagem_turistica_pendente",
+      "touristEligible": null
     },
     {
       "number": 42,
@@ -94,7 +101,8 @@
       "address": "Estrada Municipal dos Remédios, nº 2135, Itaim, Taubaté - SP, CEP 12086-000",
       "ordinance": "Port 765 Cmt Ex, de 03/08/20",
       "sourceStatus": "Conferir no PDF/site",
-      "appStatus": "dados_em_validacao"
+      "appStatus": "triagem_turistica_pendente",
+      "touristEligible": null
     },
     {
       "number": 43,
@@ -106,7 +114,8 @@
       "ordinance": "Port 393 Cmt Ex 14/04/20",
       "phone": "(13) 3354-2817",
       "sourceStatus": "Revisado",
-      "appStatus": "dados_em_validacao"
+      "appStatus": "triagem_turistica_pendente",
+      "touristEligible": null
     },
     {
       "number": 44,
@@ -118,7 +127,8 @@
       "ordinance": "Port 658 Cmt Ex, de 10/06/16",
       "phone": "(11) 2273-2530",
       "sourceStatus": "Conferir no PDF/site",
-      "appStatus": "dados_em_validacao"
+      "appStatus": "triagem_turistica_pendente",
+      "touristEligible": null
     },
     {
       "number": 45,
@@ -129,7 +139,26 @@
       "address": "Av. Soldado Passarinho, nº 1601, Jardim Chapadão, Campinas - SP",
       "ordinance": "Port 2527 Cmt Ex 25/07/25",
       "sourceStatus": "Revisado",
-      "appStatus": "dados_em_validacao"
+      "appStatus": "triagem_turistica_pendente",
+      "touristEligible": null
     }
-  ]
+  ],
+  "selectionPolicy": {
+    "purpose": "A relação DPHCEx é fonte de triagem. Não implica inclusão automática no Brasil Cultural.",
+    "includeOnlyIf": [
+      "o espaço também funcionar como ponto turístico ou atração cultural de interesse ao visitante",
+      "houver visitação pública regular ou mediante agendamento claramente oferecido ao público",
+      "existirem informações públicas suficientes para orientar a visita sem confundir horário administrativo da Organização Militar com horário turístico"
+    ],
+    "excludeExamples": [
+      "salas de exposição internas de quartel sem visitação turística pública divulgada",
+      "memoriais ou espaços institucionais voltados apenas ao público interno",
+      "espaços sem evidência de acesso público ou sem vocação turística identificável"
+    ],
+    "referenceExamples": [
+      "Fortaleza de Santa Cruz da Barra",
+      "Forte Duque de Caxias",
+      "Forte de Copacabana"
+    ]
+  }
 }
