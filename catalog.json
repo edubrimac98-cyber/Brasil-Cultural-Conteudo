@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.02.16",
+  "version": "2026.10.02.17",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1307,6 +1307,70 @@
       "url": "https://www.tripadvisor.com.br/Restaurants",
       "active": false,
       "description": "Link oficial cadastrado. Aguardando ativação do patrocínio."
+    },
+    {
+      "id": "latam",
+      "name": "LATAM Airlines",
+      "category": "airlines",
+      "url": "https://www.latamairlines.com/br/pt",
+      "active": false,
+      "description": "Compra de passagens. Link oficial cadastrado e aguardando ativação do patrocínio."
+    },
+    {
+      "id": "gol",
+      "name": "GOL Linhas Aéreas",
+      "category": "airlines",
+      "url": "https://www.voegol.com.br/",
+      "active": false,
+      "description": "Compra de passagens. Link oficial cadastrado e aguardando ativação do patrocínio."
+    },
+    {
+      "id": "azul",
+      "name": "Azul Linhas Aéreas",
+      "category": "airlines",
+      "url": "https://www.voeazul.com.br/br/pt/home",
+      "active": false,
+      "description": "Compra de passagens. Link oficial cadastrado e aguardando ativação do patrocínio."
+    },
+    {
+      "id": "cometa",
+      "name": "Viação Cometa",
+      "category": "intercity_bus",
+      "url": "https://www.viacaocometa.com.br/",
+      "active": false,
+      "description": "Compra de passagens interestaduais. Link oficial cadastrado e aguardando ativação do patrocínio."
+    },
+    {
+      "id": "autoviacao1001",
+      "name": "Auto Viação 1001",
+      "category": "intercity_bus",
+      "url": "https://www.autoviacao1001.com.br/",
+      "active": false,
+      "description": "Compra de passagens interestaduais. Link oficial cadastrado e aguardando ativação do patrocínio."
+    },
+    {
+      "id": "gontijo",
+      "name": "Gontijo",
+      "category": "intercity_bus",
+      "url": "https://www.gontijo.com.br/compra-de-passagens",
+      "active": false,
+      "description": "Compra de passagens interestaduais. Link oficial cadastrado e aguardando ativação do patrocínio."
+    },
+    {
+      "id": "guanabara",
+      "name": "Guanabara",
+      "category": "intercity_bus",
+      "url": "https://viajeguanabara.com.br/",
+      "active": false,
+      "description": "Compra de passagens interestaduais. Link oficial cadastrado e aguardando ativação do patrocínio."
+    },
+    {
+      "id": "aguia-branca",
+      "name": "Águia Branca",
+      "category": "intercity_bus",
+      "url": "https://www.aguiabranca.com.br/",
+      "active": false,
+      "description": "Compra de passagens interestaduais. Link oficial cadastrado e aguardando ativação do patrocínio."
     }
   ]
 }
