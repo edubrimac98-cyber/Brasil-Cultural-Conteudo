@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "build": 6,
-  "updateUrl": "",
-  "notes": "Inclui histórico de visitação por espaço desde 2026, detalhamento anual, mensal, semanal e diário, além de ingresso, horários estruturados e status aberto/fechado para os espaços culturais."
+  "version": "1.2.18",
+  "build": 21,
+  "updateUrl": "https://github.com/edubrimac98-cyber/brasil-cultural/releases/download/teste-v25/app-release.apk",
+  "notes": "Atualização de teste com navegação por Estados e cidades, recuperação da visitação demonstrativa, melhorias no carregamento de fotografias e expansão do catálogo do Rio de Janeiro, Niterói e São Paulo."
 }
