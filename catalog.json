@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03-sp-triagem-teste-8",
+  "version": "2026.10.03-sp-estaduais-teste-9",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1484,7 +1484,7 @@
       "description": "Museu instalado no edifício histórico da antiga Bolsa Oficial de Café, no Centro Histórico de Santos, dedicado à história da cafeicultura e sua relação com o desenvolvimento do Brasil.",
       "address": "Rua XV de Novembro, 95 - Centro, Santos - SP - CEP 11010-150",
       "hours": "Terça a sábado, das 9h às 18h; domingo, das 10h às 18h. Bilheteria até 17h. Segunda-feira: fechado.",
-      "admission": "Inteira R$ 16,00 • Meia R$ 8,00 • gratuidades conforme política oficial do museu.",
+      "admission": "Inteira R$ 16,00 • Meia R$ 8,00 • sábados: entrada gratuita • demais gratuidades conforme política oficial.",
       "weeklyHours": {
         "1": [],
         "2": [
@@ -1528,7 +1528,7 @@
       "description": "Museu a céu aberto em Campos do Jordão, com esculturas de Felícia Leirner integradas à paisagem, no mesmo complexo do Auditório Claudio Santoro.",
       "address": "Avenida Dr. Luís Arrobas Martins, 1880 - Alto da Boa Vista, Campos do Jordão - SP - CEP 12472-820",
       "hours": "Terça a domingo, das 9h às 18h. Segunda-feira: fechado, exceto quando feriado.",
-      "admission": "Inteira R$ 15,00 • Meia R$ 7,50 • gratuidades conforme política oficial do museu.",
+      "admission": "Inteira R$ 20,00 • Meia R$ 10,00 • domingos: entrada gratuita • demais gratuidades conforme política oficial.",
       "weeklyHours": {
         "1": [],
         "2": [
@@ -1556,7 +1556,7 @@
       "requiresBooking": false,
       "bookingSponsoredActive": false,
       "bookingSponsorshipExempt": false,
-      "notes": "O complexo pode adotar horários especiais em feriados e datas de fim de ano. Consulte o site oficial antes da visita.",
+      "notes": "Visitação individual não exige agendamento prévio. Grupos podem agendar visita educativa. Consulte a programação oficial para alterações e eventos especiais.",
       "state": "SP",
       "city": "Campos do Jordão",
       "region": "Sudeste"
@@ -1572,7 +1572,7 @@
       "description": "Museu em Tupã dedicado à história regional e às culturas indígenas, com importante coleção etnográfica e programação educativa.",
       "address": "Rua Coroados, 521 - Centro, Tupã - SP - CEP 17600-010",
       "hours": "Terça a domingo, das 9h às 18h. Quinta-feira, horário estendido até 20h. Segunda-feira: fechado.",
-      "admission": "Entrada gratuita.",
+      "admission": "Entrada livre, com contribuição voluntária ao final da visita.",
       "weeklyHours": {
         "1": [],
         "2": [
@@ -1596,10 +1596,20 @@
       },
       "utcOffsetMinutes": -180,
       "website": "https://www.museuindiavanuire.org.br/",
-      "notes": "Entrada gratuita. Consulte o site oficial para alterações de funcionamento em feriados e datas especiais.",
+      "notes": "Entrada livre; contribuição voluntária é opcional. Em 24 e 31 de dezembro, funcionamento até 13h; fechado em 25 de dezembro e 1º de janeiro.",
       "state": "SP",
       "city": "Tupã",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "specialHours": {
+        "2026-12-24": [
+          "09:00-13:00"
+        ],
+        "2026-12-25": [],
+        "2026-12-31": [
+          "09:00-13:00"
+        ],
+        "2027-01-01": []
+      }
     },
     {
       "id": "museu-imigracao-sp",
