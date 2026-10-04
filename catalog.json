@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-capital-teste-25",
+  "version": "2026.10.04-sp-qualidade-teste-26",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1898,46 +1898,6 @@
       "notes": "Aberturas aos sábados dependem da programação vigente e não são tratadas como horário semanal fixo. Visitas orientadas para grupos exigem agendamento.",
       "state": "SP",
       "city": "Ribeirão Preto",
-      "region": "Sudeste"
-    },
-    {
-      "id": "museu-historico-sorocabano",
-      "name": "Museu Histórico Sorocabano",
-      "lat": -23.5050153,
-      "lng": -47.4414069,
-      "category": "Museus",
-      "org": "Civil / Prefeitura de Sorocaba",
-      "photoQuery": "Museu Histórico Sorocabano Sorocaba",
-      "description": "Museu dedicado à preservação e difusão da história de Sorocaba, instalado junto ao Zoológico Municipal Quinzinho de Barros.",
-      "address": "Rua Teodoro Kaizel, s/n - Vila Hortência, Sorocaba - SP - CEP 18020-268",
-      "hours": "Terça a domingo, das 9h às 16h30. Visitas mediadas podem exigir agendamento.",
-      "admission": "Consulte previamente as condições de acesso; atividades culturais divulgadas pelo museu podem ser gratuitas.",
-      "weeklyHours": {
-        "1": [],
-        "2": [
-          "09:00-16:30"
-        ],
-        "3": [
-          "09:00-16:30"
-        ],
-        "4": [
-          "09:00-16:30"
-        ],
-        "5": [
-          "09:00-16:30"
-        ],
-        "6": [
-          "09:00-16:30"
-        ],
-        "7": [
-          "09:00-16:30"
-        ]
-      },
-      "utcOffsetMinutes": -180,
-      "website": "https://www.sorocaba.sp.gov.br/",
-      "notes": "O cadastro nacional de museus registra funcionamento de terça a domingo e informa mediação mediante agendamento. Como o museu fica junto ao Zoológico Municipal, confirme as condições de acesso antes da visita.",
-      "state": "SP",
-      "city": "Sorocaba",
       "region": "Sudeste"
     },
     {
