@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-municipais-teste-16",
+  "version": "2026.10.04-sp-itu-teste-17",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2707,6 +2707,70 @@
       "notes": "A Prefeitura informa agendamento online para grupos de 10 ou mais pessoas. Visitação individual segue o horário público divulgado; grupos devem reservar previamente.",
       "state": "SP",
       "city": "São José dos Campos",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-musica-itu",
+      "name": "Museu da Música - Itu",
+      "lat": -23.2648,
+      "lng": -47.2994,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu da Música Itu",
+      "description": "Museu dedicado à preservação da memória musical ituana, com partituras, instrumentos e coleções relacionadas à tradição musical local.",
+      "address": "Rua Floriano Peixoto, 480 - Centro, Itu - SP",
+      "hours": "Visitação somente mediante agendamento.",
+      "admission": "Visitas gratuitas mediante agendamento.",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180,
+      "website": "https://turismo.itu.sp.gov.br/museus/",
+      "requiresBooking": true,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": true,
+      "statusMessage": "VISITAÇÃO MEDIANTE AGENDAMENTO",
+      "notes": "O portal oficial de Turismo de Itu divulga visitação gratuita somente mediante agendamento.",
+      "state": "SP",
+      "city": "Itu",
+      "region": "Sudeste"
+    },
+    {
+      "id": "parque-varvito-itu",
+      "name": "Parque Geológico do Varvito",
+      "lat": -23.2529,
+      "lng": -47.3237,
+      "category": "Patrimônio Natural e Geológico",
+      "org": "Civil / Prefeitura de Itu",
+      "photoQuery": "Parque Geológico do Varvito Itu",
+      "description": "Parque geológico instalado em antiga pedreira, reconhecido pela exposição de varvito e por evidências de antiga glaciação no Sudeste da América do Sul.",
+      "address": "Rua Parque do Varvito, 400 - Parque Nossa Senhora Candelária, Itu - SP",
+      "hours": "Terça a domingo, das 8h às 16h45. Não abre em dias de chuva por motivo de segurança.",
+      "admission": "Consulte a informação oficial vigente antes da visita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "08:00-16:45"
+        ],
+        "3": [
+          "08:00-16:45"
+        ],
+        "4": [
+          "08:00-16:45"
+        ],
+        "5": [
+          "08:00-16:45"
+        ],
+        "6": [
+          "08:00-16:45"
+        ],
+        "7": [
+          "08:00-16:45"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://turismo.itu.sp.gov.br/parques-naturais/",
+      "notes": "Fechamento excepcional condicionado à chuva, conforme alerta expresso do portal oficial de Turismo de Itu.",
+      "state": "SP",
+      "city": "Itu",
       "region": "Sudeste"
     }
   ],
