@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03-sp-estaduais-teste-9",
+  "version": "2026.10.03-sp-estaduais-teste-10",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1442,9 +1442,9 @@
       "org": "Civil / Governo do Estado de São Paulo",
       "photoQuery": "Museu Casa de Portinari Brodowski",
       "description": "Museu instalado na antiga residência de Candido Portinari, em Brodowski, dedicado à preservação e difusão da vida, obra e memória do artista.",
-      "address": "Praça Candido Portinari, 298 - Centro, Brodowski - SP - CEP 14340-000",
+      "address": "Praça Candido Portinari, 298 - Centro, Brodowski - SP - CEP 14340-019",
       "hours": "Terça a domingo, das 9h às 18h. Quarta-feira, horário estendido até 20h. Segunda-feira: fechado.",
-      "admission": "Entrada gratuita.",
+      "admission": "Ingresso voluntário: o visitante escolhe se deseja contribuir e o valor da contribuição.",
       "weeklyHours": {
         "1": [],
         "2": [
@@ -1468,10 +1468,20 @@
       },
       "utcOffsetMinutes": -180,
       "website": "https://www.museucasadeportinari.org.br/",
-      "notes": "Entrada gratuita. Consulte o site oficial para eventuais alterações de funcionamento em feriados e datas especiais.",
+      "notes": "Ingresso voluntário. Grupos com mais de 12 pessoas devem realizar agendamento prévio. Em 24 e 31 de dezembro, funcionamento até 13h; fechado em 25 de dezembro e 1º de janeiro.",
       "state": "SP",
       "city": "Brodowski",
-      "region": "Sudeste"
+      "region": "Sudeste",
+      "specialHours": {
+        "2026-12-24": [
+          "09:00-13:00"
+        ],
+        "2026-12-25": [],
+        "2026-12-31": [
+          "09:00-13:00"
+        ],
+        "2027-01-01": []
+      }
     },
     {
       "id": "museu-cafe-santos",
