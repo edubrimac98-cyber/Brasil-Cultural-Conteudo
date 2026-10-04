@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-estaduais-teste-13",
+  "version": "2026.10.04-sp-militares-teste-14",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2547,6 +2547,49 @@
       "notes": "Como os valores variam conforme a exposição, o app não fixa um preço único. Consulte a programação e a bilheteria oficial.",
       "state": "SP",
       "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-iii-grupo-105-feb-barueri",
+      "name": "Espaço Cultural III Grupo 105 FEB",
+      "lat": -23.5107,
+      "lng": -46.8952,
+      "category": "Museus",
+      "org": "Exército Brasileiro",
+      "photoQuery": "Espaço Cultural III Grupo 105 FEB Barueri",
+      "description": "Espaço histórico dedicado à memória da participação brasileira na Segunda Guerra Mundial, mantido pelo Grupo Bandeirante em Barueri.",
+      "address": "Estrada Velha de Jandira, Km 29 - Jardim Belval, Barueri - SP",
+      "hours": "Visitação mediante agendamento prévio, de segunda a quinta-feira, das 10h às 11h30 e das 13h30 às 16h.",
+      "admission": "Visitação pública mediante agendamento prévio; confirme condições no contato oficial divulgado.",
+      "weeklyHours": {
+        "1": [
+          "10:00-11:30",
+          "13:30-16:00"
+        ],
+        "2": [
+          "10:00-11:30",
+          "13:30-16:00"
+        ],
+        "3": [
+          "10:00-11:30",
+          "13:30-16:00"
+        ],
+        "4": [
+          "10:00-11:30",
+          "13:30-16:00"
+        ],
+        "5": [],
+        "6": [],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://portal.barueri.sp.gov.br/",
+      "requiresBooking": true,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": true,
+      "notes": "A Prefeitura de Barueri divulga explicitamente o museu histórico do quartel como aberto à visitação mediante agendamento, para grupos com no mínimo cinco pessoas. A inclusão se baseia nessa oferta pública municipal, não apenas na relação da DPHCEx.",
+      "state": "SP",
+      "city": "Barueri",
       "region": "Sudeste"
     }
   ],
