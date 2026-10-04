@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03-sp-estaduais-teste-11",
+  "version": "2026.10.04-sp-estaduais-teste-12",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2227,6 +2227,206 @@
       "notes": "A Prefeitura divulga visitação gratuita e funcionamento em fins de semana. Fechado às segundas-feiras e em 25 de dezembro e 1º de janeiro.",
       "state": "SP",
       "city": "Presidente Prudente",
+      "region": "Sudeste"
+    },
+    {
+      "id": "casa-das-rosas-sp",
+      "name": "Casa das Rosas",
+      "lat": -23.57063,
+      "lng": -46.64522,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Casa das Rosas Avenida Paulista",
+      "description": "Museu-casa na Avenida Paulista dedicado ao patrimônio cultural e à literatura, instalado em casarão histórico com jardim aberto ao público.",
+      "address": "Avenida Paulista, 37 - Bela Vista, São Paulo - SP - CEP 01311-902",
+      "hours": "Terça a domingo, das 10h às 17h30, com permanência até 18h. Jardim: diariamente, das 7h às 22h.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.casadasrosas.org.br/",
+      "notes": "Horário do museu separado do horário do jardim. Consulte a programação oficial para alterações excepcionais.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-afro-brasil-sp",
+      "name": "Museu Afro Brasil Emanoel Araujo",
+      "lat": -23.58717,
+      "lng": -46.65772,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu Afro Brasil Emanoel Araujo Ibirapuera",
+      "description": "Museu no Parque Ibirapuera dedicado às contribuições africanas e afro-brasileiras para a formação da sociedade e da cultura brasileiras.",
+      "address": "Avenida Pedro Álvares Cabral, s/n - Portão 10, Parque Ibirapuera, São Paulo - SP - CEP 04094-050",
+      "hours": "Terça a domingo, das 10h às 17h, com permanência até 18h.",
+      "admission": "Inteira R$ 15,00 • Meia R$ 7,50 • quartas-feiras: entrada gratuita • demais gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museuafrobrasil.org.br/",
+      "notes": "Bilheteria/entrada regular até 17h; permanência permitida até 18h. Consulte alterações em feriados e eventos.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-culturas-indigenas-sp",
+      "name": "Museu das Culturas Indígenas",
+      "lat": -23.53052,
+      "lng": -46.67432,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu das Culturas Indígenas São Paulo Água Branca",
+      "description": "Museu dedicado às histórias, memórias, artes, saberes e produções dos povos indígenas, concebido como espaço de diálogo intercultural.",
+      "address": "Rua Dona Germaine Burchard, 451 - Água Branca, São Paulo - SP - CEP 05002-062",
+      "hours": "Terça a domingo, das 9h às 18h; quinta-feira, horário estendido até 20h.",
+      "admission": "Inteira R$ 24,00 • Meia R$ 12,00 • gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-20:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "09:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museudasculturasindigenas.org.br/",
+      "notes": "Consulte a política oficial de gratuidades e eventuais alterações de funcionamento antes da visita.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-arte-sacra-sp",
+      "name": "Museu de Arte Sacra de São Paulo",
+      "lat": -23.52943,
+      "lng": -46.63177,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu de Arte Sacra São Paulo Luz",
+      "description": "Museu instalado no Complexo da Luz, com acervo de arte sacra brasileira e internacional e coleções históricas dos séculos XVI ao XXI.",
+      "address": "Avenida Tiradentes, 676 - Luz, São Paulo - SP - CEP 01102-000",
+      "hours": "Terça a domingo, das 9h às 17h; entrada no prédio até 16h30.",
+      "admission": "Inteira R$ 6,00 • Meia R$ 3,00 • gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "09:00-17:00"
+        ],
+        "7": [
+          "09:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museuartesacra.org.br/",
+      "notes": "Acesso principal divulgado pela instituição; confirme programação e alterações excepcionais antes da visita.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "catavento-sp",
+      "name": "Museu Catavento",
+      "lat": -23.54435,
+      "lng": -46.62773,
+      "category": "Ciência e Tecnologia",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu Catavento Palácio das Indústrias São Paulo",
+      "description": "Museu de ciência e tecnologia instalado no Palácio das Indústrias, com centenas de instalações interativas sobre universo, vida, engenho e sociedade.",
+      "address": "Avenida Mercúrio, s/n - Parque Dom Pedro II, São Paulo - SP - CEP 03003-060",
+      "hours": "Terça a domingo, das 9h às 17h; bilheteria até 16h.",
+      "admission": "Inteira R$ 18,00 • Meia R$ 9,00 • terças-feiras: entrada gratuita • demais gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "09:00-17:00"
+        ],
+        "7": [
+          "09:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museucatavento.org.br/",
+      "notes": "Bilheteria encerra às 16h. Consulte o site oficial para política de ingressos, gratuidades e alterações excepcionais.",
+      "state": "SP",
+      "city": "São Paulo",
       "region": "Sudeste"
     }
   ],
