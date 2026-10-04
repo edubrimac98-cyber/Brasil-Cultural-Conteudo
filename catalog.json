@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-municipais-teste-15",
+  "version": "2026.10.04-sp-municipais-teste-16",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2628,6 +2628,85 @@
       "notes": "A Prefeitura informa visitação pública regular e visitas orientadas para grupos. Segunda-feira é reservada a serviços internos e pesquisas agendadas, portanto não é publicada como horário turístico.",
       "state": "SP",
       "city": "Piracicaba",
+      "region": "Sudeste"
+    },
+    {
+      "id": "solar-barao-jundiai",
+      "name": "Museu Histórico e Cultural de Jundiaí - Solar do Barão",
+      "lat": -23.1863,
+      "lng": -46.8842,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Jundiaí",
+      "photoQuery": "Solar do Barão Museu Histórico Jundiaí",
+      "description": "Museu municipal instalado no antigo Solar do Barão de Jundiaí, com exposições sobre a história da cidade e acervos históricos.",
+      "address": "Rua Barão de Jundiaí, 762 - Centro, Jundiaí - SP",
+      "hours": "Terça a sexta-feira, das 10h às 17h; sábado, das 10h às 14h. Em sábados posteriores ao 5º dia útil do mês, pode haver horário estendido até 17h.",
+      "admission": "Consulte a informação oficial vigente antes da visita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [
+          "10:00-14:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://turismo.jundiai.sp.gov.br/atrativos/museus/museu-historico-e-cultural-de-jundiai-solar-do-barao/",
+      "notes": "Incluído a partir do portal oficial de Turismo de Jundiaí, que o apresenta expressamente como museu e atrativo visitável. O horário estendido de alguns sábados é excepcional.",
+      "state": "SP",
+      "city": "Jundiaí",
+      "region": "Sudeste"
+    },
+    {
+      "id": "encantada-santos-dumont-sjc",
+      "name": "Encantada - Casa de Santos Dumont",
+      "lat": -23.1986,
+      "lng": -45.8976,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de São José dos Campos",
+      "photoQuery": "Encantada Casa Santos Dumont São José dos Campos",
+      "description": "Réplica da residência de Santos Dumont, com referências ao pioneiro da aviação, acervo histórico, réplicas de invenções e recursos interativos.",
+      "address": "Rua Engenheiro Prudente Meireles de Morais, 1000 - Vila Adyana, São José dos Campos - SP",
+      "hours": "Terça a sexta-feira, das 8h30 às 11h30 e das 13h30 às 16h30.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "08:30-11:30",
+          "13:30-16:30"
+        ],
+        "3": [
+          "08:30-11:30",
+          "13:30-16:30"
+        ],
+        "4": [
+          "08:30-11:30",
+          "13:30-16:30"
+        ],
+        "5": [
+          "08:30-11:30",
+          "13:30-16:30"
+        ],
+        "6": [],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.sjc.sp.gov.br/",
+      "requiresBooking": false,
+      "notes": "A Prefeitura informa agendamento online para grupos de 10 ou mais pessoas. Visitação individual segue o horário público divulgado; grupos devem reservar previamente.",
+      "state": "SP",
+      "city": "São José dos Campos",
       "region": "Sudeste"
     }
   ],
