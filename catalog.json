@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-operacao-teste-22",
+  "version": "2026.10.04-sp-agendamento-teste-23",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2650,7 +2650,7 @@
       "bookingSponsoredActive": false,
       "bookingSponsorshipExempt": true,
       "statusMessage": "VISITAÇÃO MEDIANTE AGENDAMENTO",
-      "notes": "O portal oficial de Turismo de Itu divulga visitação gratuita somente mediante agendamento.",
+      "notes": "O portal oficial de Turismo de Itu divulga visitação gratuita somente mediante agendamento. Como não há link direto de reserva publicado no catálogo oficial consultado, o app informa a exigência sem inventar URL de agendamento.",
       "state": "SP",
       "city": "Itu",
       "region": "Sudeste"
