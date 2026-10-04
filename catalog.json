@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-capital-teste-24",
+  "version": "2026.10.04-sp-capital-teste-25",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2731,26 +2731,6 @@
       "utcOffsetMinutes": -180,
       "website": "https://museujudaicosp.org.br/",
       "notes": "Museu aberto à visitação pública regular. Valores e regras de gratuidade podem variar conforme a política vigente.",
-      "state": "SP",
-      "city": "São Paulo",
-      "region": "Sudeste"
-    },
-    {
-      "id": "museu-pessoa-sp",
-      "name": "Museu da Pessoa",
-      "lat": -23.5613,
-      "lng": -46.6822,
-      "category": "Museus",
-      "org": "Civil",
-      "photoQuery": "Museu da Pessoa São Paulo Pinheiros",
-      "description": "Museu dedicado à memória social, construído a partir de histórias de vida e narrativas pessoais, com acervo digital e atividades culturais.",
-      "address": "Rua Natingui, 1100 - Vila Madalena, São Paulo - SP",
-      "hours": "Consulte a programação de visitação e atividades presenciais antes do deslocamento.",
-      "admission": "Consulte as condições vigentes das atividades presenciais.",
-      "weeklyHours": {},
-      "utcOffsetMinutes": -180,
-      "website": "https://museudapessoa.org/",
-      "notes": "Mantido em triagem operacional: a instituição tem forte vocação cultural, mas atividades presenciais podem depender de programação específica.",
       "state": "SP",
       "city": "São Paulo",
       "region": "Sudeste"
