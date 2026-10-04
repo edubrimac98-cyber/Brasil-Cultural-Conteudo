@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-estaduais-teste-12",
+  "version": "2026.10.04-sp-estaduais-teste-13",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2425,6 +2425,126 @@
       "utcOffsetMinutes": -180,
       "website": "https://museucatavento.org.br/",
       "notes": "Bilheteria encerra às 16h. Consulte o site oficial para política de ingressos, gratuidades e alterações excepcionais.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "paco-das-artes-sp",
+      "name": "Paço das Artes",
+      "lat": -23.5393,
+      "lng": -46.6589,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Paço das Artes Higienópolis São Paulo",
+      "description": "Instituição dedicada à arte contemporânea e à produção artística e curatorial emergente.",
+      "address": "Rua Albuquerque Lins, 1345 - Higienópolis, São Paulo - SP - CEP 01230-001",
+      "hours": "Terça a sábado, das 11h às 19h; domingos e feriados, das 12h às 18h.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "11:00-19:00"
+        ],
+        "3": [
+          "11:00-19:00"
+        ],
+        "4": [
+          "11:00-19:00"
+        ],
+        "5": [
+          "11:00-19:00"
+        ],
+        "6": [
+          "11:00-19:00"
+        ],
+        "7": [
+          "12:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://pacodasartes.org.br/",
+      "notes": "Horários e gratuidade confirmados pela Secretaria da Cultura do Estado de São Paulo. Consulte alterações excepcionais antes da visita.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-diversidade-sexual-sp",
+      "name": "Museu da Diversidade Sexual",
+      "lat": -23.5437,
+      "lng": -46.6424,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu da Diversidade Sexual Estação República São Paulo",
+      "description": "Museu dedicado à preservação, pesquisa e difusão das histórias e expressões culturais relacionadas à diversidade sexual e de gênero.",
+      "address": "Estação República do Metrô - República, São Paulo - SP",
+      "hours": "Terça a domingo, das 10h às 18h.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museudadiversidadesexual.org.br/",
+      "notes": "Equipamento estadual com visitação pública regular. Consulte alterações excepcionais antes do deslocamento.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "mis-sp",
+      "name": "Museu da Imagem e do Som - MIS",
+      "lat": -23.5728,
+      "lng": -46.676,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu da Imagem e do Som MIS São Paulo Avenida Europa",
+      "description": "Museu dedicado à cultura audiovisual, com exposições, cinema, fotografia, música e programação cultural.",
+      "address": "Avenida Europa, 158 - Jardim Europa, São Paulo - SP - CEP 01449-000",
+      "hours": "Terça a sexta, das 10h às 19h; sábado, das 10h às 20h; domingos e feriados, das 10h às 18h. A permanência pode se estender por até 1h após o último horário de entrada, conforme programação.",
+      "admission": "Valor varia conforme exposição e programação. Consulte a bilheteria oficial; há políticas de gratuidade e meia-entrada.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-19:00"
+        ],
+        "3": [
+          "10:00-19:00"
+        ],
+        "4": [
+          "10:00-19:00"
+        ],
+        "5": [
+          "10:00-19:00"
+        ],
+        "6": [
+          "10:00-20:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://mis-sp.org.br/",
+      "notes": "Como os valores variam conforme a exposição, o app não fixa um preço único. Consulte a programação e a bilheteria oficial.",
       "state": "SP",
       "city": "São Paulo",
       "region": "Sudeste"
