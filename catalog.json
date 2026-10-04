@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-itu-teste-17",
+  "version": "2026.10.04-sp-deduplicacao-teste-18",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1711,15 +1711,15 @@
     {
       "id": "museu-solar-barao-jundiai",
       "name": "Museu Histórico e Cultural de Jundiaí - Solar do Barão",
-      "lat": -23.191742,
-      "lng": -46.881918,
+      "lat": -23.1863,
+      "lng": -46.8842,
       "category": "Museus",
       "org": "Civil / Prefeitura de Jundiaí",
       "photoQuery": "Museu Histórico Cultural Jundiaí Solar do Barão",
       "description": "Museu municipal instalado no histórico Solar do Barão de Jundiaí, com exposições dedicadas à história local e ao patrimônio cultural do município.",
-      "address": "Rua Barão de Jundiaí, 762 - Centro, Jundiaí - SP - CEP 13201-011",
-      "hours": "Terça a sexta, das 10h às 17h; sábado, das 10h às 14h; domingo, das 9h às 14h. Horários podem variar em feriados e datas especiais.",
-      "admission": "Entrada gratuita.",
+      "address": "Rua Barão de Jundiaí, 762 - Centro, Jundiaí - SP",
+      "hours": "Terça a sexta-feira, das 10h às 17h; sábado, das 10h às 14h. Em sábados posteriores ao 5º dia útil do mês, pode haver horário estendido até 17h.",
+      "admission": "Consulte a informação oficial vigente antes da visita.",
       "weeklyHours": {
         "1": [],
         "2": [
@@ -1737,13 +1737,11 @@
         "6": [
           "10:00-14:00"
         ],
-        "7": [
-          "09:00-14:00"
-        ]
+        "7": []
       },
       "utcOffsetMinutes": -180,
-      "website": "https://cultura.jundiai.sp.gov.br/espacos-culturais/museu-historico-e-cultural-de-jundiai/",
-      "notes": "Em feriados, pontos facultativos e emendas pode haver alteração de horário. Visitas mediadas dependem de agendamento.",
+      "website": "https://turismo.jundiai.sp.gov.br/atrativos/museus/museu-historico-e-cultural-de-jundiai-solar-do-barao/",
+      "notes": "Incluído a partir do portal oficial de Turismo de Jundiaí, que o apresenta expressamente como museu e atrativo visitável. O horário estendido de alguns sábados é excepcional.",
       "state": "SP",
       "city": "Jundiaí",
       "region": "Sudeste"
@@ -1945,15 +1943,15 @@
     {
       "id": "museu-prudente-moraes",
       "name": "Museu Histórico e Pedagógico Prudente de Moraes",
-      "lat": -22.7224857315952,
-      "lng": -47.6476728916168,
+      "lat": -22.7254,
+      "lng": -47.6496,
       "category": "Museus",
       "org": "Civil / Prefeitura de Piracicaba",
       "photoQuery": "Museu Prudente de Moraes Piracicaba",
       "description": "Museu instalado na antiga residência de Prudente de Moraes, dedicado à história de Piracicaba e à trajetória do primeiro presidente civil do Brasil.",
       "address": "Rua Santo Antônio, 641 - Centro, Piracicaba - SP - CEP 13400-160",
-      "hours": "Terça a sexta-feira, das 9h às 17h; sábado, das 10h às 14h. Em feriados, consulte previamente.",
-      "admission": "Consulte a política vigente do museu; atividades culturais podem ter gratuidade específica.",
+      "hours": "Terça a sexta-feira, das 9h às 17h; sábados e feriados, das 10h às 14h. Segunda-feira: fechado à visitação.",
+      "admission": "Entrada gratuita.",
       "weeklyHours": {
         "1": [],
         "2": [
@@ -1974,8 +1972,8 @@
         "7": []
       },
       "utcOffsetMinutes": -180,
-      "website": "http://museuprudentedemoraes.piracicaba.sp.gov.br/pt_BR/",
-      "notes": "A Prefeitura registrou fechamento temporário em julho de 2026; o cadastro atual do Visite Museus volta a apresentar horários regulares. Confirme avisos de manutenção antes do deslocamento.",
+      "website": "https://museuprudentedemoraes.piracicaba.sp.gov.br/",
+      "notes": "A Prefeitura informa visitação pública regular e visitas orientadas para grupos. Segunda-feira é reservada a serviços internos e pesquisas agendadas, portanto não é publicada como horário turístico.",
       "state": "SP",
       "city": "Piracicaba",
       "region": "Sudeste"
@@ -2590,82 +2588,6 @@
       "notes": "A Prefeitura de Barueri divulga explicitamente o museu histórico do quartel como aberto à visitação mediante agendamento, para grupos com no mínimo cinco pessoas. A inclusão se baseia nessa oferta pública municipal, não apenas na relação da DPHCEx.",
       "state": "SP",
       "city": "Barueri",
-      "region": "Sudeste"
-    },
-    {
-      "id": "museu-prudente-moraes-piracicaba",
-      "name": "Museu Histórico e Pedagógico Prudente de Moraes",
-      "lat": -22.7254,
-      "lng": -47.6496,
-      "category": "Museus",
-      "org": "Civil / Prefeitura de Piracicaba",
-      "photoQuery": "Museu Prudente de Moraes Piracicaba",
-      "description": "Museu instalado na antiga residência de Prudente de Moraes, primeiro presidente civil da República, dedicado à história local e à trajetória pública e privada do patrono.",
-      "address": "Rua Santo Antônio, 641 - Centro, Piracicaba - SP - CEP 13400-160",
-      "hours": "Terça a sexta-feira, das 9h às 17h; sábados e feriados, das 10h às 14h. Segunda-feira: fechado à visitação.",
-      "admission": "Entrada gratuita.",
-      "weeklyHours": {
-        "1": [],
-        "2": [
-          "09:00-17:00"
-        ],
-        "3": [
-          "09:00-17:00"
-        ],
-        "4": [
-          "09:00-17:00"
-        ],
-        "5": [
-          "09:00-17:00"
-        ],
-        "6": [
-          "10:00-14:00"
-        ],
-        "7": []
-      },
-      "utcOffsetMinutes": -180,
-      "website": "https://museuprudentedemoraes.piracicaba.sp.gov.br/",
-      "notes": "A Prefeitura informa visitação pública regular e visitas orientadas para grupos. Segunda-feira é reservada a serviços internos e pesquisas agendadas, portanto não é publicada como horário turístico.",
-      "state": "SP",
-      "city": "Piracicaba",
-      "region": "Sudeste"
-    },
-    {
-      "id": "solar-barao-jundiai",
-      "name": "Museu Histórico e Cultural de Jundiaí - Solar do Barão",
-      "lat": -23.1863,
-      "lng": -46.8842,
-      "category": "Museus",
-      "org": "Civil / Prefeitura de Jundiaí",
-      "photoQuery": "Solar do Barão Museu Histórico Jundiaí",
-      "description": "Museu municipal instalado no antigo Solar do Barão de Jundiaí, com exposições sobre a história da cidade e acervos históricos.",
-      "address": "Rua Barão de Jundiaí, 762 - Centro, Jundiaí - SP",
-      "hours": "Terça a sexta-feira, das 10h às 17h; sábado, das 10h às 14h. Em sábados posteriores ao 5º dia útil do mês, pode haver horário estendido até 17h.",
-      "admission": "Consulte a informação oficial vigente antes da visita.",
-      "weeklyHours": {
-        "1": [],
-        "2": [
-          "10:00-17:00"
-        ],
-        "3": [
-          "10:00-17:00"
-        ],
-        "4": [
-          "10:00-17:00"
-        ],
-        "5": [
-          "10:00-17:00"
-        ],
-        "6": [
-          "10:00-14:00"
-        ],
-        "7": []
-      },
-      "utcOffsetMinutes": -180,
-      "website": "https://turismo.jundiai.sp.gov.br/atrativos/museus/museu-historico-e-cultural-de-jundiai-solar-do-barao/",
-      "notes": "Incluído a partir do portal oficial de Turismo de Jundiaí, que o apresenta expressamente como museu e atrativo visitável. O horário estendido de alguns sábados é excepcional.",
-      "state": "SP",
-      "city": "Jundiaí",
       "region": "Sudeste"
     },
     {
