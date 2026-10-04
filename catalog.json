@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-deduplicacao-teste-18",
+  "version": "2026.10.04-sp-tarifas-teste-19",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1719,7 +1719,7 @@
       "description": "Museu municipal instalado no histórico Solar do Barão de Jundiaí, com exposições dedicadas à história local e ao patrimônio cultural do município.",
       "address": "Rua Barão de Jundiaí, 762 - Centro, Jundiaí - SP",
       "hours": "Terça a sexta-feira, das 10h às 17h; sábado, das 10h às 14h. Em sábados posteriores ao 5º dia útil do mês, pode haver horário estendido até 17h.",
-      "admission": "Consulte a informação oficial vigente antes da visita.",
+      "admission": "Entrada gratuita.",
       "weeklyHours": {
         "1": [],
         "2": [
@@ -2666,7 +2666,7 @@
       "description": "Parque geológico instalado em antiga pedreira, reconhecido pela exposição de varvito e por evidências de antiga glaciação no Sudeste da América do Sul.",
       "address": "Rua Parque do Varvito, 400 - Parque Nossa Senhora Candelária, Itu - SP",
       "hours": "Terça a domingo, das 8h às 16h45. Não abre em dias de chuva por motivo de segurança.",
-      "admission": "Consulte a informação oficial vigente antes da visita.",
+      "admission": "Entrada gratuita.",
       "weeklyHours": {
         "1": [],
         "2": [
