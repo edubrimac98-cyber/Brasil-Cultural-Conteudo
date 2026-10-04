@@ -2747,6 +2747,44 @@
         "ilha-fiscal",
         "musal"
       ]
+    },
+    {
+      "id": "sp-paulista-cultura",
+      "title": "São Paulo: Avenida Paulista e Cultura",
+      "stopIds": [
+        "masp",
+        "casa-das-rosas-sp",
+        "museu-judaico-sp"
+      ]
+    },
+    {
+      "id": "sp-luz-museus",
+      "title": "São Paulo: Luz e Museus",
+      "stopIds": [
+        "pinacoteca-sp",
+        "museu-lingua-portuguesa",
+        "museu-arte-sacra-sp"
+      ]
+    },
+    {
+      "id": "itu-historia-cultura",
+      "title": "Itu: História, Cultura e Patrimônio",
+      "stopIds": [
+        "museu-republicano-itu",
+        "museu-regimento-deodoro-itu",
+        "museu-musica-itu",
+        "parque-varvito-itu"
+      ]
+    },
+    {
+      "id": "sp-memoria-militar",
+      "title": "São Paulo: Memória Militar e FEB",
+      "stopIds": [
+        "museu-regimento-deodoro-itu",
+        "museu-regimento-ipiranga",
+        "forte-dos-andradas",
+        "museu-iii-grupo-105-feb-barueri"
+      ]
     }
   ],
   "sponsorServices": [
