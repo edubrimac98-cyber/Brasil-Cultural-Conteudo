@@ -2694,6 +2694,28 @@
       "state": "SP",
       "city": "São Paulo",
       "region": "Sudeste"
+    },
+    {
+      "id": "fortaleza-itaipu-praia-grande",
+      "name": "Fortaleza de Itaipu",
+      "lat": -24.015483,
+      "lng": -46.398883,
+      "category": "Fortes e Fortalezas",
+      "org": "Exército / 2º GAAAe - Fortaleza de Itaipu",
+      "photoQuery": "Fortaleza de Itaipu Praia Grande São Paulo",
+      "description": "Conjunto histórico militar iniciado no começo do século XX, localizado no Canto do Forte, em Praia Grande, integrado à paisagem da Mata Atlântica e reconhecido pelo turismo municipal como patrimônio histórico e ponto turístico.",
+      "address": "Avenida Marechal Mallet, 1 - Canto do Forte, Praia Grande - SP",
+      "hours": "Visitação pública temporariamente suspensa. Consulte os canais oficiais antes do deslocamento.",
+      "admission": "Sem visitação pública regular no momento.",
+      "operationalStatus": "temporarily_closed",
+      "statusMessage": "VISITAÇÃO PÚBLICA TEMPORARIAMENTE SUSPENSA",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180,
+      "website": "https://turismo.praiagrande.sp.gov.br/2021/05/31/fotos-fortaleza-de-itaipu/",
+      "notes": "A Fortaleza permanece cadastrada por sua relevância histórica e turística. O portal oficial de Turismo de Praia Grande informa que, no momento, não está realizando visitação pública; o status deve ser revisto quando houver anúncio oficial de reabertura.",
+      "state": "SP",
+      "city": "Praia Grande",
+      "region": "Sudeste"
     }
   ],
   "routes": [
