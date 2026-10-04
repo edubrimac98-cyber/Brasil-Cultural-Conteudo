@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-producao-1",
+  "version": "2026.10.04-sp-producao-2",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2726,7 +2726,8 @@
         "mac-niteroi",
         "caminho-niemeyer",
         "ilha-boa-viagem"
-      ]
+      ],
+      "group": "cultural"
     },
     {
       "id": "centro-historico-rio",
@@ -2736,7 +2737,8 @@
         "ccbb-rio",
         "biblioteca-nacional",
         "real-gabinete"
-      ]
+      ],
+      "group": "cultural"
     },
     {
       "id": "memoria-militar-segunda-guerra",
@@ -2745,7 +2747,8 @@
         "mmcl",
         "mnmsgm",
         "forte-copacabana"
-      ]
+      ],
+      "group": "cultural"
     },
     {
       "id": "porto-arte-mar-ciencia",
@@ -2754,7 +2757,8 @@
         "mar",
         "museu-amanha",
         "espaco-cultural-marinha"
-      ]
+      ],
+      "group": "cultural"
     },
     {
       "id": "turistico-historico-defesa",
@@ -2768,7 +2772,8 @@
         "museu-naval",
         "ilha-fiscal",
         "musal"
-      ]
+      ],
+      "group": "defense"
     },
     {
       "id": "sp-paulista-cultura",
@@ -2777,7 +2782,8 @@
         "masp",
         "casa-das-rosas-sp",
         "museu-judaico-sp"
-      ]
+      ],
+      "group": "cultural"
     },
     {
       "id": "sp-luz-museus",
@@ -2786,7 +2792,8 @@
         "pinacoteca-sp",
         "museu-lingua-portuguesa",
         "museu-arte-sacra-sp"
-      ]
+      ],
+      "group": "cultural"
     },
     {
       "id": "itu-historia-cultura",
@@ -2796,7 +2803,8 @@
         "museu-regimento-deodoro-itu",
         "museu-musica-itu",
         "parque-varvito-itu"
-      ]
+      ],
+      "group": "cultural"
     },
     {
       "id": "sp-memoria-militar",
@@ -2806,7 +2814,8 @@
         "museu-regimento-ipiranga",
         "forte-dos-andradas",
         "museu-iii-grupo-105-feb-barueri"
-      ]
+      ],
+      "group": "defense"
     }
   ],
   "sponsorServices": [
