@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-tarifas-teste-19",
+  "version": "2026.10.04-sp-interior-teste-20",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2693,6 +2693,46 @@
       "notes": "Fechamento excepcional condicionado à chuva, conforme alerta expresso do portal oficial de Turismo de Itu.",
       "state": "SP",
       "city": "Itu",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-historia-natural-campinas",
+      "name": "Museu de História Natural de Campinas",
+      "lat": -22.9168,
+      "lng": -47.0435,
+      "category": "Ciência e Tecnologia",
+      "org": "Civil / Prefeitura de Campinas",
+      "photoQuery": "Museu de História Natural Campinas Bosque dos Jequitibás",
+      "description": "Museu no Bosque dos Jequitibás dedicado à biodiversidade e à educação ambiental, com acervo zoológico e exposições de história natural.",
+      "address": "Rua Coronel Quirino, 2 - Bosque dos Jequitibás, Campinas - SP",
+      "hours": "Terça a domingo, conforme horário de visitação divulgado pela Prefeitura. Confirme o horário atualizado antes do deslocamento.",
+      "admission": "Consulte a tarifa vigente divulgada pela Prefeitura de Campinas.",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180,
+      "website": "https://www.campinas.sp.gov.br/",
+      "notes": "Equipamento municipal de visitação pública dentro do Bosque dos Jequitibás. O app não fixa horário ou tarifa quando a fonte municipal corrente deve ser consultada antes da visita.",
+      "state": "SP",
+      "city": "Campinas",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-cafe-taubate",
+      "name": "Museu da Imigração Italiana de Quiririm",
+      "lat": -23.0248,
+      "lng": -45.5568,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Taubaté",
+      "photoQuery": "Museu Imigração Italiana Quiririm Taubaté",
+      "description": "Museu instalado no distrito de Quiririm, dedicado à memória da imigração italiana e à formação histórica e cultural da comunidade local.",
+      "address": "Avenida Líbero Indiani, 550 - Quiririm, Taubaté - SP",
+      "hours": "Visitação pública conforme programação da Prefeitura de Taubaté. Confirme dias e horários antes do deslocamento.",
+      "admission": "Consulte as condições vigentes de visitação divulgadas pela Prefeitura.",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180,
+      "website": "https://www.taubate.sp.gov.br/",
+      "notes": "Atrativo cultural municipal ligado à história da imigração italiana em Quiririm. Horários e condições devem ser confirmados na programação oficial vigente.",
+      "state": "SP",
+      "city": "Taubaté",
       "region": "Sudeste"
     }
   ],
