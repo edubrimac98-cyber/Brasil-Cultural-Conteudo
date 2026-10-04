@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-qualidade-teste-26",
+  "version": "2026.10.04-sp-qualidade-teste-27",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1989,7 +1989,7 @@
       "description": "Casa-museu dedicada à vida e à memória de Frei Galvão, primeiro santo brasileiro, e uma das principais atrações histórico-religiosas de Guaratinguetá.",
       "address": "Rua Frei Galvão, 78 - Centro, Guaratinguetá - SP - CEP 12501-230",
       "hours": "Diariamente, das 9h às 18h. Fechada em 25 de dezembro e 1º de janeiro.",
-      "admission": "Consulte previamente as condições de visitação; não foi localizada cobrança regular divulgada nas fontes oficiais consultadas.",
+      "admission": "Entrada gratuita.",
       "weeklyHours": {
         "1": [
           "09:00-18:00"
