@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-militares-teste-14",
+  "version": "2026.10.04-sp-municipais-teste-15",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2590,6 +2590,44 @@
       "notes": "A Prefeitura de Barueri divulga explicitamente o museu histórico do quartel como aberto à visitação mediante agendamento, para grupos com no mínimo cinco pessoas. A inclusão se baseia nessa oferta pública municipal, não apenas na relação da DPHCEx.",
       "state": "SP",
       "city": "Barueri",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-prudente-moraes-piracicaba",
+      "name": "Museu Histórico e Pedagógico Prudente de Moraes",
+      "lat": -22.7254,
+      "lng": -47.6496,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Piracicaba",
+      "photoQuery": "Museu Prudente de Moraes Piracicaba",
+      "description": "Museu instalado na antiga residência de Prudente de Moraes, primeiro presidente civil da República, dedicado à história local e à trajetória pública e privada do patrono.",
+      "address": "Rua Santo Antônio, 641 - Centro, Piracicaba - SP - CEP 13400-160",
+      "hours": "Terça a sexta-feira, das 9h às 17h; sábados e feriados, das 10h às 14h. Segunda-feira: fechado à visitação.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "10:00-14:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museuprudentedemoraes.piracicaba.sp.gov.br/",
+      "notes": "A Prefeitura informa visitação pública regular e visitas orientadas para grupos. Segunda-feira é reservada a serviços internos e pesquisas agendadas, portanto não é publicada como horário turístico.",
+      "state": "SP",
+      "city": "Piracicaba",
       "region": "Sudeste"
     }
   ],
