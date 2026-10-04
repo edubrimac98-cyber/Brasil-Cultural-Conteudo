@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03-sp-triagem-teste-7",
+  "version": "2026.10.03-sp-triagem-teste-8",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1359,7 +1359,7 @@
       "weeklyHours": {},
       "utcOffsetMinutes": -180,
       "website": "https://turismo.itu.sp.gov.br/museus/",
-      "notes": "O Turismo de Itu lista o Museu Regimento Deodoro e informa visitação somente por agendamento. Confirme previamente antes do deslocamento.",
+      "notes": "O portal oficial de Turismo de Itu lista o Museu Regimento Deodoro como museu aberto à visitação mediante agendamento. Não é usado expediente administrativo da Organização Militar como horário turístico.",
       "state": "SP",
       "city": "Itu",
       "region": "Sudeste"
@@ -1374,7 +1374,7 @@
       "photoQuery": "Museu Regimento Ipiranga Caçapava",
       "description": "Espaço cultural do Regimento Ipiranga em Caçapava, dedicado à memória histórica da unidade e da participação brasileira em campanhas militares.",
       "address": "Rua José Bonifácio, 33 - Jardim Rafael, Caçapava - SP - CEP 12280-900",
-      "hours": "Visitação mediante agendamento com a unidade. Confirme os horários antes da visita.",
+      "hours": "Visitação mediante agendamento prévio com a Seção de Relações Públicas do Regimento. Confirme data e horário antes do deslocamento.",
       "admission": "Visitação mediante agendamento; consulte previamente as condições de acesso.",
       "requiresBooking": true,
       "bookingSponsorshipExempt": true,
@@ -1382,7 +1382,7 @@
       "weeklyHours": {},
       "utcOffsetMinutes": -180,
       "website": "https://cacapava.sp.gov.br/museu-ipiranga",
-      "notes": "A Prefeitura de Caçapava divulga o Museu Ipiranga como atração cultural e orienta o agendamento prévio. O horário administrativo da unidade não é tratado como horário turístico automático.",
+      "notes": "A Prefeitura de Caçapava apresenta o espaço como atração cultural e informa visitação mediante agendamento. O app não publica o horário de atendimento administrativo da unidade como horário turístico.",
       "state": "SP",
       "city": "Caçapava",
       "region": "Sudeste"
@@ -1397,15 +1397,38 @@
       "photoQuery": "Forte dos Andradas Guarujá",
       "description": "Fortificação histórica no Guarujá, integrada à paisagem da Mata Atlântica e reconhecida oficialmente como atração turística e cultural do município.",
       "address": "Rua Horácio Guedes Barreiro, s/n - Guaiúba, Guarujá - SP - CEP 11421-080",
-      "hours": "Visitação turística monitorada mediante agendamento prévio. Confirme os dias e horários disponíveis antes do deslocamento.",
+      "hours": "Terças, quintas e sextas-feiras, e sábados e domingos, em passeios monitorados nos períodos de 9h30 a 12h e de 14h30 a 17h. Agendamento prévio obrigatório.",
       "admission": "Entrada gratuita. Visitação monitorada mediante agendamento prévio.",
       "requiresBooking": true,
       "bookingSponsorshipExempt": true,
       "statusMessage": "VISITAÇÃO MEDIANTE AGENDAMENTO",
-      "weeklyHours": {},
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:30-12:00",
+          "14:30-17:00"
+        ],
+        "3": [],
+        "4": [
+          "09:30-12:00",
+          "14:30-17:00"
+        ],
+        "5": [
+          "09:30-12:00",
+          "14:30-17:00"
+        ],
+        "6": [
+          "09:30-12:00",
+          "14:30-17:00"
+        ],
+        "7": [
+          "09:30-12:00",
+          "14:30-17:00"
+        ]
+      },
       "utcOffsetMinutes": -180,
-      "website": "https://www.guaruja.sp.gov.br/9676-2",
-      "notes": "A visitação turística é divulgada publicamente e depende de agendamento prévio. O app não trata horário administrativo da Organização Militar como horário turístico; confirme a disponibilidade antes do deslocamento.",
+      "website": "https://portalguaruja.tur.br/atracoes/forte-dos-andradas/",
+      "notes": "O Portal oficial de Turismo do Guarujá divulga passeios monitorados gratuitos com agendamento prévio. Estes horários são de visitação turística divulgada ao público, e não expediente administrativo da Organização Militar.",
       "state": "SP",
       "city": "Guarujá",
       "region": "Sudeste"
