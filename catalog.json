@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04-sp-agendamento-teste-23",
+  "version": "2026.10.04-sp-capital-teste-24",
   "places": [
     {
       "id": "forte-copacabana",
@@ -2693,6 +2693,66 @@
       "notes": "Fechamento excepcional condicionado à chuva, conforme alerta expresso do portal oficial de Turismo de Itu.",
       "state": "SP",
       "city": "Itu",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-judaico-sp",
+      "name": "Museu Judaico de São Paulo",
+      "lat": -23.5482,
+      "lng": -46.6487,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu Judaico São Paulo Rua Martinho Prado",
+      "description": "Museu dedicado à preservação e difusão da história, memória e cultura judaicas no Brasil, instalado na antiga sinagoga Beth-El.",
+      "address": "Rua Martinho Prado, 128 - Bela Vista, São Paulo - SP",
+      "hours": "Terça a domingo, das 10h às 18h, conforme programação vigente do museu.",
+      "admission": "Ingressos e gratuidades conforme política vigente do museu. Consulte a bilheteria oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museujudaicosp.org.br/",
+      "notes": "Museu aberto à visitação pública regular. Valores e regras de gratuidade podem variar conforme a política vigente.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-pessoa-sp",
+      "name": "Museu da Pessoa",
+      "lat": -23.5613,
+      "lng": -46.6822,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu da Pessoa São Paulo Pinheiros",
+      "description": "Museu dedicado à memória social, construído a partir de histórias de vida e narrativas pessoais, com acervo digital e atividades culturais.",
+      "address": "Rua Natingui, 1100 - Vila Madalena, São Paulo - SP",
+      "hours": "Consulte a programação de visitação e atividades presenciais antes do deslocamento.",
+      "admission": "Consulte as condições vigentes das atividades presenciais.",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180,
+      "website": "https://museudapessoa.org/",
+      "notes": "Mantido em triagem operacional: a instituição tem forte vocação cultural, mas atividades presenciais podem depender de programação específica.",
+      "state": "SP",
+      "city": "São Paulo",
       "region": "Sudeste"
     }
   ],
