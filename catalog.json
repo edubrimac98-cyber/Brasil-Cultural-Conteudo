@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.03.19",
+  "version": "2026.10.04-sp-qualidade-teste-27",
   "places": [
     {
       "id": "forte-copacabana",
@@ -1340,6 +1340,1360 @@
       },
       "utcOffsetMinutes": -180,
       "city": "São Paulo"
+    },
+    {
+      "id": "museu-regimento-deodoro-itu",
+      "name": "Museu Regimento Deodoro",
+      "lat": -23.264045,
+      "lng": -47.296308,
+      "category": "Museus",
+      "org": "Exército / 2º GAC L - Regimento Deodoro",
+      "photoQuery": "Museu Regimento Deodoro Itu",
+      "description": "Espaço histórico instalado no Quartel de Itu, integrante de roteiros turísticos municipais e dedicado à memória do Regimento Deodoro e da história militar local.",
+      "address": "Praça Duque de Caxias, 284 - Centro, Itu - SP - CEP 13300-916",
+      "hours": "Visitação somente mediante agendamento.",
+      "admission": "Visitação mediante agendamento; consulte previamente as condições de acesso.",
+      "requiresBooking": true,
+      "bookingSponsorshipExempt": true,
+      "statusMessage": "VISITAÇÃO MEDIANTE AGENDAMENTO",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180,
+      "website": "https://turismo.itu.sp.gov.br/museus/",
+      "notes": "O portal oficial de Turismo de Itu lista o Museu Regimento Deodoro como museu aberto à visitação mediante agendamento. Não é usado expediente administrativo da Organização Militar como horário turístico.",
+      "state": "SP",
+      "city": "Itu",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-regimento-ipiranga",
+      "name": "Museu Regimento Ipiranga",
+      "lat": -23.09672,
+      "lng": -45.70911,
+      "category": "Museus",
+      "org": "Exército / 6º BIL - Regimento Ipiranga",
+      "photoQuery": "Museu Regimento Ipiranga Caçapava",
+      "description": "Espaço cultural do Regimento Ipiranga em Caçapava, dedicado à memória histórica da unidade e da participação brasileira em campanhas militares.",
+      "address": "Rua José Bonifácio, 33 - Jardim Rafael, Caçapava - SP - CEP 12280-900",
+      "hours": "Visitação mediante agendamento prévio com a Seção de Relações Públicas do Regimento. Confirme data e horário antes do deslocamento.",
+      "admission": "Visitação mediante agendamento; consulte previamente as condições de acesso.",
+      "requiresBooking": true,
+      "bookingSponsorshipExempt": true,
+      "statusMessage": "VISITAÇÃO MEDIANTE AGENDAMENTO",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180,
+      "website": "https://cacapava.sp.gov.br/museu-ipiranga",
+      "notes": "A Prefeitura de Caçapava apresenta o espaço como atração cultural e informa visitação mediante agendamento. O app não publica o horário de atendimento administrativo da unidade como horário turístico.",
+      "state": "SP",
+      "city": "Caçapava",
+      "region": "Sudeste"
+    },
+    {
+      "id": "forte-dos-andradas",
+      "name": "Forte dos Andradas",
+      "lat": -24.023103,
+      "lng": -46.284105,
+      "category": "Fortes e Fortalezas",
+      "org": "Exército / Forte dos Andradas",
+      "photoQuery": "Forte dos Andradas Guarujá",
+      "description": "Fortificação histórica no Guarujá, integrada à paisagem da Mata Atlântica e reconhecida oficialmente como atração turística e cultural do município.",
+      "address": "Rua Horácio Guedes Barreiro, s/n - Guaiúba, Guarujá - SP - CEP 11421-080",
+      "hours": "Terças, quintas e sextas-feiras, e sábados e domingos, em passeios monitorados nos períodos de 9h30 a 12h e de 14h30 a 17h. Agendamento prévio obrigatório.",
+      "admission": "Entrada gratuita. Visitação monitorada mediante agendamento prévio.",
+      "requiresBooking": true,
+      "bookingSponsorshipExempt": true,
+      "statusMessage": "VISITAÇÃO MEDIANTE AGENDAMENTO",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:30-12:00",
+          "14:30-17:00"
+        ],
+        "3": [],
+        "4": [
+          "09:30-12:00",
+          "14:30-17:00"
+        ],
+        "5": [
+          "09:30-12:00",
+          "14:30-17:00"
+        ],
+        "6": [
+          "09:30-12:00",
+          "14:30-17:00"
+        ],
+        "7": [
+          "09:30-12:00",
+          "14:30-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://portalguaruja.tur.br/atracoes/forte-dos-andradas/",
+      "notes": "O Portal oficial de Turismo do Guarujá divulga passeios monitorados gratuitos com agendamento prévio. Estes horários são de visitação turística divulgada ao público, e não expediente administrativo da Organização Militar.",
+      "state": "SP",
+      "city": "Guarujá",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-casa-portinari",
+      "name": "Museu Casa de Portinari",
+      "lat": -20.9941152,
+      "lng": -47.6587598,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu Casa de Portinari Brodowski",
+      "description": "Museu instalado na antiga residência de Candido Portinari, em Brodowski, dedicado à preservação e difusão da vida, obra e memória do artista.",
+      "address": "Praça Candido Portinari, 298 - Centro, Brodowski - SP - CEP 14340-019",
+      "hours": "Terça a domingo, das 9h às 18h. Quarta-feira, horário estendido até 20h. Segunda-feira: fechado.",
+      "admission": "Ingresso voluntário: o visitante escolhe se deseja contribuir e o valor da contribuição.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-20:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "09:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museucasadeportinari.org.br/",
+      "notes": "Ingresso voluntário. Grupos com mais de 12 pessoas devem realizar agendamento prévio. Em 24 e 31 de dezembro, funcionamento até 13h; fechado em 25 de dezembro e 1º de janeiro.",
+      "state": "SP",
+      "city": "Brodowski",
+      "region": "Sudeste",
+      "specialHours": {
+        "2026-12-24": [
+          "09:00-13:00"
+        ],
+        "2026-12-25": [],
+        "2026-12-31": [
+          "09:00-13:00"
+        ],
+        "2027-01-01": []
+      }
+    },
+    {
+      "id": "museu-cafe-santos",
+      "name": "Museu do Café",
+      "lat": -23.93222946598183,
+      "lng": -46.33004307746888,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu do Café Santos Bolsa Oficial do Café",
+      "description": "Museu instalado no edifício histórico da antiga Bolsa Oficial de Café, no Centro Histórico de Santos, dedicado à história da cafeicultura e sua relação com o desenvolvimento do Brasil.",
+      "address": "Rua XV de Novembro, 95 - Centro, Santos - SP - CEP 11010-150",
+      "hours": "Terça a sábado, das 9h às 18h; domingo, das 10h às 18h. Bilheteria até 17h. Segunda-feira: fechado.",
+      "admission": "Inteira R$ 16,00 • Meia R$ 8,00 • sábados: entrada gratuita • demais gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museudocafe.org.br/",
+      "bookingUrl": "https://museudocafe.byinti.com/#/",
+      "requiresBooking": false,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": false,
+      "notes": "A compra antecipada é opcional. O link de ingresso permanece sujeito à regra de patrocínio do Brasil Cultural.",
+      "state": "SP",
+      "city": "Santos",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-felicia-leirner",
+      "name": "Museu Felícia Leirner e Auditório Claudio Santoro",
+      "lat": -22.742979090324415,
+      "lng": -45.63419300992826,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu Felícia Leirner Campos do Jordão",
+      "description": "Museu a céu aberto em Campos do Jordão, com esculturas de Felícia Leirner integradas à paisagem, no mesmo complexo do Auditório Claudio Santoro.",
+      "address": "Avenida Dr. Luís Arrobas Martins, 1880 - Alto da Boa Vista, Campos do Jordão - SP - CEP 12472-820",
+      "hours": "Terça a domingo, das 9h às 18h. Segunda-feira: fechado, exceto quando feriado.",
+      "admission": "Inteira R$ 20,00 • Meia R$ 10,00 • domingos: entrada gratuita • demais gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "09:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museufelicialeirner.org.br/",
+      "bookingUrl": "https://www.museufelicialeirner.org.br/visite/ingressos-e-gratuidade/",
+      "requiresBooking": false,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": false,
+      "notes": "Visitação individual não exige agendamento prévio. Grupos podem agendar visita educativa. Consulte a programação oficial para alterações e eventos especiais.",
+      "state": "SP",
+      "city": "Campos do Jordão",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-india-vanuire",
+      "name": "Museu Histórico e Pedagógico Índia Vanuíre",
+      "lat": -21.93431771790491,
+      "lng": -50.515069665520535,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu Índia Vanuíre Tupã",
+      "description": "Museu em Tupã dedicado à história regional e às culturas indígenas, com importante coleção etnográfica e programação educativa.",
+      "address": "Rua Coroados, 521 - Centro, Tupã - SP - CEP 17600-010",
+      "hours": "Terça a domingo, das 9h às 18h. Quinta-feira, horário estendido até 20h. Segunda-feira: fechado.",
+      "admission": "Entrada livre, com contribuição voluntária ao final da visita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-20:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "09:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museuindiavanuire.org.br/",
+      "notes": "Entrada livre; contribuição voluntária é opcional. Em 24 e 31 de dezembro, funcionamento até 13h; fechado em 25 de dezembro e 1º de janeiro.",
+      "state": "SP",
+      "city": "Tupã",
+      "region": "Sudeste",
+      "specialHours": {
+        "2026-12-24": [
+          "09:00-13:00"
+        ],
+        "2026-12-25": [],
+        "2026-12-31": [
+          "09:00-13:00"
+        ],
+        "2027-01-01": []
+      }
+    },
+    {
+      "id": "museu-imigracao-sp",
+      "name": "Museu da Imigração do Estado de São Paulo",
+      "lat": -23.5446512,
+      "lng": -46.6051577,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu da Imigração São Paulo Mooca",
+      "description": "Museu instalado na antiga Hospedaria de Imigrantes do Brás, dedicado às histórias de migração, acolhimento e formação cultural do estado e da cidade de São Paulo.",
+      "address": "Rua Visconde de Parnaíba, 1316 - Mooca, São Paulo - SP - CEP 03164-300",
+      "hours": "Terça a sábado, das 9h às 18h; domingo, das 10h às 18h. Bilheteria até 17h. Segunda-feira: fechado.",
+      "admission": "Inteira R$ 16,00 • Meia R$ 8,00 • sábados: entrada gratuita, exceto em eventos especiais • demais gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "specialHours": {
+        "2026-10-04": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museudaimigracao.org.br/",
+      "bookingUrl": "https://bileto.sympla.com.br/event/71152?share_id=1-copiarlink",
+      "requiresBooking": false,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": false,
+      "notes": "Bilheteria encerra às 17h. Grupos devem verificar modalidades de visita e agendamento prévio. Fechado excepcionalmente em 4 de outubro de 2026 devido às eleições.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-republicano-itu",
+      "name": "Museu Republicano Convenção de Itu",
+      "lat": -23.264425,
+      "lng": -47.298901,
+      "category": "Museus",
+      "org": "Civil / Universidade de São Paulo",
+      "photoQuery": "Museu Republicano Convenção de Itu",
+      "description": "Museu da Universidade de São Paulo instalado no sobrado histórico onde ocorreu a Convenção Republicana de Itu, dedicado à história republicana e à cultura material brasileira.",
+      "address": "Rua Barão do Itaim, 67 - Centro Histórico, Itu - SP - CEP 13301-160",
+      "hours": "Terça a domingo, das 10h às 17h. Segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [
+          "10:00-17:00"
+        ],
+        "7": [
+          "10:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museurepublicano.usp.br/",
+      "notes": "O horário turístico do Museu Republicano é de terça a domingo, das 10h às 17h. Algumas atividades culturais específicas podem exigir inscrição prévia.",
+      "state": "SP",
+      "city": "Itu",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-solar-barao-jundiai",
+      "name": "Museu Histórico e Cultural de Jundiaí - Solar do Barão",
+      "lat": -23.1863,
+      "lng": -46.8842,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Jundiaí",
+      "photoQuery": "Museu Histórico Cultural Jundiaí Solar do Barão",
+      "description": "Museu municipal instalado no histórico Solar do Barão de Jundiaí, com exposições dedicadas à história local e ao patrimônio cultural do município.",
+      "address": "Rua Barão de Jundiaí, 762 - Centro, Jundiaí - SP",
+      "hours": "Terça a sexta-feira, das 10h às 17h; sábado, das 10h às 14h. Em sábados posteriores ao 5º dia útil do mês, pode haver horário estendido até 17h.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [
+          "10:00-14:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://turismo.jundiai.sp.gov.br/atrativos/museus/museu-historico-e-cultural-de-jundiai-solar-do-barao/",
+      "notes": "Incluído a partir do portal oficial de Turismo de Jundiaí, que o apresenta expressamente como museu e atrativo visitável. O horário estendido de alguns sábados é excepcional.",
+      "state": "SP",
+      "city": "Jundiaí",
+      "region": "Sudeste"
+    },
+    {
+      "id": "pinacoteca-jundiai",
+      "name": "Pinacoteca Municipal Diógenes Duarte Paes",
+      "lat": -23.1889673,
+      "lng": -46.8839317,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Jundiaí",
+      "photoQuery": "Pinacoteca Municipal Diógenes Duarte Paes Jundiaí",
+      "description": "Pinacoteca municipal dedicada às artes visuais e à difusão da produção artística local e regional.",
+      "address": "Rua Barão de Jundiaí, 109 - Centro, Jundiaí - SP - CEP 13201-011",
+      "hours": "Terça a sexta, das 10h às 17h; sábado, das 10h às 14h. Domingo e segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-17:00"
+        ],
+        "3": [
+          "10:00-17:00"
+        ],
+        "4": [
+          "10:00-17:00"
+        ],
+        "5": [
+          "10:00-17:00"
+        ],
+        "6": [
+          "10:00-14:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://cultura.jundiai.sp.gov.br/espacos-culturais/centro-jundiaiense-de-cultura-jorosil/pinacoteca-diogenes-duarte-paes/",
+      "notes": "Durante feriados, pontos facultativos e emendas pode haver alteração de horário.",
+      "state": "SP",
+      "city": "Jundiaí",
+      "region": "Sudeste"
+    },
+    {
+      "id": "macc-campinas",
+      "name": "Museu de Arte Contemporânea de Campinas José Pancetti - MACC",
+      "lat": -22.901611,
+      "lng": -47.057267,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Campinas",
+      "photoQuery": "Museu de Arte Contemporânea Campinas José Pancetti MACC",
+      "description": "Museu municipal dedicado à arte contemporânea, com exposições, acervo, ações educativas e programação cultural.",
+      "address": "Avenida Benjamin Constant, 1633 - Centro, Campinas - SP - CEP 13010-142",
+      "hours": "Terça a sexta, das 10h às 18h; sábado, das 10h às 16h. Domingo, segunda-feira e feriados: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-16:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://campinas.sp.gov.br/sites/macc",
+      "notes": "Última entrada até 10 minutos antes do encerramento. Grupos podem solicitar agendamento; visitação individual é livre nos horários regulares.",
+      "state": "SP",
+      "city": "Campinas",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-municipal-sjc",
+      "name": "Museu Municipal de São José dos Campos",
+      "lat": -23.184398,
+      "lng": -45.886737,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de São José dos Campos",
+      "photoQuery": "Museu Municipal São José dos Campos Praça Afonso Pena",
+      "description": "Museu municipal instalado no edifício histórico da antiga Câmara Municipal, dedicado à memória, às artes e ao patrimônio cultural de São José dos Campos.",
+      "address": "Praça Afonso Pena, 29 - Centro, São José dos Campos - SP - CEP 12210-090",
+      "hours": "Terça a sexta-feira, das 9h às 18h; sábado, das 9h às 13h. Domingo e segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-13:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://fccr.sp.gov.br/fccr/museus/museu-municipal-de-sao-jose-dos-campos",
+      "notes": "O museu integra o Circuito Cultural Central de São José dos Campos. Consulte a programação oficial para alterações em datas especiais.",
+      "state": "SP",
+      "city": "São José dos Campos",
+      "region": "Sudeste"
+    },
+    {
+      "id": "marp-ribeirao-preto",
+      "name": "MARP - Museu de Arte de Ribeirão Preto Pedro Manuel-Gismondi",
+      "lat": -21.17623842827145,
+      "lng": -47.80684590339661,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Ribeirão Preto",
+      "photoQuery": "MARP Museu de Arte de Ribeirão Preto",
+      "description": "Museu municipal dedicado às artes visuais, instalado em edifício histórico no centro de Ribeirão Preto, com exposições e programação cultural.",
+      "address": "Rua Barão do Amazonas, 323 - Centro, Ribeirão Preto - SP - CEP 14010-120",
+      "hours": "Terça a sexta-feira, das 9h30 às 12h e das 13h às 17h30. Aberturas aos sábados ocorrem em datas específicas conforme programação.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:30-12:00",
+          "13:00-17:30"
+        ],
+        "3": [
+          "09:30-12:00",
+          "13:00-17:30"
+        ],
+        "4": [
+          "09:30-12:00",
+          "13:00-17:30"
+        ],
+        "5": [
+          "09:30-12:00",
+          "13:00-17:30"
+        ],
+        "6": [],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.ribeiraopreto.sp.gov.br/portal/marp/marp",
+      "notes": "Aberturas aos sábados dependem da programação vigente e não são tratadas como horário semanal fixo. Visitas orientadas para grupos exigem agendamento.",
+      "state": "SP",
+      "city": "Ribeirão Preto",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-prudente-moraes",
+      "name": "Museu Histórico e Pedagógico Prudente de Moraes",
+      "lat": -22.7254,
+      "lng": -47.6496,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Piracicaba",
+      "photoQuery": "Museu Prudente de Moraes Piracicaba",
+      "description": "Museu instalado na antiga residência de Prudente de Moraes, dedicado à história de Piracicaba e à trajetória do primeiro presidente civil do Brasil.",
+      "address": "Rua Santo Antônio, 641 - Centro, Piracicaba - SP - CEP 13400-160",
+      "hours": "Terça a sexta-feira, das 9h às 17h; sábados e feriados, das 10h às 14h. Segunda-feira: fechado à visitação.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "10:00-14:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museuprudentedemoraes.piracicaba.sp.gov.br/",
+      "notes": "A Prefeitura informa visitação pública regular e visitas orientadas para grupos. Segunda-feira é reservada a serviços internos e pesquisas agendadas, portanto não é publicada como horário turístico.",
+      "state": "SP",
+      "city": "Piracicaba",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-monteiro-lobato-taubate",
+      "name": "Museu Histórico, Folclórico e Pedagógico Monteiro Lobato - Sítio do Picapau Amarelo",
+      "lat": -23.021920027531202,
+      "lng": -45.56493759155274,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Taubaté",
+      "photoQuery": "Museu Monteiro Lobato Sítio do Picapau Amarelo Taubaté",
+      "description": "Museu instalado no casarão histórico onde Monteiro Lobato viveu parte da infância, com exposições, área verde, atividades educativas e programação teatral.",
+      "address": "Avenida Monteiro Lobato, s/n - Chácara do Visconde, Taubaté - SP - CEP 12030-730",
+      "hours": "Terça a sexta-feira, visitação ao museu das 9h às 16h30; sábados, domingos e feriados, das 10h às 16h30. Segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-16:30"
+        ],
+        "3": [
+          "09:00-16:30"
+        ],
+        "4": [
+          "09:00-16:30"
+        ],
+        "5": [
+          "09:00-16:30"
+        ],
+        "6": [
+          "10:00-16:30"
+        ],
+        "7": [
+          "10:00-16:30"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://taubate.sp.gov.br/sitio-do-picapau-amarelo",
+      "notes": "Grupos organizados e escolas devem agendar previamente. A programação teatral pode variar ou ser substituída por outras atividades.",
+      "state": "SP",
+      "city": "Taubaté",
+      "region": "Sudeste"
+    },
+    {
+      "id": "casa-frei-galvao",
+      "name": "Casa de Frei Galvão",
+      "lat": -22.81751,
+      "lng": -45.19304,
+      "category": "Museus",
+      "org": "Civil / Guaratinguetá",
+      "photoQuery": "Casa de Frei Galvão Guaratinguetá",
+      "description": "Casa-museu dedicada à vida e à memória de Frei Galvão, primeiro santo brasileiro, e uma das principais atrações histórico-religiosas de Guaratinguetá.",
+      "address": "Rua Frei Galvão, 78 - Centro, Guaratinguetá - SP - CEP 12501-230",
+      "hours": "Diariamente, das 9h às 18h. Fechada em 25 de dezembro e 1º de janeiro.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [
+          "09:00-18:00"
+        ],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-18:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "09:00-18:00"
+        ]
+      },
+      "specialHours": {
+        "2026-12-25": [],
+        "2027-01-01": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.casadefreigalvao.com.br/",
+      "notes": "A Casa de Frei Galvão integra oficialmente os roteiros turísticos e religiosos de Guaratinguetá.",
+      "state": "SP",
+      "city": "Guaratinguetá",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-sao-carlos",
+      "name": "Museu de São Carlos",
+      "lat": -22.022483,
+      "lng": -47.895799,
+      "category": "Museus",
+      "org": "Civil / Fundação Pró-Memória de São Carlos",
+      "photoQuery": "Museu de São Carlos antiga Estação Ferroviária",
+      "description": "Museu municipal instalado na antiga Estação Ferroviária, dedicado à preservação e difusão da história, memória e cultura de São Carlos.",
+      "address": "Praça Antonio Prado, s/n - Centro, São Carlos - SP - CEP 13560-046",
+      "hours": "Quarta a sexta-feira, das 10h às 12h e das 14h às 17h; sábado, das 10h às 16h. Domingo, segunda e terça-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [],
+        "3": [
+          "10:00-12:00",
+          "14:00-17:00"
+        ],
+        "4": [
+          "10:00-12:00",
+          "14:00-17:00"
+        ],
+        "5": [
+          "10:00-12:00",
+          "14:00-17:00"
+        ],
+        "6": [
+          "10:00-16:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.promemoria.saocarlos.sp.gov.br/museudesaocarlos",
+      "notes": "Visitas mediadas e técnicas podem ser agendadas. A entrada regular é gratuita.",
+      "state": "SP",
+      "city": "São Carlos",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-paleontologia-marilia",
+      "name": "Museu de Paleontologia de Marília",
+      "lat": -22.22084,
+      "lng": -49.94829,
+      "category": "Ciência e Tecnologia",
+      "org": "Civil / Prefeitura de Marília",
+      "photoQuery": "Museu de Paleontologia de Marília dinossauros",
+      "description": "Museu dedicado à paleontologia regional, com fósseis, réplicas e recursos de realidade virtual e aumentada, reconhecido como importante atração científica e turística de Marília.",
+      "address": "Avenida Sampaio Vidal, 245 - Centro, Marília - SP - CEP 17500-020",
+      "hours": "Terça a sexta-feira, das 9h às 17h; sábado, das 13h às 17h. Feriados: consultar previamente.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "13:00-17:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://cultura.marilia.sp.gov.br/-museu-de-paleontologia/",
+      "notes": "O museu é divulgado oficialmente como equipamento turístico e científico do município. Em feriados, confirme o funcionamento antes da visita.",
+      "state": "SP",
+      "city": "Marília",
+      "region": "Sudeste"
+    },
+    {
+      "id": "muhp-francisco-blasi-botucatu",
+      "name": "MuHP - Museu Histórico e Pedagógico Francisco Blasi",
+      "lat": -22.893008274331898,
+      "lng": -48.44438552856446,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Botucatu",
+      "photoQuery": "Museu Histórico Pedagógico Francisco Blasi Botucatu",
+      "description": "Museu dedicado à história de Botucatu e região, com acervo histórico, exposições temporárias e ações educativas.",
+      "address": "Rua General Teles, 1738 - Centro, Botucatu - SP - CEP 18602-120",
+      "hours": "Terça a sábado, das 9h às 17h. Domingo e segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "09:00-17:00"
+        ],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.botucatu.sp.gov.br/",
+      "notes": "Visitas em grupo podem exigir agendamento prévio. As exposições regulares são gratuitas.",
+      "state": "SP",
+      "city": "Botucatu",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-arquivo-prudente",
+      "name": "Museu e Arquivo Histórico Prefeito Antônio Sandoval Netto",
+      "lat": -22.1166462,
+      "lng": -51.4115836,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de Presidente Prudente",
+      "photoQuery": "Museu Arquivo Histórico Antônio Sandoval Netto Presidente Prudente",
+      "description": "Museu municipal dedicado à preservação da memória de Presidente Prudente, com exposição permanente, exposições temporárias e arquivo histórico aberto à consulta.",
+      "address": "Rua Dr. João Gonçalves Foz, 2179 - Jardim das Rosas, Presidente Prudente - SP - CEP 19060-050",
+      "hours": "Terça a sexta-feira, das 8h às 12h e das 13h às 17h; sábados, domingos e feriados, das 13h às 17h. Segunda-feira: fechado.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "08:00-12:00",
+          "13:00-17:00"
+        ],
+        "3": [
+          "08:00-12:00",
+          "13:00-17:00"
+        ],
+        "4": [
+          "08:00-12:00",
+          "13:00-17:00"
+        ],
+        "5": [
+          "08:00-12:00",
+          "13:00-17:00"
+        ],
+        "6": [
+          "13:00-17:00"
+        ],
+        "7": [
+          "13:00-17:00"
+        ]
+      },
+      "specialHours": {
+        "2026-12-25": [],
+        "2027-01-01": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.presidenteprudente.sp.gov.br/site/unidade/6",
+      "notes": "A Prefeitura divulga visitação gratuita e funcionamento em fins de semana. Fechado às segundas-feiras e em 25 de dezembro e 1º de janeiro.",
+      "state": "SP",
+      "city": "Presidente Prudente",
+      "region": "Sudeste"
+    },
+    {
+      "id": "casa-das-rosas-sp",
+      "name": "Casa das Rosas",
+      "lat": -23.57063,
+      "lng": -46.64522,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Casa das Rosas Avenida Paulista",
+      "description": "Museu-casa na Avenida Paulista dedicado ao patrimônio cultural e à literatura, instalado em casarão histórico com jardim aberto ao público.",
+      "address": "Avenida Paulista, 37 - Bela Vista, São Paulo - SP - CEP 01311-902",
+      "hours": "Terça a domingo, das 10h às 17h30, com permanência até 18h. Jardim: diariamente, das 7h às 22h.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.casadasrosas.org.br/",
+      "notes": "Horário do museu separado do horário do jardim. Consulte a programação oficial para alterações excepcionais.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-afro-brasil-sp",
+      "name": "Museu Afro Brasil Emanoel Araujo",
+      "lat": -23.58717,
+      "lng": -46.65772,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu Afro Brasil Emanoel Araujo Ibirapuera",
+      "description": "Museu no Parque Ibirapuera dedicado às contribuições africanas e afro-brasileiras para a formação da sociedade e da cultura brasileiras.",
+      "address": "Avenida Pedro Álvares Cabral, s/n - Portão 10, Parque Ibirapuera, São Paulo - SP - CEP 04094-050",
+      "hours": "Terça a domingo, das 10h às 17h, com permanência até 18h.",
+      "admission": "Inteira R$ 15,00 • Meia R$ 7,50 • quartas-feiras: entrada gratuita • demais gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.museuafrobrasil.org.br/",
+      "notes": "Bilheteria/entrada regular até 17h; permanência permitida até 18h. Consulte alterações em feriados e eventos.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-culturas-indigenas-sp",
+      "name": "Museu das Culturas Indígenas",
+      "lat": -23.53052,
+      "lng": -46.67432,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu das Culturas Indígenas São Paulo Água Branca",
+      "description": "Museu dedicado às histórias, memórias, artes, saberes e produções dos povos indígenas, concebido como espaço de diálogo intercultural.",
+      "address": "Rua Dona Germaine Burchard, 451 - Água Branca, São Paulo - SP - CEP 05002-062",
+      "hours": "Terça a domingo, das 9h às 18h; quinta-feira, horário estendido até 20h.",
+      "admission": "Inteira R$ 24,00 • Meia R$ 12,00 • gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-18:00"
+        ],
+        "3": [
+          "09:00-18:00"
+        ],
+        "4": [
+          "09:00-20:00"
+        ],
+        "5": [
+          "09:00-18:00"
+        ],
+        "6": [
+          "09:00-18:00"
+        ],
+        "7": [
+          "09:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museudasculturasindigenas.org.br/",
+      "notes": "Consulte a política oficial de gratuidades e eventuais alterações de funcionamento antes da visita.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-arte-sacra-sp",
+      "name": "Museu de Arte Sacra de São Paulo",
+      "lat": -23.52943,
+      "lng": -46.63177,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu de Arte Sacra São Paulo Luz",
+      "description": "Museu instalado no Complexo da Luz, com acervo de arte sacra brasileira e internacional e coleções históricas dos séculos XVI ao XXI.",
+      "address": "Avenida Tiradentes, 676 - Luz, São Paulo - SP - CEP 01102-000",
+      "hours": "Terça a domingo, das 9h às 17h; entrada no prédio até 16h30.",
+      "admission": "Inteira R$ 6,00 • Meia R$ 3,00 • gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "09:00-17:00"
+        ],
+        "7": [
+          "09:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museuartesacra.org.br/",
+      "notes": "Acesso principal divulgado pela instituição; confirme programação e alterações excepcionais antes da visita.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "catavento-sp",
+      "name": "Museu Catavento",
+      "lat": -23.54435,
+      "lng": -46.62773,
+      "category": "Ciência e Tecnologia",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu Catavento Palácio das Indústrias São Paulo",
+      "description": "Museu de ciência e tecnologia instalado no Palácio das Indústrias, com centenas de instalações interativas sobre universo, vida, engenho e sociedade.",
+      "address": "Avenida Mercúrio, s/n - Parque Dom Pedro II, São Paulo - SP - CEP 03003-060",
+      "hours": "Terça a domingo, das 9h às 17h; bilheteria até 16h.",
+      "admission": "Inteira R$ 18,00 • Meia R$ 9,00 • terças-feiras: entrada gratuita • demais gratuidades conforme política oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "09:00-17:00"
+        ],
+        "3": [
+          "09:00-17:00"
+        ],
+        "4": [
+          "09:00-17:00"
+        ],
+        "5": [
+          "09:00-17:00"
+        ],
+        "6": [
+          "09:00-17:00"
+        ],
+        "7": [
+          "09:00-17:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museucatavento.org.br/",
+      "notes": "Bilheteria encerra às 16h. Consulte o site oficial para política de ingressos, gratuidades e alterações excepcionais.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "paco-das-artes-sp",
+      "name": "Paço das Artes",
+      "lat": -23.5393,
+      "lng": -46.6589,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Paço das Artes Higienópolis São Paulo",
+      "description": "Instituição dedicada à arte contemporânea e à produção artística e curatorial emergente.",
+      "address": "Rua Albuquerque Lins, 1345 - Higienópolis, São Paulo - SP - CEP 01230-001",
+      "hours": "Terça a sábado, das 11h às 19h; domingos e feriados, das 12h às 18h.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "11:00-19:00"
+        ],
+        "3": [
+          "11:00-19:00"
+        ],
+        "4": [
+          "11:00-19:00"
+        ],
+        "5": [
+          "11:00-19:00"
+        ],
+        "6": [
+          "11:00-19:00"
+        ],
+        "7": [
+          "12:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://pacodasartes.org.br/",
+      "notes": "Horários e gratuidade confirmados pela Secretaria da Cultura do Estado de São Paulo. Consulte alterações excepcionais antes da visita.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-diversidade-sexual-sp",
+      "name": "Museu da Diversidade Sexual",
+      "lat": -23.5437,
+      "lng": -46.6424,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu da Diversidade Sexual Estação República São Paulo",
+      "description": "Museu dedicado à preservação, pesquisa e difusão das histórias e expressões culturais relacionadas à diversidade sexual e de gênero.",
+      "address": "Estação República do Metrô - República, São Paulo - SP",
+      "hours": "Terça a domingo, das 10h às 18h.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museudadiversidadesexual.org.br/",
+      "notes": "Equipamento estadual com visitação pública regular. Consulte alterações excepcionais antes do deslocamento.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "mis-sp",
+      "name": "Museu da Imagem e do Som - MIS",
+      "lat": -23.5728,
+      "lng": -46.676,
+      "category": "Museus",
+      "org": "Civil / Governo do Estado de São Paulo",
+      "photoQuery": "Museu da Imagem e do Som MIS São Paulo Avenida Europa",
+      "description": "Museu dedicado à cultura audiovisual, com exposições, cinema, fotografia, música e programação cultural.",
+      "address": "Avenida Europa, 158 - Jardim Europa, São Paulo - SP - CEP 01449-000",
+      "hours": "Terça a sexta, das 10h às 19h; sábado, das 10h às 20h; domingos e feriados, das 10h às 18h. A permanência pode se estender por até 1h após o último horário de entrada, conforme programação.",
+      "admission": "Valor varia conforme exposição e programação. Consulte a bilheteria oficial; há políticas de gratuidade e meia-entrada.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-19:00"
+        ],
+        "3": [
+          "10:00-19:00"
+        ],
+        "4": [
+          "10:00-19:00"
+        ],
+        "5": [
+          "10:00-19:00"
+        ],
+        "6": [
+          "10:00-20:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://mis-sp.org.br/",
+      "notes": "Como os valores variam conforme a exposição, o app não fixa um preço único. Consulte a programação e a bilheteria oficial.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-iii-grupo-105-feb-barueri",
+      "name": "Espaço Cultural III Grupo 105 FEB",
+      "lat": -23.5107,
+      "lng": -46.8952,
+      "category": "Museus",
+      "org": "Exército Brasileiro",
+      "photoQuery": "Espaço Cultural III Grupo 105 FEB Barueri",
+      "description": "Espaço histórico dedicado à memória da participação brasileira na Segunda Guerra Mundial, mantido pelo Grupo Bandeirante em Barueri.",
+      "address": "Estrada Velha de Jandira, Km 29 - Jardim Belval, Barueri - SP",
+      "hours": "Visitação mediante agendamento prévio, de segunda a quinta-feira, das 10h às 11h30 e das 13h30 às 16h.",
+      "admission": "Visitação pública mediante agendamento prévio; confirme condições no contato oficial divulgado.",
+      "weeklyHours": {
+        "1": [
+          "10:00-11:30",
+          "13:30-16:00"
+        ],
+        "2": [
+          "10:00-11:30",
+          "13:30-16:00"
+        ],
+        "3": [
+          "10:00-11:30",
+          "13:30-16:00"
+        ],
+        "4": [
+          "10:00-11:30",
+          "13:30-16:00"
+        ],
+        "5": [],
+        "6": [],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://portal.barueri.sp.gov.br/",
+      "requiresBooking": true,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": true,
+      "notes": "A Prefeitura de Barueri divulga explicitamente o museu histórico do quartel como aberto à visitação mediante agendamento, para grupos com no mínimo cinco pessoas. A inclusão se baseia nessa oferta pública municipal, não apenas na relação da DPHCEx.",
+      "state": "SP",
+      "city": "Barueri",
+      "region": "Sudeste"
+    },
+    {
+      "id": "encantada-santos-dumont-sjc",
+      "name": "Encantada - Casa de Santos Dumont",
+      "lat": -23.1986,
+      "lng": -45.8976,
+      "category": "Museus",
+      "org": "Civil / Prefeitura de São José dos Campos",
+      "photoQuery": "Encantada Casa Santos Dumont São José dos Campos",
+      "description": "Réplica da residência de Santos Dumont, com referências ao pioneiro da aviação, acervo histórico, réplicas de invenções e recursos interativos.",
+      "address": "Rua Engenheiro Prudente Meireles de Morais, 1000 - Vila Adyana, São José dos Campos - SP",
+      "hours": "Terça a sexta-feira, das 8h30 às 11h30 e das 13h30 às 16h30.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "08:30-11:30",
+          "13:30-16:30"
+        ],
+        "3": [
+          "08:30-11:30",
+          "13:30-16:30"
+        ],
+        "4": [
+          "08:30-11:30",
+          "13:30-16:30"
+        ],
+        "5": [
+          "08:30-11:30",
+          "13:30-16:30"
+        ],
+        "6": [],
+        "7": []
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://www.sjc.sp.gov.br/",
+      "requiresBooking": false,
+      "notes": "A Prefeitura informa agendamento online para grupos de 10 ou mais pessoas. Visitação individual segue o horário público divulgado; grupos devem reservar previamente.",
+      "state": "SP",
+      "city": "São José dos Campos",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-musica-itu",
+      "name": "Museu da Música - Itu",
+      "lat": -23.2648,
+      "lng": -47.2994,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu da Música Itu",
+      "description": "Museu dedicado à preservação da memória musical ituana, com partituras, instrumentos e coleções relacionadas à tradição musical local.",
+      "address": "Rua Floriano Peixoto, 480 - Centro, Itu - SP",
+      "hours": "Visitação somente mediante agendamento.",
+      "admission": "Visitas gratuitas mediante agendamento.",
+      "weeklyHours": {},
+      "utcOffsetMinutes": -180,
+      "website": "https://turismo.itu.sp.gov.br/museus/",
+      "requiresBooking": true,
+      "bookingSponsoredActive": false,
+      "bookingSponsorshipExempt": true,
+      "statusMessage": "VISITAÇÃO MEDIANTE AGENDAMENTO",
+      "notes": "O portal oficial de Turismo de Itu divulga visitação gratuita somente mediante agendamento. Como não há link direto de reserva publicado no catálogo oficial consultado, o app informa a exigência sem inventar URL de agendamento.",
+      "state": "SP",
+      "city": "Itu",
+      "region": "Sudeste"
+    },
+    {
+      "id": "parque-varvito-itu",
+      "name": "Parque Geológico do Varvito",
+      "lat": -23.2529,
+      "lng": -47.3237,
+      "category": "Patrimônio Natural e Geológico",
+      "org": "Civil / Prefeitura de Itu",
+      "photoQuery": "Parque Geológico do Varvito Itu",
+      "description": "Parque geológico instalado em antiga pedreira, reconhecido pela exposição de varvito e por evidências de antiga glaciação no Sudeste da América do Sul.",
+      "address": "Rua Parque do Varvito, 400 - Parque Nossa Senhora Candelária, Itu - SP",
+      "hours": "Terça a domingo, das 8h às 16h45. Não abre em dias de chuva por motivo de segurança.",
+      "admission": "Entrada gratuita.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "08:00-16:45"
+        ],
+        "3": [
+          "08:00-16:45"
+        ],
+        "4": [
+          "08:00-16:45"
+        ],
+        "5": [
+          "08:00-16:45"
+        ],
+        "6": [
+          "08:00-16:45"
+        ],
+        "7": [
+          "08:00-16:45"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://turismo.itu.sp.gov.br/parques-naturais/",
+      "notes": "Fechamento excepcional condicionado à chuva, conforme alerta expresso do portal oficial de Turismo de Itu.",
+      "state": "SP",
+      "city": "Itu",
+      "region": "Sudeste"
+    },
+    {
+      "id": "museu-judaico-sp",
+      "name": "Museu Judaico de São Paulo",
+      "lat": -23.5482,
+      "lng": -46.6487,
+      "category": "Museus",
+      "org": "Civil",
+      "photoQuery": "Museu Judaico São Paulo Rua Martinho Prado",
+      "description": "Museu dedicado à preservação e difusão da história, memória e cultura judaicas no Brasil, instalado na antiga sinagoga Beth-El.",
+      "address": "Rua Martinho Prado, 128 - Bela Vista, São Paulo - SP",
+      "hours": "Terça a domingo, das 10h às 18h, conforme programação vigente do museu.",
+      "admission": "Ingressos e gratuidades conforme política vigente do museu. Consulte a bilheteria oficial.",
+      "weeklyHours": {
+        "1": [],
+        "2": [
+          "10:00-18:00"
+        ],
+        "3": [
+          "10:00-18:00"
+        ],
+        "4": [
+          "10:00-18:00"
+        ],
+        "5": [
+          "10:00-18:00"
+        ],
+        "6": [
+          "10:00-18:00"
+        ],
+        "7": [
+          "10:00-18:00"
+        ]
+      },
+      "utcOffsetMinutes": -180,
+      "website": "https://museujudaicosp.org.br/",
+      "notes": "Museu aberto à visitação pública regular. Valores e regras de gratuidade podem variar conforme a política vigente.",
+      "state": "SP",
+      "city": "São Paulo",
+      "region": "Sudeste"
     }
   ],
   "routes": [

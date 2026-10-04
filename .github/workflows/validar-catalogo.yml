@@ -1,0 +1,105 @@
+name: Validar catálogo cultural
+
+on:
+  push:
+    paths:
+      - 'catalog.json'
+      - '.github/workflows/validar-catalogo.yml'
+  pull_request:
+    paths:
+      - 'catalog.json'
+      - '.github/workflows/validar-catalogo.yml'
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v6
+
+      - name: Validar estrutura do catálogo
+        shell: python
+        run: |
+          import json
+          from pathlib import Path
+
+          path = Path("catalog.json")
+          data = json.loads(path.read_text(encoding="utf-8"))
+          places = data.get("places", [])
+          services = data.get("sponsorServices", [])
+
+          if not isinstance(places, list):
+              raise SystemExit("ERRO: places deve ser uma lista.")
+
+          required = ["id", "name", "lat", "lng", "category", "org", "state", "city", "region"]
+          seen = set()
+          errors = []
+
+          for index, place in enumerate(places, start=1):
+              pid = str(place.get("id", "")).strip() or f"linha-{index}"
+
+              if pid in seen:
+                  errors.append(f"ID duplicado: {pid}")
+              seen.add(pid)
+
+              for field in required:
+                  value = place.get(field)
+                  if value is None or (isinstance(value, str) and not value.strip()):
+                      errors.append(f"{pid}: campo obrigatório ausente/vazio: {field}")
+
+              lat = place.get("lat")
+              lng = place.get("lng")
+              if not isinstance(lat, (int, float)) or not (-90 <= lat <= 90):
+                  errors.append(f"{pid}: latitude inválida")
+              if not isinstance(lng, (int, float)) or not (-180 <= lng <= 180):
+                  errors.append(f"{pid}: longitude inválida")
+
+              weekly = place.get("weeklyHours", {})
+              if weekly is not None and not isinstance(weekly, dict):
+                  errors.append(f"{pid}: weeklyHours deve ser objeto")
+
+              special = place.get("specialHours", {})
+              if special is not None and not isinstance(special, dict):
+                  errors.append(f"{pid}: specialHours deve ser objeto")
+
+              if place.get("requiresBooking") is True and place.get("org") == "Civil":
+                  sponsored = place.get("bookingSponsoredActive") is True
+                  exempt = place.get("bookingSponsorshipExempt") is True
+                  admission = str(place.get("admission", "")).lower().strip()
+                  free = admission.startswith((
+                      "entrada gratuita",
+                      "visitação gratuita",
+                      "visita gratuita",
+                      "visita livre com entrada gratuita",
+                      "entrada livre",
+                      "acesso gratuito",
+                      "sem cobrança",
+                  ))
+                  # Não reprova links bloqueados; apenas impede ativação comercial acidental.
+                  if place.get("bookingUrl") and sponsored not in (True, False):
+                      errors.append(f"{pid}: bookingSponsoredActive inválido")
+
+          active_services = [
+              s.get("id") or s.get("name")
+              for s in services
+              if isinstance(s, dict) and s.get("active") is True
+          ]
+
+          if active_services:
+              errors.append(
+                  "Serviços patrocinados ativos sem liberação explícita: "
+                  + ", ".join(map(str, active_services))
+              )
+
+          if errors:
+              print("\n".join(f"- {item}" for item in errors))
+              raise SystemExit(f"Falha de validação: {len(errors)} problema(s).")
+
+          by_state = {}
+          for place in places:
+              by_state[place["state"]] = by_state.get(place["state"], 0) + 1
+
+          print(f"Catálogo válido: {len(places)} espaços.")
+          print("Por UF:", by_state)
+          print("IDs únicos:", len(seen))
+          print("Serviços patrocinados ativos: 0")
