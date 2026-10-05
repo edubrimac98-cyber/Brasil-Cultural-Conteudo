@@ -1,6 +1,6 @@
 {
-  "version": "1.2.44",
-  "build": 47,
-  "updateUrl": "https://github.com/edubrimac98-cyber/brasil-cultural/releases/download/teste-v55/app-release.apk",
-  "notes": "São Paulo consolidado: 40 atrações em 21 cidades, 4 roteiros culturais, navegação por Estado e cidade, busca e mapa com filtros dinâmicos, catálogo offline, imagens principais representativas, horários e status de visitação, ingressos e agendamentos oficiais, favoritos, Passaporte Cultural e auditoria funcional."
+  "version": "1.2.48",
+  "build": 51,
+  "updateUrl": "https://github.com/edubrimac98-cyber/brasil-cultural/releases/download/teste-v59/app-release.apk",
+  "notes": "São Paulo consolidado: 40 atrações em 21 cidades, roteiros culturais e Caminho Histórico Cultural de Defesa por Estado, navegação por Estado e cidade, busca e mapa com filtros, catálogo offline, fotos com fallback, horários e status de visitação, ingressos e agendamentos oficiais, favoritos, Passaporte Cultural, visitação demonstrativa por ano/mês/semana/dia e auditoria funcional."
 }
